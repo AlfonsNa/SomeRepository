@@ -1,0 +1,2017 @@
+[
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 1,
+        "short_effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+        "effect": "Puts the target to sleep.",
+        "move_effect_id": 2,
+        "short_effect": "Puts the target to sleep."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 3,
+        "short_effect": "Has a chance to poison the target."
+    },
+    {
+        "effect": "Inflicts regular damage half the damage inflicted to heal the user.",
+        "move_effect_id": 4,
+        "short_effect": "Drains half the damage inflicted to heal the user."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 5,
+        "short_effect": "Has a chance to burn the target."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 6,
+        "short_effect": "Has a chance to freeze the target."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 7,
+        "short_effect": "Has a chance to paralyze the target."
+    },
+    {
+        "effect": "User faint.",
+        "move_effect_id": 8,
+        "short_effect": "User faints."
+    },
+    {
+        "effect": "Fails half the damage inflicted to heal the user.",
+        "move_effect_id": 9,
+        "short_effect": "Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user."
+    },
+    {
+        "effect": "Uses the last move targeted at the user by a Pokémon still on the field.",
+        "move_effect_id": 10,
+        "short_effect": "Uses the target's last used move."
+    },
+    {
+        "effect": "Raises the user's Attack.",
+        "move_effect_id": 11,
+        "short_effect": "Raises the user's Attack by one stage."
+    },
+    {
+        "effect": "Raises the user's Defense.",
+        "move_effect_id": 12,
+        "short_effect": "Raises the user's Defense by one stage."
+    },
+    {
+        "effect": "Raises the user's Special Attack.",
+        "move_effect_id": 14,
+        "short_effect": "Raises the user's Special Attack by one stage."
+    },
+    {
+        "effect": "Raises the user's evasion.",
+        "move_effect_id": 17,
+        "short_effect": "Raises the user's evasion by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage modifiers.",
+        "move_effect_id": 18,
+        "short_effect": "Never misses."
+    },
+    {
+        "effect": "Lowers the target's Attack.",
+        "move_effect_id": 19,
+        "short_effect": "Lowers the target's Attack by one stage."
+    },
+    {
+        "effect": "Lowers the target's Defense.",
+        "move_effect_id": 20,
+        "short_effect": "Lowers the target's Defense by one stage."
+    },
+    {
+        "effect": "Lowers the target's Speed.",
+        "move_effect_id": 21,
+        "short_effect": "Lowers the target's Speed by one stage."
+    },
+    {
+        "effect": "Lowers the target's accuracy.",
+        "move_effect_id": 24,
+        "short_effect": "Lowers the target's accuracy by one stage."
+    },
+    {
+        "effect": "Lowers the target's evasion.",
+        "move_effect_id": 25,
+        "short_effect": "Lowers the target's evasion by one stage."
+    },
+    {
+        "effect": "Removes stat.",
+        "move_effect_id": 26,
+        "short_effect": "Resets all Pokémon's stats, accuracy, and evasion."
+    },
+    {
+        "effect": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is typeless.",
+        "move_effect_id": 27,
+        "short_effect": "User waits for two turns, then hits back for twice the damage it took."
+    },
+    {
+        "effect": "Inflicts regular damage from this move.",
+        "move_effect_id": 28,
+        "short_effect": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+        "effect": "Switch.",
+        "move_effect_id": 29,
+        "short_effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+        "effect": "Inflicts regular damage.  Hits 2–5 times in one turn. Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+        "move_effect_id": 30,
+        "short_effect": "Hits 2-5 times in one turn."
+    },
+    {
+        "effect": "User's type.",
+        "move_effect_id": 31,
+        "short_effect": "User's type changes to the type of one of its moves at random."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 32,
+        "short_effect": "Has a chance to make the target flinch."
+    },
+    {
+        "effect": "Heals the user for half its max HP.",
+        "move_effect_id": 33,
+        "short_effect": "Heals the user by half its max HP."
+    },
+    {
+        "effect": "Badly poisons-type Pokémon.",
+        "move_effect_id": 34,
+        "short_effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+        "effect": "Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used.",
+        "move_effect_id": 35,
+        "short_effect": "Scatters money on the ground worth five times the user's level."
+    },
+    {
+        "effect": "Erects a barrier around the user's side of the field that reduces damage from special used by an opponent will destroy the barrier.",
+        "move_effect_id": 36,
+        "short_effect": "Reduces damage from special attacks by 50% for five turns."
+    },
+    {
+        "effect": "Inflicts regular damage the target.  One of these effects is selected at random; they do not each have independent chances to occur.",
+        "move_effect_id": 37,
+        "short_effect": "Has a chance to burn the target."
+    },
+    {
+        "effect": "User falls to sleep.  It also fails if the Pokémon is at full health or is already asleep.",
+        "move_effect_id": 38,
+        "short_effect": "User sleeps for two turns, completely healing itself."
+    },
+    {
+        "effect": "Inflicts damage equal to the target's max HP.",
+        "move_effect_id": 39,
+        "short_effect": "Causes a one-hit KO."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 40,
+        "short_effect": "Requires a turn to charge before attacking."
+    },
+    {
+        "effect": "Inflicts typeless.",
+        "move_effect_id": 41,
+        "short_effect": "Inflicts damage equal to half the target's HP."
+    },
+    {
+        "effect": "Inflicts exactly 40 damage.",
+        "move_effect_id": 42,
+        "short_effect": "Inflicts 40 points of damage."
+    },
+    {
+        "effect": "Inflicts regular damage cancels this effect.",
+        "move_effect_id": 43,
+        "short_effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+        "effect": "Inflicts regular damage rate is one level higher when using this move.",
+        "move_effect_id": 44,
+        "short_effect": "Has an increased chance for a critical hit."
+    },
+    {
+        "effect": "Inflicts regular damage.  Hits twice in one turn.",
+        "move_effect_id": 45,
+        "short_effect": "Hits twice in one turn."
+    },
+    {
+        "effect": "Inflicts regular damage is in effect.",
+        "move_effect_id": 46,
+        "short_effect": "If the user misses, it takes half the damage it would have inflicted in recoil."
+    },
+    {
+        "effect": "Pokémon on the user's side of the field used by an opponent will end this effect.",
+        "move_effect_id": 47,
+        "short_effect": "Protects the user's stats from being changed by enemy moves."
+    },
+    {
+        "effect": "User's critical hit.",
+        "move_effect_id": 48,
+        "short_effect": "Increases the user's chance to score a critical hit."
+    },
+    {
+        "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+        "move_effect_id": 49,
+        "short_effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+        "effect": "Confuses the target.",
+        "move_effect_id": 50,
+        "short_effect": "Confuses the target."
+    },
+    {
+        "effect": "Raises the user's Attack.",
+        "move_effect_id": 51,
+        "short_effect": "Raises the user's Attack by two stages."
+    },
+    {
+        "effect": "Raises the user's Defense.",
+        "move_effect_id": 52,
+        "short_effect": "Raises the user's Defense by two stages."
+    },
+    {
+        "effect": "Raises the user's Speed.",
+        "move_effect_id": 53,
+        "short_effect": "Raises the user's Speed by two stages."
+    },
+    {
+        "effect": "Raises the user's Special Attack.",
+        "move_effect_id": 54,
+        "short_effect": "Raises the user's Special Attack by two stages."
+    },
+    {
+        "effect": "Raises the user's Special Defense.",
+        "move_effect_id": 55,
+        "short_effect": "Raises the user's Special Defense by two stages."
+    },
+    {
+        "effect": "User copies the target's species, weight, type, ability.",
+        "move_effect_id": 58,
+        "short_effect": "User becomes a copy of the target until it leaves battle."
+    },
+    {
+        "effect": "Lowers the target's Attack.",
+        "move_effect_id": 59,
+        "short_effect": "Lowers the target's Attack by two stages."
+    },
+    {
+        "effect": "Lowers the target's Defense.",
+        "move_effect_id": 60,
+        "short_effect": "Lowers the target's Defense by two stages."
+    },
+    {
+        "effect": "Lowers the target's Speed.",
+        "move_effect_id": 61,
+        "short_effect": "Lowers the target's Speed by two stages."
+    },
+    {
+        "effect": "Lowers the target's Special Attack by two stages.",
+        "move_effect_id": 62,
+        "short_effect": "Lowers the target's Special Attack by two stages."
+    },
+    {
+        "effect": "Lowers the target's Special Defense.",
+        "move_effect_id": 63,
+        "short_effect": "Lowers the target's Special Defense by two stages."
+    },
+    {
+        "effect": "Erects a barrier around the user's side of the field that reduces damage from physical used by an opponent will destroy the barrier.",
+        "move_effect_id": 66,
+        "short_effect": "Reduces damage from physical attacks by half."
+    },
+    {
+        "effect": "Poisons the target.",
+        "move_effect_id": 67,
+        "short_effect": "Poisons the target."
+    },
+    {
+        "effect": "Paralyzes the target.",
+        "move_effect_id": 68,
+        "short_effect": "Paralyzes the target."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 69,
+        "short_effect": "Has a chance to lower the target's Attack by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 70,
+        "short_effect": "Has a chance to lower the target's Defense by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 71,
+        "short_effect": "Has a chance to lower the target's Speed by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 72,
+        "short_effect": "Has a chance to lower the target's Special Attack by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 73,
+        "short_effect": "Has a chance to lower the target's Special Defense by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 74,
+        "short_effect": "Has a chance to lower the target's accuracy by one stage."
+    },
+    {
+        "effect": "XXX new effect for mystical-fire",
+        "move_effect_id": 75,
+        "short_effect": "XXX new effect for mystical-fire"
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 76,
+        "short_effect": "User charges for one turn before attacking.  Has a chance to make the target flinch."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 77,
+        "short_effect": "Has a chance to confuse the target."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 78,
+        "short_effect": "Hits twice in the same turn.  Has a chance to poison the target."
+    },
+    {
+        "effect": "Inflicts regular damage modifiers.",
+        "move_effect_id": 79,
+        "short_effect": "Never misses."
+    },
+    {
+        "effect": "Transfers 1/4 the user's max HP, but uses the replacement Pokémon's stats and types for damage calculation.\n\nAll other effects work as normal.",
+        "move_effect_id": 80,
+        "short_effect": "Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks."
+    },
+    {
+        "effect": "Inflicts regular damage out during that turn.",
+        "move_effect_id": 81,
+        "short_effect": "User foregoes its next turn to recharge."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 82,
+        "short_effect": "If the user is hit after using this move, its Attack rises by one stage."
+    },
+    {
+        "effect": "This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed.",
+        "move_effect_id": 83,
+        "short_effect": "Copies the target's last used move."
+    },
+    {
+        "effect": "Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, .",
+        "move_effect_id": 84,
+        "short_effect": "Randomly selects and uses any move in the game."
+    },
+    {
+        "effect": "Plants a seed on the target that drains.",
+        "move_effect_id": 85,
+        "short_effect": "Seeds the target, stealing HP from it every turn."
+    },
+    {
+        "effect": "Does nothing.\n\nThis move cannot be used while  is in effect.",
+        "move_effect_id": 86,
+        "short_effect": "Does nothing."
+    },
+    {
+        "effect": "Disables the target's last used move, preventing its use for 4–7 turns, selected at random, or until the target leaves the field,  if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail.",
+        "move_effect_id": 87,
+        "short_effect": "Disables the target's last used move for 1-8 turns."
+    },
+    {
+        "effect": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
+        "move_effect_id": 88,
+        "short_effect": "Inflicts damage equal to the user's level."
+    },
+    {
+        "effect": "Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%.",
+        "move_effect_id": 89,
+        "short_effect": "Inflicts damage between 50% and 150% of the user's level."
+    },
+    {
+        "effect": "Targets the last opposing Pokémon to hit the user with a physical.",
+        "move_effect_id": 90,
+        "short_effect": "Inflicts twice the damage the user received from the last physical hit it took."
+    },
+    {
+        "effect": "The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, , this move will fail.",
+        "move_effect_id": 91,
+        "short_effect": "Forces the target to repeat its last used move every turn for 2 to 6 turns."
+    },
+    {
+        "effect": "Changes the user's and target's remaining HP.",
+        "move_effect_id": 92,
+        "short_effect": "Sets the user's and targets's HP to the average of their current HP."
+    },
+    {
+        "effect": "Only usable if the user is sleep.",
+        "move_effect_id": 93,
+        "short_effect": "Has a chance to make the target flinch.  Only works if the user is sleeping."
+    },
+    {
+        "effect": "Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type, this move will fail.",
+        "move_effect_id": 94,
+        "short_effect": "Changes the user's type to a random type either resistant or immune to the last move used against it."
+    },
+    {
+        "effect": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy.",
+        "move_effect_id": 95,
+        "short_effect": "Ensures that the user's next move will hit the target."
+    },
+    {
+        "effect": "Permanently replaces itself with the target's last used move.  If that move is .",
+        "move_effect_id": 96,
+        "short_effect": "Permanently becomes the target's last used move."
+    },
+    {
+        "effect": "Only usable if the user is sleep.",
+        "move_effect_id": 98,
+        "short_effect": "Randomly uses one of the user's other three moves.  Only works if the user is sleeping."
+    },
+    {
+        "effect": "If the user faints.",
+        "move_effect_id": 99,
+        "short_effect": "If the user faints this turn, the target automatically will, too."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 100,
+        "short_effect": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+    },
+    {
+        "effect": "Lowers the PP of the target's last used move by 4.  If the target hasn't used a move since entering the field, or if its last used move has 0 PP remaining, this move will fail.",
+        "move_effect_id": 101,
+        "short_effect": "Lowers the PP of the target's last used move by 4."
+    },
+    {
+        "effect": "Inflicts regular damage below 1.",
+        "move_effect_id": 102,
+        "short_effect": "Cannot lower the target's HP below 1."
+    },
+    {
+        "effect": "Removes major status effects from every Pokémon in the user's party.",
+        "move_effect_id": 103,
+        "short_effect": "Cures the entire party of major status effects."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 104,
+        "short_effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+        "effect": "Inflicts regular damage does not apply.",
+        "move_effect_id": 105,
+        "short_effect": "Hits three times, increasing power by 100% with each successful hit."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 106,
+        "short_effect": "Takes the target's item."
+    },
+    {
+        "effect": "The target cannot switch out.",
+        "move_effect_id": 107,
+        "short_effect": "Prevents the target from leaving battle."
+    },
+    {
+        "effect": "Only works on sleep, this effect ends.",
+        "move_effect_id": 108,
+        "short_effect": "Target loses 1/4 its max HP every turn as long as it's asleep."
+    },
+    {
+        "effect": "Raises the user's evasion.",
+        "move_effect_id": 109,
+        "short_effect": "Raises the user's evasion by two stages."
+    },
+    {
+        "effect": "If the user is a .",
+        "move_effect_id": 110,
+        "short_effect": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense."
+    },
+    {
+        "effect": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.",
+        "move_effect_id": 112,
+        "short_effect": "Prevents any moves from hitting the user this turn."
+    },
+    {
+        "effect": "Scatters spikes around the opposing field.",
+        "move_effect_id": 113,
+        "short_effect": "Scatters Spikes, hurting opposing Pokémon that switch in."
+    },
+    {
+        "effect": "Resets the target's evasion modifiers.",
+        "move_effect_id": 114,
+        "short_effect": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost."
+    },
+    {
+        "effect": "Every Pokémon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pokémon's counter reaches zero, that Pokémon faint.",
+        "move_effect_id": 115,
+        "short_effect": "User and target both faint after three turns."
+    },
+    {
+        "effect": "Changes the weather to a sandstorm for five turns.  Pokémon that are not .",
+        "move_effect_id": 116,
+        "short_effect": "Changes the weather to a sandstorm for five turns."
+    },
+    {
+        "effect": "The user's HP.",
+        "move_effect_id": 117,
+        "short_effect": "Prevents the user's HP from lowering below 1 this turn."
+    },
+    {
+        "effect": "Inflicts regular damage since entering the field, this move has double power.",
+        "move_effect_id": 118,
+        "short_effect": "Power doubles every turn this move is used in succession after the first, resetting after five turns."
+    },
+    {
+        "effect": "Raises the target's Attack is not applied.",
+        "move_effect_id": 119,
+        "short_effect": "Raises the target's Attack by two stages and confuses the target."
+    },
+    {
+        "effect": "Inflicts regular damage, power resets.",
+        "move_effect_id": 120,
+        "short_effect": "Power doubles every turn this move is used in succession after the first, maxing out after five turns."
+    },
+    {
+        "effect": "Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will fail, this effect ends.",
+        "move_effect_id": 121,
+        "short_effect": "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user."
+    },
+    {
+        "effect": "Inflicts regular damage, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+        "move_effect_id": 122,
+        "short_effect": "Power increases with happiness, up to a maximum of 102."
+    },
+    {
+        "effect": "Randomly uses one of the following effects.",
+        "move_effect_id": 123,
+        "short_effect": "Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP."
+    },
+    {
+        "effect": "Inflicts regular damage, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+        "move_effect_id": 124,
+        "short_effect": "Power increases as happiness decreases, up to a maximum of 102."
+    },
+    {
+        "effect": "Protects Pokémon on the user's side of the field.",
+        "move_effect_id": 125,
+        "short_effect": "Protects the user's field from major status ailments and confusion for five turns."
+    },
+    {
+        "effect": "Inflicts regular damage Pokémon may use this move, in which case they will thaw.",
+        "move_effect_id": 126,
+        "short_effect": "Has a chance to burn the target.  Lets frozen Pokémon thaw themselves."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 127,
+        "short_effect": "Power varies randomly from 10 to 150."
+    },
+    {
+        "effect": "User switches out; the doll's HP is unchanged\n\nThe replacement Pokémon does not trigger effects that respond to Pokémon switching in.",
+        "move_effect_id": 128,
+        "short_effect": "Allows the trainer to switch out the user and pass effects along to its replacement."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 129,
+        "short_effect": "Has double power against, and can hit, Pokémon attempting to switch out."
+    },
+    {
+        "effect": "Inflicts regular damage, its effect doesn't activate.",
+        "move_effect_id": 130,
+        "short_effect": "Frees the user from binding moves, removes Leech Seed, and blows away Spikes."
+    },
+    {
+        "effect": "Inflicts exactly 20 damage.",
+        "move_effect_id": 131,
+        "short_effect": "Inflicts 20 points of damage."
+    },
+    {
+        "effect": "Heals the user for half its max HP.",
+        "move_effect_id": 133,
+        "short_effect": "Heals the user by half its max HP.  Affected by weather."
+    },
+    {
+        "effect": "Inflicts regular damage only 1/64 of the time.",
+        "move_effect_id": 136,
+        "short_effect": "Power and type depend upon user's IVs.  Power can range from 30 to 70."
+    },
+    {
+        "effect": "Changes the weather to rain for five turns, during which  at the end of each turn.",
+        "move_effect_id": 137,
+        "short_effect": "Changes the weather to rain for five turns."
+    },
+    {
+        "effect": "Changes the weather to sunshine for five turns, during which  at the end of each turn.",
+        "move_effect_id": 138,
+        "short_effect": "Changes the weather to sunny for five turns."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 139,
+        "short_effect": "Has a chance to raise the user's Defense by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 140,
+        "short_effect": "Has a chance to raise the user's Attack by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 141,
+        "short_effect": "Has a chance to raise all of the user's stats by one stage."
+    },
+    {
+        "effect": "User pays half its max HP.",
+        "move_effect_id": 143,
+        "short_effect": "User pays half its max HP to max out its Attack."
+    },
+    {
+        "effect": "Discards the user's stat changes.",
+        "move_effect_id": 144,
+        "short_effect": "Discards the user's stat changes and copies the target's."
+    },
+    {
+        "effect": "Targets the last opposing Pokémon to hit the user with a special.",
+        "move_effect_id": 145,
+        "short_effect": "Inflicts twice the damage the user received from the last special hit it took."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 146,
+        "short_effect": "Raises the user's Defense by one stage.  User charges for one turn before attacking."
+    },
+    {
+        "effect": "Inflicts regular damage, this move will hit with double power.",
+        "move_effect_id": 147,
+        "short_effect": "Has a chance to make the target flinch."
+    },
+    {
+        "effect": "Inflicts regular damage, this move will hit with double power.",
+        "move_effect_id": 148,
+        "short_effect": "Inflicts regular damage and can hit Dig users."
+    },
+    {
+        "effect": "Inflicts typeless.",
+        "move_effect_id": 149,
+        "short_effect": "Hits the target two turns later."
+    },
+    {
+        "effect": "Inflicts regular damage, this move will hit with double power.",
+        "move_effect_id": 150,
+        "short_effect": "Inflicts regular damage and can hit Pokémon in the air."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 151,
+        "short_effect": "Has a chance to make the target flinch."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 152,
+        "short_effect": "Requires a turn to charge before attacking."
+    },
+    {
+        "effect": "Inflicts regular damage, this move has 50% accuracy.",
+        "move_effect_id": 153,
+        "short_effect": "Has a chance to paralyze the target."
+    },
+    {
+        "effect": "Does nothing.  Wild battles end immediately.",
+        "move_effect_id": 154,
+        "short_effect": "Immediately ends wild battles.  No effect otherwise."
+    },
+    {
+        "effect": "Inflicts typeless.",
+        "move_effect_id": 155,
+        "short_effect": "Hits once for every conscious Pokémon the trainer has."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 156,
+        "short_effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+        "effect": "Raises user's Defense.",
+        "move_effect_id": 157,
+        "short_effect": "Raises user's Defense by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 159,
+        "short_effect": "Can only be used as the first move after the user enters battle.  Causes the target to flinch."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 160,
+        "short_effect": "Forced to use this move for several turns.  Pokémon cannot fall asleep in that time."
+    },
+    {
+        "effect": "Raises the user's Defense, the stat boosts are passed as normal, but the stored energy is not.",
+        "move_effect_id": 161,
+        "short_effect": "Stores energy up to three times for use with Spit Up and Swallow."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 162,
+        "short_effect": "Power is 100 times the amount of energy Stockpiled."
+    },
+    {
+        "effect": "Heals the user depending on the amount of energy stored by .",
+        "move_effect_id": 163,
+        "short_effect": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles."
+    },
+    {
+        "effect": "Changes the weather to hail for five turns, during which non- are exempt from this effect's damage.",
+        "move_effect_id": 165,
+        "short_effect": "Changes the weather to a hailstorm for five turns."
+    },
+    {
+        "effect": "Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn.",
+        "move_effect_id": 166,
+        "short_effect": "Prevents the target from using the same move twice in a row."
+    },
+    {
+        "effect": "Raises the target's Special Attack it.",
+        "move_effect_id": 167,
+        "short_effect": "Raises the target's Special Attack by one stage and confuses the target."
+    },
+    {
+        "effect": "Burns the target.",
+        "move_effect_id": 168,
+        "short_effect": "Burns the target."
+    },
+    {
+        "effect": "Lowers the target's Attack.  User faints.",
+        "move_effect_id": 169,
+        "short_effect": "Lowers the target's Attack and Special Attack by two stages.  User faints."
+    },
+    {
+        "effect": "Inflicts regular damage, this move has double power.",
+        "move_effect_id": 170,
+        "short_effect": "Power doubles if user is burned, paralyzed, or poisoned."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 171,
+        "short_effect": "If the user takes damage before attacking, the attack is canceled."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 172,
+        "short_effect": "If the target is paralyzed, inflicts double damage and cures the paralysis."
+    },
+    {
+        "effect": "Until the end of this turn, any moves that opposing Pokémon target solely at the user's ally will instead target the user.  If both Pokémon on the same side of the field.",
+        "move_effect_id": 173,
+        "short_effect": "Redirects the target's single-target effects to the user for this turn."
+    },
+    {
+        "effect": "Uses another move chosen according to the terrain.",
+        "move_effect_id": 174,
+        "short_effect": "Uses a move which depends upon the terrain."
+    },
+    {
+        "effect": "Raises the user's Special Defense move next turn, its power will be doubled.",
+        "move_effect_id": 175,
+        "short_effect": "Raises the user's Special Defense by one stage.  User's Electric moves have doubled power next turn."
+    },
+    {
+        "effect": "Target is forced to only use damaging moves for the next 3–5 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.\n\n are allowed.",
+        "move_effect_id": 176,
+        "short_effect": "For the next few turns, the target can only use damaging moves."
+    },
+    {
+        "effect": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by .",
+        "move_effect_id": 177,
+        "short_effect": "Ally's next move inflicts half more damage."
+    },
+    {
+        "effect": "User and target permanently swap held item.",
+        "move_effect_id": 178,
+        "short_effect": "User and target swap items."
+    },
+    {
+        "effect": "User's ability is replaced with the target's until the user leaves the field.",
+        "move_effect_id": 179,
+        "short_effect": "Copies the target's ability."
+    },
+    {
+        "effect": "At the end of the next turn, user will be healed for half its max HP, this effect will not activate.",
+        "move_effect_id": 180,
+        "short_effect": "User will recover half its max HP at the end of the next turn."
+    },
+    {
+        "effect": "Uses a move from another Pokémon in the user's party, both selected at random.  Moves from fainted Pokémon can be used.  If there are no eligible Pokémon or moves, this move will fail.",
+        "move_effect_id": 181,
+        "short_effect": "Randomly selects and uses one of the trainer's other Pokémon's moves."
+    },
+    {
+        "effect": "Prevents the user from switching out.",
+        "move_effect_id": 182,
+        "short_effect": "Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn."
+    },
+    {
+        "effect": "Inflicts regular damage each.",
+        "move_effect_id": 183,
+        "short_effect": "Lowers the user's Attack and Defense by one stage after inflicting damage."
+    },
+    {
+        "effect": "The first non-damaging move targeting the user this turn that inflicts major status effect.",
+        "move_effect_id": 184,
+        "short_effect": "Reflects back the first effect move used on the user this turn."
+    },
+    {
+        "effect": "User recovers the last item consumed by the user or a Pokémon in its position on the field may not be recovered.",
+        "move_effect_id": 185,
+        "short_effect": "User recovers the item it last used up."
+    },
+    {
+        "effect": "Inflicts regular damage does not count as damaging the user.",
+        "move_effect_id": 186,
+        "short_effect": "Inflicts double damage if the user takes damage before attacking this turn."
+    },
+    {
+        "effect": "Destroys any .",
+        "move_effect_id": 187,
+        "short_effect": "Destroys Reflect and Light Screen."
+    },
+    {
+        "effect": "Puts the target to sleep on use.",
+        "move_effect_id": 188,
+        "short_effect": "Target sleeps at the end of the next turn."
+    },
+    {
+        "effect": "Inflicts regular damage, it will take damage but not lose its item.",
+        "move_effect_id": 189,
+        "short_effect": "Target drops its held item."
+    },
+    {
+        "effect": "Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage.",
+        "move_effect_id": 190,
+        "short_effect": "Lowers the target's HP to equal the user's."
+    },
+    {
+        "effect": "Inflicts regular damage and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP.",
+        "move_effect_id": 191,
+        "short_effect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+    },
+    {
+        "effect": "User and target switch abilities.  Ignores accuracy.",
+        "move_effect_id": 192,
+        "short_effect": "User and target swap abilities."
+    },
+    {
+        "effect": "Prevents any Pokémon on the opposing side of the field.",
+        "move_effect_id": 193,
+        "short_effect": "Prevents the target from using any moves that the user also knows."
+    },
+    {
+        "effect": "Removes a burn from the user.",
+        "move_effect_id": 194,
+        "short_effect": "Cleanses the user of a burn, paralysis, or poison."
+    },
+    {
+        "effect": "If the user faint dropped to 0.  End-of-turn damage does not trigger this effect.",
+        "move_effect_id": 195,
+        "short_effect": "If the user faints this turn, the PP of the move that fainted it drops to 0."
+    },
+    {
+        "effect": "The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the \"snatchable\" flag.\n\nIf two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial move, and the slower Pokémon will then steal it again—thus, only the slowest Pokémon using this move ultimately gains a stolen move's effect.\n\nIf the user steals .",
+        "move_effect_id": 196,
+        "short_effect": "Steals the target's move, if it's self-targeted."
+    },
+    {
+        "effect": "Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.",
+        "move_effect_id": 197,
+        "short_effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+    },
+    {
+        "effect": "Inflicts regular damage",
+        "move_effect_id": 198,
+        "short_effect": "Has a chance to inflict a status effect which depends upon the terrain."
+    },
+    {
+        "effect": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+        "move_effect_id": 199,
+        "short_effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+        "effect": "Confuses all targets.",
+        "move_effect_id": 200,
+        "short_effect": "Confuses the target."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 201,
+        "short_effect": "Has an increased chance for a critical hit and a chance to burn the target."
+    },
+    {
+        "effect": ", this effect ends.",
+        "move_effect_id": 202,
+        "short_effect": "Halves all Electric-type damage."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 203,
+        "short_effect": "Has a chance to badly poison the target."
+    },
+    {
+        "effect": "Inflicts regular damage is typeless for the purposes of this move.",
+        "move_effect_id": 204,
+        "short_effect": "If there be weather, this move has doubled power and the weather's type."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 205,
+        "short_effect": "Lowers the user's Special Attack by two stages after inflicting damage."
+    },
+    {
+        "effect": "Lowers the target's Attack.",
+        "move_effect_id": 206,
+        "short_effect": "Lowers the target's Attack and Defense by one stage."
+    },
+    {
+        "effect": "Raises the user's Defense.",
+        "move_effect_id": 207,
+        "short_effect": "Raises the user's Defense and Special Defense by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 208,
+        "short_effect": "Inflicts regular damage and can hit Bounce and Fly users."
+    },
+    {
+        "effect": "Raises the user's Attack each.",
+        "move_effect_id": 209,
+        "short_effect": "Raises the user's Attack and Defense by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 210,
+        "short_effect": "Has an increased chance for a critical hit and a chance to poison the target."
+    },
+    {
+        "effect": ", this effect ends.",
+        "move_effect_id": 211,
+        "short_effect": "Halves all Fire-type damage."
+    },
+    {
+        "effect": "Raises the user's Special Attack each.",
+        "move_effect_id": 212,
+        "short_effect": "Raises the user's Special Attack and Special Defense by one stage."
+    },
+    {
+        "effect": "Raises the user's Attack each.",
+        "move_effect_id": 213,
+        "short_effect": "Raises the user's Attack and Speed by one stage."
+    },
+    {
+        "effect": "User's type changes according to the terrain.",
+        "move_effect_id": 214,
+        "short_effect": "User's type changes to match the terrain."
+    },
+    {
+        "effect": "Heals the user for half its max HP type is ignored until the end of this turn.",
+        "move_effect_id": 215,
+        "short_effect": "Heals the user by half its max HP."
+    },
+    {
+        "effect": "For five turns (including this one), all immunities to , Sky Drop's effect is not correctly canceled on its target, and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it.",
+        "move_effect_id": 216,
+        "short_effect": "Disables moves and immunities that involve flying or levitating for five turns."
+    },
+    {
+        "effect": "Resets the target's evasion modifiers.",
+        "move_effect_id": 217,
+        "short_effect": "Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it's Dark."
+    },
+    {
+        "effect": "Inflicts regular damageing, this move has double power, and the target wakes up.",
+        "move_effect_id": 218,
+        "short_effect": "If the target is asleep, has double power and wakes it up."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 219,
+        "short_effect": "Lowers user's Speed by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150.",
+        "move_effect_id": 220,
+        "short_effect": "Power raises when the user has lower Speed, up to a maximum of 150."
+    },
+    {
+        "effect": "User faints.  Its replacement's HP is removed.  If the replacement Pokémon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead.",
+        "move_effect_id": 221,
+        "short_effect": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
+    },
+    {
+        "effect": "Inflicts regular damage remaining, this move has double power.",
+        "move_effect_id": 222,
+        "short_effect": "Has double power against Pokémon that have less than half their max HP remaining."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 223,
+        "short_effect": "Power and type depend on the held berry."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 224,
+        "short_effect": "Hits through Protect and Detect."
+    },
+    {
+        "effect": "Inflicts regular damage and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+        "move_effect_id": 225,
+        "short_effect": "If target has a berry, inflicts double damage and uses the berry."
+    },
+    {
+        "effect": "For the next three turns, all Pokémon on the user's side of the field.",
+        "move_effect_id": 226,
+        "short_effect": "For three turns, friendly Pokémon have doubled Speed."
+    },
+    {
+        "effect": "Raises one of the target's stats by two stages.",
+        "move_effect_id": 227,
+        "short_effect": "Raises one of a friendly Pokémon's stats at random by two stages."
+    },
+    {
+        "effect": "Targets the last opposing Pokémon to hit the user with a damaging move this turn.  Inflicts 1.5× the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.",
+        "move_effect_id": 228,
+        "short_effect": "Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage."
+    },
+    {
+        "effect": "Inflicts regular damage's effect will end.",
+        "move_effect_id": 229,
+        "short_effect": "User must switch out after attacking."
+    },
+    {
+        "effect": "Inflicts regular damage each.",
+        "move_effect_id": 230,
+        "short_effect": "Lowers the user's Defense and Special Defense by one stage after inflicting damage."
+    },
+    {
+        "effect": "Inflicts regular damage this turn before this move is used, this move has double power.",
+        "move_effect_id": 231,
+        "short_effect": "Power is doubled if the target has already moved this turn."
+    },
+    {
+        "effect": "Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power.",
+        "move_effect_id": 232,
+        "short_effect": "Power is doubled if the target has already received damage this turn."
+    },
+    {
+        "effect": "Target cannot use its held item for five turns.  If the target leaves the field.",
+        "move_effect_id": 233,
+        "short_effect": "Target cannot use held items."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 234,
+        "short_effect": "Throws held item at the target; power depends on the item."
+    },
+    {
+        "effect": "If the user has a major status effect and the target does not, the user's status is transferred to the target.",
+        "move_effect_id": 235,
+        "short_effect": "Transfers the user's major status effect to the target."
+    },
+    {
+        "effect": "Inflicts regular damage is used to calculate power.",
+        "move_effect_id": 236,
+        "short_effect": "Power increases when this move has less PP, up to a maximum of 200."
+    },
+    {
+        "effect": "For the next five turns, the target may not use any moves that only restore HP may still be used, but will only inflict damage and not heal the target.",
+        "move_effect_id": 237,
+        "short_effect": "Prevents target from restoring its HP for five turns."
+    },
+    {
+        "effect": "Inflicts regular damage, given by `1 + 120 * current HP / max HP`, to a maximum of 121.",
+        "move_effect_id": 238,
+        "short_effect": "Power increases against targets with more HP remaining, up to a maximum of 121 power."
+    },
+    {
+        "effect": "The user's original Attack.",
+        "move_effect_id": 239,
+        "short_effect": "User swaps Attack and Defense."
+    },
+    {
+        "effect": "The target's ability is disabled as long as it remains on the field.",
+        "move_effect_id": 240,
+        "short_effect": "Nullifies target's ability until it leaves battle."
+    },
+    {
+        "effect": "For five turns, opposing Pokémon cannot score critical hits.",
+        "move_effect_id": 241,
+        "short_effect": "Prevents the target from scoring critical hits for five turns."
+    },
+    {
+        "effect": "If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.\n\nIf the target moves before the user, this move will fail.",
+        "move_effect_id": 242,
+        "short_effect": "Uses the target's move against it before it attacks, with power increased by half."
+    },
+    {
+        "effect": "Uses the last move that was used successfully by any Pokémon, including the user.\n\nThis move cannot copy itself, nor .",
+        "move_effect_id": 243,
+        "short_effect": "Uses the target's last used move."
+    },
+    {
+        "effect": "User swaps its Attack modifiers with the target.",
+        "move_effect_id": 244,
+        "short_effect": "User swaps Attack and Special Attack changes with the target."
+    },
+    {
+        "effect": "User swaps its Defense modifiers with the target.",
+        "move_effect_id": 245,
+        "short_effect": "User swaps Defense and Special Defense changes with the target."
+    },
+    {
+        "effect": "Inflicts regular damage modifiers do not increase this move's power.",
+        "move_effect_id": 246,
+        "short_effect": "Power increases against targets with more raised stats, up to a maximum of 200."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 247,
+        "short_effect": "Can only be used after all of the user's other moves have been used."
+    },
+    {
+        "effect": "Changes the target's ability to .",
+        "move_effect_id": 248,
+        "short_effect": "Changes the target's ability to Insomnia."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 249,
+        "short_effect": "Only works if the target is about to use a damaging move."
+    },
+    {
+        "effect": "Scatters poisoned spikes around the opposing field are not affected by this effect.",
+        "move_effect_id": 250,
+        "short_effect": "Scatters poisoned spikes, poisoning opposing Pokémon that switch in."
+    },
+    {
+        "effect": "User swaps its stat modifiers with the target.",
+        "move_effect_id": 251,
+        "short_effect": "User and target swap stat changes."
+    },
+    {
+        "effect": "Restores 1/16 of the user's max HP.",
+        "move_effect_id": 252,
+        "short_effect": "Restores 1/16 of the user's max HP each turn."
+    },
+    {
+        "effect": "For five turns, the user is immune to .",
+        "move_effect_id": 253,
+        "short_effect": "User is immune to Ground moves and effects for five turns."
+    },
+    {
+        "effect": "Inflicts regular damage Pokémon may use this move, in which case they will thaw.",
+        "move_effect_id": 254,
+        "short_effect": "User takes 1/3 the damage inflicted in recoil.  Has a chance to burn the target."
+    },
+    {
+        "effect": "Inflicts typeless.",
+        "move_effect_id": 255,
+        "short_effect": "User takes 1/4 its max HP in recoil."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 256,
+        "short_effect": "User dives underwater, dodging all attacks, and hits next turn."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 257,
+        "short_effect": "User digs underground, dodging all attacks, and hits next turn."
+    },
+    {
+        "effect": "Inflicts regular damage, this move will hit with double power.",
+        "move_effect_id": 258,
+        "short_effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+        "effect": "Lowers the target's evasion change, then be removed by this move.",
+        "move_effect_id": 259,
+        "short_effect": "Lowers the target's evasion by one stage.  Removes field effects from the enemy field."
+    },
+    {
+        "effect": "For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPokémon holding  ignore this effect.",
+        "move_effect_id": 260,
+        "short_effect": "For five turns, slower Pokémon will act before faster Pokémon."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 261,
+        "short_effect": "Has a chance to freeze the target."
+    },
+    {
+        "effect": "Inflicts regular damage, this move will hit with double power.",
+        "move_effect_id": 262,
+        "short_effect": "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 263,
+        "short_effect": "User takes 1/3 the damage inflicted in recoil.  Has a chance to paralyze the target."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 264,
+        "short_effect": "User bounces high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+        "effect": "Lowers the target's Special Attack.",
+        "move_effect_id": 266,
+        "short_effect": "Lowers the target's Special Attack by two stages if it's the opposite gender."
+    },
+    {
+        "effect": "Spreads sharp rocks around the opposing field.",
+        "move_effect_id": 267,
+        "short_effect": "Causes damage when opposing Pokémon switch in."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 268,
+        "short_effect": "Has a higher chance to confuse the target when the recorded sound is louder."
+    },
+    {
+        "effect": "Inflicts regular damage; however, Techno Blast is only affected by drives, and Judgment is only affected by plates.",
+        "move_effect_id": 269,
+        "short_effect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it."
+    },
+    {
+        "effect": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.",
+        "move_effect_id": 270,
+        "short_effect": "User receives 1/2 the damage inflicted in recoil."
+    },
+    {
+        "effect": "User faint is removed.",
+        "move_effect_id": 271,
+        "short_effect": "User faints, and its replacement is fully healed."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 272,
+        "short_effect": "Has a chance to lower the target's Special Defense by two stages."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 273,
+        "short_effect": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 274,
+        "short_effect": "Has a chance to burn the target and a chance to make the target flinch."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 275,
+        "short_effect": "Has a chance to freeze the target and a chance to make the target flinch."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 276,
+        "short_effect": "Has a chance to paralyze the target and a chance to make the target flinch."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 277,
+        "short_effect": "Has a chance to raise the user's Special Attack by one stage."
+    },
+    {
+        "effect": "Raises the user's Attack.",
+        "move_effect_id": 278,
+        "short_effect": "Raises the user's Attack and accuracy by one stage."
+    },
+    {
+        "effect": "Moves with multiple targets will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will fail.",
+        "move_effect_id": 279,
+        "short_effect": "Prevents any multi-target moves from hitting friendly Pokémon this turn."
+    },
+    {
+        "effect": "Averages the user's unmodified Defense is averaged the same way.",
+        "move_effect_id": 280,
+        "short_effect": "Averages Defense and Special Defense with the target."
+    },
+    {
+        "effect": "Averages the user's unmodified Attack.",
+        "move_effect_id": 281,
+        "short_effect": "Averages Attack and Special Attack with the target."
+    },
+    {
+        "effect": "For five turns (including this one), every Pokémon's Defense are swapped.",
+        "move_effect_id": 282,
+        "short_effect": "All Pokémon's Defense and Special Defense are swapped for 5 turns."
+    },
+    {
+        "effect": "Inflicts regular damage, regardless of this move's damage class.",
+        "move_effect_id": 283,
+        "short_effect": "Inflicts damage based on the target's Defense, not Special Defense."
+    },
+    {
+        "effect": "Inflicts regular damage, this move has double power.",
+        "move_effect_id": 284,
+        "short_effect": "Inflicts double damage if the target is Poisoned."
+    },
+    {
+        "effect": "Raises the user's Speed.  Halves the user's weight; this effect does not stack.",
+        "move_effect_id": 285,
+        "short_effect": "Raises the user's Speed by two stages and halves the user's weight."
+    },
+    {
+        "effect": "For three turns (including this one), moves used against the target have 100% accuracy.",
+        "move_effect_id": 286,
+        "short_effect": "Moves have 100% accuracy against the target for three turns."
+    },
+    {
+        "effect": "For five turns (including this one), passive effects of held items are ignored, and Pokémon will not use their held items.",
+        "move_effect_id": 287,
+        "short_effect": "Negates held items for five turns."
+    },
+    {
+        "effect": "Inflicts regular damage, and ends the effect of Bounce or Fly.",
+        "move_effect_id": 288,
+        "short_effect": "Removes any immunity to Ground damage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 289,
+        "short_effect": "Always scores a critical hit."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 290,
+        "short_effect": "Deals splash damage to Pokémon next to the target."
+    },
+    {
+        "effect": "Raises the user's Special Attack each.",
+        "move_effect_id": 291,
+        "short_effect": "Raises the user's Special Attack, Special Defense, and Speed by one stage each."
+    },
+    {
+        "effect": "Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.\n\nUser's weight                    | Power\n-------------------------------- | ----:\nUp to 2× the target's weight     |    40\nUp to 3× the target's weight     |    60\nUp to 4× the target's weight     |    80\nUp to 5× the target's weight     |   100\nMore than 5× the target's weight |   120",
+        "move_effect_id": 292,
+        "short_effect": "Power is higher when the user weighs more than the target, up to a maximum of 120."
+    },
+    {
+        "effect": "Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.",
+        "move_effect_id": 293,
+        "short_effect": "Hits any Pokémon that shares a type with the user."
+    },
+    {
+        "effect": "Inflicts regular damage compared to the target's, the higher power this move has, to a maximum of 150.\n\nUser's Speed                     | Power\n-------------------------------- | ----:\nUp to 2× the target's Speed      |    60\nUp to 3× the target's Speed      |    80\nUp to 4× the target's Speed      |   120\nMore than 4× the target's Speed  |   150",
+        "move_effect_id": 294,
+        "short_effect": "Power is higher when the user has greater Speed than the target, up to a maximum of 150."
+    },
+    {
+        "effect": "Changes the target to pure .",
+        "move_effect_id": 295,
+        "short_effect": "Changes the target's type to Water."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 296,
+        "short_effect": "Inflicts regular damage.  Raises the user's Speed by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 297,
+        "short_effect": "Lowers the target's Special Defense by two stages."
+    },
+    {
+        "effect": "Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.",
+        "move_effect_id": 298,
+        "short_effect": "Calculates damage with the target's attacking stat."
+    },
+    {
+        "effect": "Changes the target's ability to .",
+        "move_effect_id": 299,
+        "short_effect": "Changes the target's ability to Simple."
+    },
+    {
+        "effect": "Changes the target's ability to match the user's.  This effect ends when the target leaves battle.",
+        "move_effect_id": 300,
+        "short_effect": "Copies the user's ability onto the target."
+    },
+    {
+        "effect": "The target will act next this turn, regardless of Speed.",
+        "move_effect_id": 301,
+        "short_effect": "Makes the target act next this turn."
+    },
+    {
+        "effect": "Inflicts regular damage or priority.  Pokémon using other moves will then continue to act as usual.",
+        "move_effect_id": 302,
+        "short_effect": "Has double power if it's used more than once per turn."
+    },
+    {
+        "effect": "Inflicts regular damage.  If any friendly Pokémon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200.",
+        "move_effect_id": 303,
+        "short_effect": "Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 304,
+        "short_effect": "Ignores the target's stat modifiers."
+    },
+    {
+        "effect": "Inflicts regular damage are reset to zero.",
+        "move_effect_id": 305,
+        "short_effect": "Removes all of the target's stat modifiers."
+    },
+    {
+        "effect": "Inflicts regular damage, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×.",
+        "move_effect_id": 306,
+        "short_effect": "Power is higher the more the user's stats have been raised, to a maximum of 31×."
+    },
+    {
+        "effect": "Moves with priority greater than 0 will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will fail.",
+        "move_effect_id": 307,
+        "short_effect": "Prevents any priority moves from hitting friendly Pokémon this turn."
+    },
+    {
+        "effect": "User switches position on the field with the friendly Pokémon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pokémon, this move will fail.",
+        "move_effect_id": 308,
+        "short_effect": "User switches places with the friendly Pokémon opposite it."
+    },
+    {
+        "effect": "Raises the user's Attack each.",
+        "move_effect_id": 309,
+        "short_effect": "Raises user's Attack, Special Attack, and Speed by two stages.  Lower user's Defense and Special Defense by one stage."
+    },
+    {
+        "effect": "Heals the target for half its max HP.",
+        "move_effect_id": 310,
+        "short_effect": "Heals the target for half its max HP."
+    },
+    {
+        "effect": "Inflicts regular damage, this move has double power.",
+        "move_effect_id": 311,
+        "short_effect": "Has double power if the target has a major status ailment."
+    },
+    {
+        "effect": "Inflicts regular damage is used during a double or triple battle while this move is in effect, this move is not correctly canceled on the target, and it remains high in the air indefinitely.  As this move prevents the target from acting, the only way to subsequently remove it from the field is to faint it.",
+        "move_effect_id": 312,
+        "short_effect": "Carries the target high into the air, dodging all attacks against either, and drops it next turn."
+    },
+    {
+        "effect": "Raises the user's Attack by two stages.",
+        "move_effect_id": 313,
+        "short_effect": "Raises the user's Attack by one stage and its Speed by two stages."
+    },
+    {
+        "effect": "Inflicts regular damage, or its Trainer has no more usable Pokémon, it will not be switched out.  If the target is a wild Pokémon, the battle ends instead.",
+        "move_effect_id": 314,
+        "short_effect": "Ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+        "effect": "Inflicts regular damage, it's destroyed and cannot be used in response to this move.",
+        "move_effect_id": 315,
+        "short_effect": "Destroys the target's held berry."
+    },
+    {
+        "effect": "Forces the target to act last this turn, regardless of Speed.",
+        "move_effect_id": 316,
+        "short_effect": "Makes the target act last this turn."
+    },
+    {
+        "effect": "Raises the user's Attack, raises both stats by two stages.",
+        "move_effect_id": 317,
+        "short_effect": "Raises the user's Attack and Special Attack by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage, this move has double power.",
+        "move_effect_id": 318,
+        "short_effect": "Has double power if the user has no held item."
+    },
+    {
+        "effect": "User's type changes to match the target's.",
+        "move_effect_id": 319,
+        "short_effect": "User becomes the target's type."
+    },
+    {
+        "effect": "Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn, this move has double power.",
+        "move_effect_id": 320,
+        "short_effect": "Has double power if a friendly Pokémon fainted last turn."
+    },
+    {
+        "effect": "Inflicts damage equal to the user's remaining HP.  User faints.",
+        "move_effect_id": 321,
+        "short_effect": "Inflicts damage equal to the user's remaining HP.  User faints."
+    },
+    {
+        "effect": "Raises the user's Special Attack.",
+        "move_effect_id": 322,
+        "short_effect": "Raises the user's Special Attack by three stages."
+    },
+    {
+        "effect": "Raises the user's Attack each.",
+        "move_effect_id": 323,
+        "short_effect": "Raises the user's Attack, Defense, and accuracy by one stage each."
+    },
+    {
+        "effect": "Transfers the user's held item.",
+        "move_effect_id": 324,
+        "short_effect": "Gives the user's held item to the target."
+    },
+    {
+        "effect": "Inflicts regular damage for four turns (including this one).",
+        "move_effect_id": 325,
+        "short_effect": "With Grass Pledge, halves opposing Pokémon's Speed for four turns."
+    },
+    {
+        "effect": "Inflicts regular damage earlier this turn, moves used by any friendly Pokémon have doubled effect chance for four turns (including this one).",
+        "move_effect_id": 326,
+        "short_effect": "With Water Pledge, doubles the effect chance of friendly Pokémon's moves for four turns."
+    },
+    {
+        "effect": "Inflicts regular damage in damage at the end of every turn for four turns (including this one).",
+        "move_effect_id": 327,
+        "short_effect": "With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns."
+    },
+    {
+        "effect": "Raises the user's Attack each.",
+        "move_effect_id": 328,
+        "short_effect": "Raises the user's Attack and Special Attack by one stage each."
+    },
+    {
+        "effect": "Raises the user's Defense.",
+        "move_effect_id": 329,
+        "short_effect": "Raises the user's Defense by three stages."
+    },
+    {
+        "effect": "Inflicts regular damage, it will toggle between Aria and Pirouette Forme.",
+        "move_effect_id": 330,
+        "short_effect": "Has a chance to put the target to sleep."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 331,
+        "short_effect": "Lowers the target's Speed by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage the target.  User charges for one turn before attacking.",
+        "move_effect_id": 332,
+        "short_effect": "Requires a turn to charge before attacking.  Has a chance to paralyze the target."
+    },
+    {
+        "effect": "Inflicts regular damage the target.  User charges for one turn before attacking.",
+        "move_effect_id": 333,
+        "short_effect": "Requires a turn to charge before attacking.  Has a chance to burn the target."
+    },
+    {
+        "effect": "Inflicts regular damage, this move has 50% accuracy.",
+        "move_effect_id": 334,
+        "short_effect": "Has a chance to confuse the target."
+    },
+    {
+        "effect": "Inflicts regular damage each.",
+        "move_effect_id": 335,
+        "short_effect": "Lowers the user's Defense, Special Defense, and Speed by one stage each."
+    },
+    {
+        "effect": "Inflicts regular damage earlier this turn, this move has double power.",
+        "move_effect_id": 336,
+        "short_effect": "With Fusion Bolt, inflicts double damage."
+    },
+    {
+        "effect": "Inflicts regular damage earlier this turn, this move has double power.",
+        "move_effect_id": 337,
+        "short_effect": "With Fusion Flare, inflicts double damage."
+    },
+    {
+        "effect": "Inflicts regular damage.  For the purposes of type effectiveness, this move is both  since entering battle, this move has double power and will never miss.",
+        "move_effect_id": 338,
+        "short_effect": "Deals both -type damage."
+    },
+    {
+        "effect": "Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.\n\nAfter the user eats a berry, it may use this move any number of times until the end of the battle, even if it switches out.  Eating a held berry, eating a berry via  will not.\n\nIf the trainer chooses this move when it cannot be used, the choice is rejected outright and the trainer must choose another move.",
+        "move_effect_id": 339,
+        "short_effect": "Can only be used after the user has eaten a berry."
+    },
+    {
+        "effect": "Raises the Attack and Special Attack of all  Pokémon in battle.",
+        "move_effect_id": 340,
+        "short_effect": "Raises the Attack and Special Attack of all  Pokémon in battle."
+    },
+    {
+        "effect": "Shoots a web over the opponents' side of the field, which lowers the Speed of any opposing Pokémon that enters the field by one stage.\n\nPokémon in the air, such as  removes it from both sides.",
+        "move_effect_id": 341,
+        "short_effect": "Covers the opposing field, lowering opponents' Speed by one stage upon switching in."
+    },
+    {
+        "effect": "Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target.",
+        "move_effect_id": 342,
+        "short_effect": "Raises the user's Attack by two stages if it KOs the target."
+    },
+    {
+        "effect": "Adds  to the target's types.",
+        "move_effect_id": 343,
+        "short_effect": "Adds  to the target's types."
+    },
+    {
+        "effect": "Lowers the target's Attack and Special Attack by one stage.",
+        "move_effect_id": 344,
+        "short_effect": "Lowers the target's Attack and Special Attack by one stage."
+    },
+    {
+        "effect": "Changes all Pokémon's  moves for the rest of the turn.",
+        "move_effect_id": 345,
+        "short_effect": "Changes all  moves for the rest of the turn."
+    },
+    {
+        "effect": "Heals the user for half the total damage dealt to all targets.",
+        "move_effect_id": 346,
+        "short_effect": "Heals the user for half the total damage dealt to all targets."
+    },
+    {
+        "effect": "Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out.",
+        "move_effect_id": 347,
+        "short_effect": "Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out."
+    },
+    {
+        "effect": "Inverts the target's stat modifiers.",
+        "move_effect_id": 348,
+        "short_effect": "Inverts the target's stat modifiers."
+    },
+    {
+        "effect": "Deals regular damage.  Drains 75% of the damage inflicted to heal the user.",
+        "move_effect_id": 349,
+        "short_effect": "Drains 75% of the damage inflicted to heal the user."
+    },
+    {
+        "effect": "Protects all friendly Pokémon from non-damaging moves for the rest of the turn.\n\nUnlike other blocking moves, this move may be used consecutively without its chance of success falling.",
+        "move_effect_id": 350,
+        "short_effect": "Protects all friendly Pokémon from non-damaging moves."
+    },
+    {
+        "effect": "Raises the Defense of all  Pokémon in battle.",
+        "move_effect_id": 351,
+        "short_effect": "Raises the Defense of all  Pokémon in battle."
+    },
+    {
+        "effect": "For five turns, heals all Pokémon on the ground for 1/16 their max HP each turn and strengthens their .",
+        "move_effect_id": 352,
+        "short_effect": "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their  moves to 1.5× their power."
+    },
+    {
+        "effect": "For five turns, protects all Pokémon on the ground from major status ailments and confusion and weakens .",
+        "move_effect_id": 353,
+        "short_effect": "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming  moves."
+    },
+    {
+        "effect": "Changes the target's move's type to  if it hasn't moved yet this turn.",
+        "move_effect_id": 354,
+        "short_effect": "Changes the target's move's type to  if it hasn't moved yet this turn."
+    },
+    {
+        "effect": "Prevents all Pokémon from fleeing or switching out during the next turn.",
+        "move_effect_id": 355,
+        "short_effect": "Prevents all Pokémon from fleeing or switching out during the next turn."
+    },
+    {
+        "effect": "Blocks damaging attacks and lowers attacking Pokémon's Attack by two stages on contact.  Switches Aegislash to Shield Forme.",
+        "move_effect_id": 356,
+        "short_effect": "Blocks damaging attacks and lowers attacking Pokémon's Attack by two stages on contact.  Switches Aegislash to Shield Forme."
+    },
+    {
+        "effect": "Lowers the target's Attack.",
+        "move_effect_id": 357,
+        "short_effect": "Lowers the target's Attack by one stage."
+    },
+    {
+        "effect": "Lowers the target's Special Attack by one stage.",
+        "move_effect_id": 358,
+        "short_effect": "Lowers the target's Special Attack by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.  Has a chance to raise the user's Defense by two stages for each target hit.",
+        "move_effect_id": 359,
+        "short_effect": "Has a chance to raise the user's Defense by two stages for each target hit."
+    },
+    {
+        "effect": "Inflicts regular damage.  Bypasses and removes any protection effect on the target.",
+        "move_effect_id": 360,
+        "short_effect": "Ignores and destroys protection effects."
+    },
+    {
+        "effect": "Inflicts regular damage.  Hits 2–5 times.",
+        "move_effect_id": 361,
+        "short_effect": "Hits 2–5 times."
+    },
+    {
+        "effect": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.",
+        "move_effect_id": 362,
+        "short_effect": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP."
+    },
+    {
+        "effect": "Raises a selected ally's Special Defense by one stage.",
+        "move_effect_id": 363,
+        "short_effect": "Raises a selected ally's Special Defense by one stage."
+    },
+    {
+        "effect": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned.",
+        "move_effect_id": 364,
+        "short_effect": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+    },
+    {
+        "effect": "Lowers the target's Attack by one stage.",
+        "move_effect_id": 365,
+        "short_effect": "Lowers the target's Attack by one stage."
+    },
+    {
+        "effect": "Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages.",
+        "move_effect_id": 366,
+        "short_effect": "Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages."
+    },
+    {
+        "effect": "Raises the Defense and Special Defense of all friendly Pokémon with  by one stage.",
+        "move_effect_id": 367,
+        "short_effect": "Raises the Defense and Special Defense of all friendly Pokémon with  by one stage."
+    },
+    {
+        "effect": "Doubles prize money.\n\nStacks with a held item.  Only works once per battle.",
+        "move_effect_id": 368,
+        "short_effect": "Doubles prize money."
+    },
+    {
+        "effect": "For five turns, prevents all Pokémon on the ground from sleeping and strengthens their .",
+        "move_effect_id": 369,
+        "short_effect": "For five turns, prevents all Pokémon on the ground from sleeping and strengthens their  moves to 1.5× their power."
+    },
+    {
+        "effect": "Does nothing.",
+        "move_effect_id": 370,
+        "short_effect": "Does nothing."
+    },
+    {
+        "effect": "Does nothing.",
+        "move_effect_id": 371,
+        "short_effect": "Does nothing."
+    },
+    {
+        "effect": "Inflicts regular damage the target.",
+        "move_effect_id": 372,
+        "short_effect": "Has a chance to paralyze the target."
+    },
+    {
+        "effect": "Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of -type Pokémon.",
+        "move_effect_id": 373,
+        "short_effect": "Grounds the target, and hits even Flying-type or levitating Pokémon."
+    },
+    {
+        "effect": "Inflicts regular damage.  Traps the target.",
+        "move_effect_id": 374,
+        "short_effect": "Prevents the target from leaving battle."
+    },
+    {
+        "effect": "Inflicts regular damage.  Raises the user's Attack by one stage.",
+        "move_effect_id": 375,
+        "short_effect": "Raises the user's Attack by one stage after inflicting damage."
+    },
+    {
+        "effect": "Adds  to the target's types.",
+        "move_effect_id": 376,
+        "short_effect": "Adds  to the target's types."
+    },
+    {
+        "effect": "Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.",
+        "move_effect_id": 377,
+        "short_effect": "Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out."
+    },
+    {
+        "effect": "Explodes if the target uses a  move this turn, damaging it for 1/4 its max HP and preventing the move.",
+        "move_effect_id": 378,
+        "short_effect": "Explodes if the target uses a  move this turn, damaging it for 1/4 its max HP and preventing the move."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 379,
+        "short_effect": "Inflicts regular damage."
+    },
+    {
+        "effect": "Inflicts regular damage type.\n\nThe target's other type will affect damage as usual.  If this move's type is changed, it remains super-effective against Water regardless of its type.",
+        "move_effect_id": 380,
+        "short_effect": "Super-effective against ."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 381,
+        "short_effect": "Never misses."
+    },
+    {
+        "effect": "Heals the user for ½ its max HP.  During a , the healing is increased to ⅔.",
+        "move_effect_id": 382,
+        "short_effect": "Heals the user for ½ its max HP, or ⅔ during a sandstorm."
+    },
+    {
+        "effect": "Inflicts regular damage. Can only be used on the user's first turn after entering the field.",
+        "move_effect_id": 383,
+        "short_effect": "Can only be used as the first move after the user enters battle."
+    },
+    {
+        "effect": "Grants the user protection for the rest of the turn.  If a Pokémon attempts to use a move that makes contact with the user, that Pokémon will be poisoned.  This move's chance of success halves every time it's used consecutively with any other protection move.",
+        "move_effect_id": 384,
+        "short_effect": "Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it."
+    },
+    {
+        "effect": "Inflicts regular damage.  Traps the target.",
+        "move_effect_id": 385,
+        "short_effect": "Traps the target."
+    },
+    {
+        "effect": "Inflicts regular damage.  If the target has a burn and takes damage from this move, its burn is healed.",
+        "move_effect_id": 386,
+        "short_effect": "Cures the target of burns."
+    },
+    {
+        "effect": "Heals the target for ½ its max HP.  If  is in effect, heals for ⅔ instead.",
+        "move_effect_id": 387,
+        "short_effect": "Heals the target for ½ its max HP, or ⅔ on Grassy Terrain."
+    },
+    {
+        "effect": "Lowers the target's Attack by one stage.  Heals the user by the target's current Attack, including modifiers, but not including this move's Attack-lowering effect.\n\nIf the target's Attack is already at -6, this move will fail.  In any other situation that would prevent a stat modification, the healing will still succeed.",
+        "move_effect_id": 388,
+        "short_effect": "Heals the user by the target's current Attack stat and lowers the target's Attack by one stage."
+    },
+    {
+        "effect": "For the duration of the turn, if the target is also a valid target for a move used by one of its opponents, that move will target it instead.",
+        "move_effect_id": 389,
+        "short_effect": "Forces the target's opponents to aim at the target for the rest of the turn."
+    },
+    {
+        "effect": "Poisons the target and lowers its Speed by one stage.",
+        "move_effect_id": 390,
+        "short_effect": "Poisons the target and lowers its Speed by one stage."
+    },
+    {
+        "effect": "The user's next move will result in a critical hit.",
+        "move_effect_id": 391,
+        "short_effect": "Guarantees a critical hit with the user's next move."
+    },
+    {
+        "effect": "Raises the Attack and Special Attack of all friendly Pokémon with  by one stage.",
+        "move_effect_id": 392,
+        "short_effect": "Raises the Attack and Special Attack of all friendly Pokémon with  by one stage."
+    },
+    {
+        "effect": "Inflicts regular damage.  Silences the target for two turns, preventing it from using any sound-based moves.",
+        "move_effect_id": 393,
+        "short_effect": "Prevents the target from using sound-based moves for two turns."
+    },
+    {
+        "effect": "If the target is an opponent, inflicts regular damage.  If the target is an ally, heals the target for 50% of its max HP.",
+        "move_effect_id": 394,
+        "short_effect": "Damages opponents, but heals allies for 50% of their max HP."
+    },
+    {
+        "effect": "Changes the terrain to Psychic Terrain for 5 turns.  Overrides -type move, that move's power is increased to 1.5×.\n\nIf a Pokémon is holding a Terrain Extender when creating Psychic Terrain (by any means), the effect lasts for 8 turns instead of 5.",
+        "move_effect_id": 395,
+        "short_effect": "Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 396,
+        "short_effect": "Lowers the target's Attack by one stage after inflicting damage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 397,
+        "short_effect": "Lowers the target's Defense by one stage after inflicting damage."
+    },
+    {
+        "effect": "Inflicts regular damage-type, this move will fail.",
+        "move_effect_id": 398,
+        "short_effect": "Removes the user's  type after inflicting damage."
+    },
+    {
+        "effect": "Exchanges the original Speed stats of the user and target.",
+        "move_effect_id": 399,
+        "short_effect": "Exchanges the user's Speed with the target's."
+    },
+    {
+        "effect": "Cures the target of its major status ailment and heals the user for 50% of its max HP.  If the target has no major status ailment, this move will fail.",
+        "move_effect_id": 400,
+        "short_effect": "Cures the target of a major status ailment and heals the user for 50% of its max HP."
+    },
+    {
+        "effect": "Inflicts regular damage.  This move's type matches the user's first type, if any; otherwise, it's typeless.",
+        "move_effect_id": 401,
+        "short_effect": "Has the same type as the user."
+    },
+    {
+        "effect": "Inflicts regular damage.  If the target has already moved this turn, its ability is nullified.",
+        "move_effect_id": 402,
+        "short_effect": "Nullifies the target's ability if it moves earlier."
+    },
+    {
+        "effect": "The target immediately uses its most recently-used move.  This is independent of the target's normal action for the turn (i.e., it may end up moving twice), but otherwise functions as usual, including deduction of PP.  This effect works for disabled moves and ignores .",
+        "move_effect_id": 403,
+        "short_effect": "Forces the target to repeat its last used move."
+    },
+    {
+        "effect": "Begins charging at the start of the turn, then attacks as normal.  Any Pokémon that makes contact with the user while charging is burned.  The charging is not affected by accuracy, sleep, paralysis, or any other effect that would interfere with a move.",
+        "move_effect_id": 404,
+        "short_effect": "Inflicts a burn on any Pokémon that makes contact before the attack."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 405,
+        "short_effect": "Lowers the user's Defense by one stage after inflicting damage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 406,
+        "short_effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+        "effect": "Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not  dealt to an affected Pokémon is reduced by ½.  (If there are multiple Pokémon on the affected field, the reduction is ⅓.)",
+        "move_effect_id": 407,
+        "short_effect": "Reduces damage five turns, but must be used during hail."
+    },
+    {
+        "effect": "Inflicts regular damage.  If the user was not yet hit by an opponent's physical move this turn, this move will fail.",
+        "move_effect_id": 408,
+        "short_effect": "Only inflicts damage if the user was hit by a physical move this turn."
+    },
+    {
+        "effect": "Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message \"But it failed!\") or was ineffective due to types.",
+        "move_effect_id": 409,
+        "short_effect": "Has double power if the user's last move failed."
+    },
+    {
+        "effect": "Steals the target's stat increases, then inflicts regular damage.  Will not steal stat increases that would put any of the user's stats at more than +6; any excess is left on the target.  Stolen increases are affected by abilities as normal.",
+        "move_effect_id": 410,
+        "short_effect": "Steals the target's stat increases, then inflicts damage."
+    },
+    {
+        "effect": "Inflicts regular damage",
+        "move_effect_id": 411,
+        "short_effect": "Cannot be disrupted by abilities."
+    },
+    {
+        "effect": "Lowers the target's Attack by one stage each.",
+        "move_effect_id": 412,
+        "short_effect": "Lowers the target's Attack and Special Attack by one stage."
+    },
+    {
+        "effect": "Inflicts direct damage equal to ¾ of the target's remaining HP.",
+        "move_effect_id": 413,
+        "short_effect": "Damages the target for 75% of its remaining HP."
+    },
+    {
+        "effect": "Raises the user's Attack each.",
+        "move_effect_id": 414,
+        "short_effect": "Raises all of the user's stats by two stages."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 415,
+        "short_effect": "Changes the terrain to Psychic Terrain after inflicting damage."
+    },
+    {
+        "effect": "Inflicts regular damage.",
+        "move_effect_id": 10001,
+        "short_effect": "Has an increased chance for a critical hit in Hyper Mode."
+    },
+    {
+        "effect": "Inflicts regular damage in recoil.",
+        "move_effect_id": 10002,
+        "short_effect": "User receives 1/2 its HP in recoil."
+    },
+    {
+        "effect": "Halves HP out during that turn.",
+        "move_effect_id": 10003,
+        "short_effect": "Halves HP of all Pokémon on the field.  Must recharge"
+    },
+    {
+        "effect": "Lowers the target's evasion.",
+        "move_effect_id": 10004,
+        "short_effect": "Lowers the target's evasion by two stages."
+    },
+    {
+        "effect": "Removes the effects of .",
+        "move_effect_id": 10005,
+        "short_effect": "Removes Light Screen."
+    },
+    {
+        "effect": "Changes the weather to Shadow Sky for five turns.  Pokémon other than .",
+        "move_effect_id": 10006,
+        "short_effect": "Changes the weather to Shadow Sky for five turns."
+    }
+]

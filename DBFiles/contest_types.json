@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "identifier": "cool",
+        "color": "#FFEB7B35"
+    },
+    {
+        "id": 2,
+        "identifier": "beauty",
+        "color": "#FF7E92DD"
+    },
+    {
+        "id": 3,
+        "identifier": "cute",
+        "color": "#FFEB5A8C"
+    },
+    {
+        "id": 4,
+        "identifier": "smart",
+        "color": "#FF5FCC46"
+    },
+    {
+        "id": 5,
+        "identifier": "tough",
+        "color": "#FFF3C104"
+    },
+	{
+        "id": 0,
+        "identifier": "-",
+        "color": "#00FFFFFF"
+    }
+]

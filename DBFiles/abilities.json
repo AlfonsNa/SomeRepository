@@ -1,0 +1,1162 @@
+[
+    {
+        "generation_id": 3,
+        "id": 1,
+        "identifier": "Stench "
+    },
+    {
+        "generation_id": 3,
+        "id": 2,
+        "identifier": "Drizzle "
+    },
+    {
+        "generation_id": 3,
+        "id": 3,
+        "identifier": "Speed Boost "
+    },
+    {
+        "generation_id": 3,
+        "id": 4,
+        "identifier": "Battle Armor "
+    },
+    {
+        "generation_id": 3,
+        "id": 5,
+        "identifier": "Sturdy "
+    },
+    {
+        "generation_id": 3,
+        "id": 6,
+        "identifier": "Damp "
+    },
+    {
+        "generation_id": 3,
+        "id": 7,
+        "identifier": "Limber "
+    },
+    {
+        "generation_id": 3,
+        "id": 8,
+        "identifier": "Sand Veil "
+    },
+    {
+        "generation_id": 3,
+        "id": 9,
+        "identifier": "Static "
+    },
+    {
+        "generation_id": 3,
+        "id": 10,
+        "identifier": "Volt Absorb "
+    },
+    {
+        "generation_id": 3,
+        "id": 11,
+        "identifier": "Water Absorb "
+    },
+    {
+        "generation_id": 3,
+        "id": 12,
+        "identifier": "Oblivious "
+    },
+    {
+        "generation_id": 3,
+        "id": 13,
+        "identifier": "Cloud Nine "
+    },
+    {
+        "generation_id": 3,
+        "id": 14,
+        "identifier": "Compound Eyes "
+    },
+    {
+        "generation_id": 3,
+        "id": 15,
+        "identifier": "Insomnia "
+    },
+    {
+        "generation_id": 3,
+        "id": 16,
+        "identifier": "Color Change "
+    },
+    {
+        "generation_id": 3,
+        "id": 17,
+        "identifier": "Immunity "
+    },
+    {
+        "generation_id": 3,
+        "id": 18,
+        "identifier": "Flash Fire "
+    },
+    {
+        "generation_id": 3,
+        "id": 19,
+        "identifier": "Shield Dust "
+    },
+    {
+        "generation_id": 3,
+        "id": 20,
+        "identifier": "Own Tempo "
+    },
+    {
+        "generation_id": 3,
+        "id": 21,
+        "identifier": "Suction Cups "
+    },
+    {
+        "generation_id": 3,
+        "id": 22,
+        "identifier": "Intimidate "
+    },
+    {
+        "generation_id": 3,
+        "id": 23,
+        "identifier": "Shadow Tag "
+    },
+    {
+        "generation_id": 3,
+        "id": 24,
+        "identifier": "Rough Skin "
+    },
+    {
+        "generation_id": 3,
+        "id": 25,
+        "identifier": "Wonder Guard "
+    },
+    {
+        "generation_id": 3,
+        "id": 26,
+        "identifier": "Levitate "
+    },
+    {
+        "generation_id": 3,
+        "id": 27,
+        "identifier": "Effect Spore "
+    },
+    {
+        "generation_id": 3,
+        "id": 28,
+        "identifier": "Synchronize "
+    },
+    {
+        "generation_id": 3,
+        "id": 29,
+        "identifier": "Clear Body "
+    },
+    {
+        "generation_id": 3,
+        "id": 30,
+        "identifier": "Natural Cure "
+    },
+    {
+        "generation_id": 3,
+        "id": 31,
+        "identifier": "Lightning Rod "
+    },
+    {
+        "generation_id": 3,
+        "id": 32,
+        "identifier": "Serene Grace "
+    },
+    {
+        "generation_id": 3,
+        "id": 33,
+        "identifier": "Swift Swim "
+    },
+    {
+        "generation_id": 3,
+        "id": 34,
+        "identifier": "Chlorophyll "
+    },
+    {
+        "generation_id": 3,
+        "id": 35,
+        "identifier": "Illuminate "
+    },
+    {
+        "generation_id": 3,
+        "id": 36,
+        "identifier": "Trace "
+    },
+    {
+        "generation_id": 3,
+        "id": 37,
+        "identifier": "Huge Power "
+    },
+    {
+        "generation_id": 3,
+        "id": 38,
+        "identifier": "Poison Point "
+    },
+    {
+        "generation_id": 3,
+        "id": 39,
+        "identifier": "Inner Focus "
+    },
+    {
+        "generation_id": 3,
+        "id": 40,
+        "identifier": "Magma Armor "
+    },
+    {
+        "generation_id": 3,
+        "id": 41,
+        "identifier": "Water Veil "
+    },
+    {
+        "generation_id": 3,
+        "id": 42,
+        "identifier": "Magnet Pull "
+    },
+    {
+        "generation_id": 3,
+        "id": 43,
+        "identifier": "Soundproof "
+    },
+    {
+        "generation_id": 3,
+        "id": 44,
+        "identifier": "Rain Dish "
+    },
+    {
+        "generation_id": 3,
+        "id": 45,
+        "identifier": "Sand Stream "
+    },
+    {
+        "generation_id": 3,
+        "id": 46,
+        "identifier": "Pressure "
+    },
+    {
+        "generation_id": 3,
+        "id": 47,
+        "identifier": "Thick Fat "
+    },
+    {
+        "generation_id": 3,
+        "id": 48,
+        "identifier": "Early Bird "
+    },
+    {
+        "generation_id": 3,
+        "id": 49,
+        "identifier": "Flame Body "
+    },
+    {
+        "generation_id": 3,
+        "id": 50,
+        "identifier": "Run Away "
+    },
+    {
+        "generation_id": 3,
+        "id": 51,
+        "identifier": "Keen Eye "
+    },
+    {
+        "generation_id": 3,
+        "id": 52,
+        "identifier": "Hyper Cutter "
+    },
+    {
+        "generation_id": 3,
+        "id": 53,
+        "identifier": "Pickup "
+    },
+    {
+        "generation_id": 3,
+        "id": 54,
+        "identifier": "Truant "
+    },
+    {
+        "generation_id": 3,
+        "id": 55,
+        "identifier": "Hustle "
+    },
+    {
+        "generation_id": 3,
+        "id": 56,
+        "identifier": "Cute Charm "
+    },
+    {
+        "generation_id": 3,
+        "id": 57,
+        "identifier": "Plus "
+    },
+    {
+        "generation_id": 3,
+        "id": 58,
+        "identifier": "Minus "
+    },
+    {
+        "generation_id": 3,
+        "id": 59,
+        "identifier": "Forecast "
+    },
+    {
+        "generation_id": 3,
+        "id": 60,
+        "identifier": "Sticky Hold "
+    },
+    {
+        "generation_id": 3,
+        "id": 61,
+        "identifier": "Shed Skin "
+    },
+    {
+        "generation_id": 3,
+        "id": 62,
+        "identifier": "Guts "
+    },
+    {
+        "generation_id": 3,
+        "id": 63,
+        "identifier": "Marvel Scale "
+    },
+    {
+        "generation_id": 3,
+        "id": 64,
+        "identifier": "Liquid Ooze "
+    },
+    {
+        "generation_id": 3,
+        "id": 65,
+        "identifier": "Overgrow "
+    },
+    {
+        "generation_id": 3,
+        "id": 66,
+        "identifier": "Blaze "
+    },
+    {
+        "generation_id": 3,
+        "id": 67,
+        "identifier": "Torrent "
+    },
+    {
+        "generation_id": 3,
+        "id": 68,
+        "identifier": "Swarm "
+    },
+    {
+        "generation_id": 3,
+        "id": 69,
+        "identifier": "Rock Head "
+    },
+    {
+        "generation_id": 3,
+        "id": 70,
+        "identifier": "Drought "
+    },
+    {
+        "generation_id": 3,
+        "id": 71,
+        "identifier": "Arena Trap "
+    },
+    {
+        "generation_id": 3,
+        "id": 72,
+        "identifier": "Vital Spirit "
+    },
+    {
+        "generation_id": 3,
+        "id": 73,
+        "identifier": "White Smoke "
+    },
+    {
+        "generation_id": 3,
+        "id": 74,
+        "identifier": "Pure Power "
+    },
+    {
+        "generation_id": 3,
+        "id": 75,
+        "identifier": "Shell Armor "
+    },
+    {
+        "generation_id": 3,
+        "id": 76,
+        "identifier": "Air Lock "
+    },
+    {
+        "generation_id": 4,
+        "id": 77,
+        "identifier": "Tangled Feet "
+    },
+    {
+        "generation_id": 4,
+        "id": 78,
+        "identifier": "Motor Drive "
+    },
+    {
+        "generation_id": 4,
+        "id": 79,
+        "identifier": "Rivalry "
+    },
+    {
+        "generation_id": 4,
+        "id": 80,
+        "identifier": "Steadfast "
+    },
+    {
+        "generation_id": 4,
+        "id": 81,
+        "identifier": "Snow Cloak "
+    },
+    {
+        "generation_id": 4,
+        "id": 82,
+        "identifier": "Gluttony "
+    },
+    {
+        "generation_id": 4,
+        "id": 83,
+        "identifier": "Anger Point "
+    },
+    {
+        "generation_id": 4,
+        "id": 84,
+        "identifier": "Unburden "
+    },
+    {
+        "generation_id": 4,
+        "id": 85,
+        "identifier": "Heatproof "
+    },
+    {
+        "generation_id": 4,
+        "id": 86,
+        "identifier": "Simple "
+    },
+    {
+        "generation_id": 4,
+        "id": 87,
+        "identifier": "Dry Skin "
+    },
+    {
+        "generation_id": 4,
+        "id": 88,
+        "identifier": "Download "
+    },
+    {
+        "generation_id": 4,
+        "id": 89,
+        "identifier": "Iron Fist "
+    },
+    {
+        "generation_id": 4,
+        "id": 90,
+        "identifier": "Poison Heal "
+    },
+    {
+        "generation_id": 4,
+        "id": 91,
+        "identifier": "Adaptability "
+    },
+    {
+        "generation_id": 4,
+        "id": 92,
+        "identifier": "Skill Link "
+    },
+    {
+        "generation_id": 4,
+        "id": 93,
+        "identifier": "Hydration "
+    },
+    {
+        "generation_id": 4,
+        "id": 94,
+        "identifier": "Solar Power "
+    },
+    {
+        "generation_id": 4,
+        "id": 95,
+        "identifier": "Quick Feet "
+    },
+    {
+        "generation_id": 4,
+        "id": 96,
+        "identifier": "Normalize "
+    },
+    {
+        "generation_id": 4,
+        "id": 97,
+        "identifier": "Sniper "
+    },
+    {
+        "generation_id": 4,
+        "id": 98,
+        "identifier": "Magic Guard "
+    },
+    {
+        "generation_id": 4,
+        "id": 99,
+        "identifier": "No Guard "
+    },
+    {
+        "generation_id": 4,
+        "id": 100,
+        "identifier": "Stall "
+    },
+    {
+        "generation_id": 4,
+        "id": 101,
+        "identifier": "Technician "
+    },
+    {
+        "generation_id": 4,
+        "id": 102,
+        "identifier": "Leaf Guard "
+    },
+    {
+        "generation_id": 4,
+        "id": 103,
+        "identifier": "Klutz "
+    },
+    {
+        "generation_id": 4,
+        "id": 104,
+        "identifier": "Mold Breaker "
+    },
+    {
+        "generation_id": 4,
+        "id": 105,
+        "identifier": "Super Luck "
+    },
+    {
+        "generation_id": 4,
+        "id": 106,
+        "identifier": "Aftermath "
+    },
+    {
+        "generation_id": 4,
+        "id": 107,
+        "identifier": "Anticipation "
+    },
+    {
+        "generation_id": 4,
+        "id": 108,
+        "identifier": "Forewarn "
+    },
+    {
+        "generation_id": 4,
+        "id": 109,
+        "identifier": "Unaware "
+    },
+    {
+        "generation_id": 4,
+        "id": 110,
+        "identifier": "Tinted Lens "
+    },
+    {
+        "generation_id": 4,
+        "id": 111,
+        "identifier": "Filter "
+    },
+    {
+        "generation_id": 4,
+        "id": 112,
+        "identifier": "Slow Start "
+    },
+    {
+        "generation_id": 4,
+        "id": 113,
+        "identifier": "Scrappy "
+    },
+    {
+        "generation_id": 4,
+        "id": 114,
+        "identifier": "Storm Drain "
+    },
+    {
+        "generation_id": 4,
+        "id": 115,
+        "identifier": "Ice Body "
+    },
+    {
+        "generation_id": 4,
+        "id": 116,
+        "identifier": "Solid Rock "
+    },
+    {
+        "generation_id": 4,
+        "id": 117,
+        "identifier": "Snow Warning "
+    },
+    {
+        "generation_id": 4,
+        "id": 118,
+        "identifier": "Honey Gather "
+    },
+    {
+        "generation_id": 4,
+        "id": 119,
+        "identifier": "Frisk "
+    },
+    {
+        "generation_id": 4,
+        "id": 120,
+        "identifier": "Reckless "
+    },
+    {
+        "generation_id": 4,
+        "id": 121,
+        "identifier": "Multitype "
+    },
+    {
+        "generation_id": 4,
+        "id": 122,
+        "identifier": "Flower Gift "
+    },
+    {
+        "generation_id": 4,
+        "id": 123,
+        "identifier": "Bad Dreams "
+    },
+    {
+        "generation_id": 5,
+        "id": 124,
+        "identifier": "Pickpocket "
+    },
+    {
+        "generation_id": 5,
+        "id": 125,
+        "identifier": "Sheer Force "
+    },
+    {
+        "generation_id": 5,
+        "id": 126,
+        "identifier": "Contrary "
+    },
+    {
+        "generation_id": 5,
+        "id": 127,
+        "identifier": "Unnerve "
+    },
+    {
+        "generation_id": 5,
+        "id": 128,
+        "identifier": "Defiant "
+    },
+    {
+        "generation_id": 5,
+        "id": 129,
+        "identifier": "Defeatist "
+    },
+    {
+        "generation_id": 5,
+        "id": 130,
+        "identifier": "Cursed Body "
+    },
+    {
+        "generation_id": 5,
+        "id": 131,
+        "identifier": "Healer "
+    },
+    {
+        "generation_id": 5,
+        "id": 132,
+        "identifier": "Friend Guard "
+    },
+    {
+        "generation_id": 5,
+        "id": 133,
+        "identifier": "Weak Armor "
+    },
+    {
+        "generation_id": 5,
+        "id": 134,
+        "identifier": "Heavy Metal "
+    },
+    {
+        "generation_id": 5,
+        "id": 135,
+        "identifier": "Light Metal "
+    },
+    {
+        "generation_id": 5,
+        "id": 136,
+        "identifier": "Multiscale "
+    },
+    {
+        "generation_id": 5,
+        "id": 137,
+        "identifier": "Toxic Boost "
+    },
+    {
+        "generation_id": 5,
+        "id": 138,
+        "identifier": "Flare Boost "
+    },
+    {
+        "generation_id": 5,
+        "id": 139,
+        "identifier": "Harvest "
+    },
+    {
+        "generation_id": 5,
+        "id": 140,
+        "identifier": "Telepathy "
+    },
+    {
+        "generation_id": 5,
+        "id": 141,
+        "identifier": "Moody "
+    },
+    {
+        "generation_id": 5,
+        "id": 142,
+        "identifier": "Overcoat "
+    },
+    {
+        "generation_id": 5,
+        "id": 143,
+        "identifier": "Poison Touch "
+    },
+    {
+        "generation_id": 5,
+        "id": 144,
+        "identifier": "Regenerator "
+    },
+    {
+        "generation_id": 5,
+        "id": 145,
+        "identifier": "Big Pecks "
+    },
+    {
+        "generation_id": 5,
+        "id": 146,
+        "identifier": "Sand Rush "
+    },
+    {
+        "generation_id": 5,
+        "id": 147,
+        "identifier": "Wonder Skin "
+    },
+    {
+        "generation_id": 5,
+        "id": 148,
+        "identifier": "Analytic "
+    },
+    {
+        "generation_id": 5,
+        "id": 149,
+        "identifier": "Illusion "
+    },
+    {
+        "generation_id": 5,
+        "id": 150,
+        "identifier": "Imposter "
+    },
+    {
+        "generation_id": 5,
+        "id": 151,
+        "identifier": "Infiltrator "
+    },
+    {
+        "generation_id": 5,
+        "id": 152,
+        "identifier": "Mummy "
+    },
+    {
+        "generation_id": 5,
+        "id": 153,
+        "identifier": "Moxie "
+    },
+    {
+        "generation_id": 5,
+        "id": 154,
+        "identifier": "Justified "
+    },
+    {
+        "generation_id": 5,
+        "id": 155,
+        "identifier": "Rattled "
+    },
+    {
+        "generation_id": 5,
+        "id": 156,
+        "identifier": "Magic Bounce "
+    },
+    {
+        "generation_id": 5,
+        "id": 157,
+        "identifier": "Sap Sipper "
+    },
+    {
+        "generation_id": 5,
+        "id": 158,
+        "identifier": "Prankster "
+    },
+    {
+        "generation_id": 5,
+        "id": 159,
+        "identifier": "Sand Force "
+    },
+    {
+        "generation_id": 5,
+        "id": 160,
+        "identifier": "Iron Barbs "
+    },
+    {
+        "generation_id": 5,
+        "id": 161,
+        "identifier": "Zen Mode "
+    },
+    {
+        "generation_id": 5,
+        "id": 162,
+        "identifier": "Victory Star "
+    },
+    {
+        "generation_id": 5,
+        "id": 163,
+        "identifier": "Turboblaze "
+    },
+    {
+        "generation_id": 5,
+        "id": 164,
+        "identifier": "Teravolt "
+    },
+    {
+        "generation_id": 6,
+        "id": 165,
+        "identifier": "Aroma Veil "
+    },
+    {
+        "generation_id": 6,
+        "id": 166,
+        "identifier": "Flower Veil "
+    },
+    {
+        "generation_id": 6,
+        "id": 167,
+        "identifier": "Cheek Pouch "
+    },
+    {
+        "generation_id": 6,
+        "id": 168,
+        "identifier": "Protean "
+    },
+    {
+        "generation_id": 6,
+        "id": 169,
+        "identifier": "Fur Coat "
+    },
+    {
+        "generation_id": 6,
+        "id": 170,
+        "identifier": "Magician "
+    },
+    {
+        "generation_id": 6,
+        "id": 171,
+        "identifier": "Bulletproof "
+    },
+    {
+        "generation_id": 6,
+        "id": 172,
+        "identifier": "Competitive "
+    },
+    {
+        "generation_id": 6,
+        "id": 173,
+        "identifier": "Strong Jaw "
+    },
+    {
+        "generation_id": 6,
+        "id": 174,
+        "identifier": "Refrigerate "
+    },
+    {
+        "generation_id": 6,
+        "id": 175,
+        "identifier": "Sweet Veil "
+    },
+    {
+        "generation_id": 6,
+        "id": 176,
+        "identifier": "Stance Change "
+    },
+    {
+        "generation_id": 6,
+        "id": 177,
+        "identifier": "Gale Wings "
+    },
+    {
+        "generation_id": 6,
+        "id": 178,
+        "identifier": "Mega Launcher "
+    },
+    {
+        "generation_id": 6,
+        "id": 179,
+        "identifier": "Grass Pelt "
+    },
+    {
+        "generation_id": 6,
+        "id": 180,
+        "identifier": "Symbiosis "
+    },
+    {
+        "generation_id": 6,
+        "id": 181,
+        "identifier": "Tough Claws "
+    },
+    {
+        "generation_id": 6,
+        "id": 182,
+        "identifier": "Pixilate "
+    },
+    {
+        "generation_id": 6,
+        "id": 183,
+        "identifier": "Gooey "
+    },
+    {
+        "generation_id": 6,
+        "id": 184,
+        "identifier": "Aerilate "
+    },
+    {
+        "generation_id": 6,
+        "id": 185,
+        "identifier": "Parental Bond "
+    },
+    {
+        "generation_id": 6,
+        "id": 186,
+        "identifier": "Dark Aura "
+    },
+    {
+        "generation_id": 6,
+        "id": 187,
+        "identifier": "Fairy Aura "
+    },
+    {
+        "generation_id": 6,
+        "id": 188,
+        "identifier": "Aura Break "
+    },
+    {
+        "generation_id": 6,
+        "id": 189,
+        "identifier": "Primordial Sea "
+    },
+    {
+        "generation_id": 6,
+        "id": 190,
+        "identifier": "Desolate Land "
+    },
+    {
+        "generation_id": 6,
+        "id": 191,
+        "identifier": "Delta Stream "
+    },
+    {
+        "generation_id": 7,
+        "id": 192,
+        "identifier": "Stamina "
+    },
+    {
+        "generation_id": 7,
+        "id": 193,
+        "identifier": "Wimp Out "
+    },
+    {
+        "generation_id": 7,
+        "id": 194,
+        "identifier": "Emergency Exit "
+    },
+    {
+        "generation_id": 7,
+        "id": 195,
+        "identifier": "Water Compaction "
+    },
+    {
+        "generation_id": 7,
+        "id": 196,
+        "identifier": "Merciless "
+    },
+    {
+        "generation_id": 7,
+        "id": 197,
+        "identifier": "Shields Down "
+    },
+    {
+        "generation_id": 7,
+        "id": 198,
+        "identifier": "Stakeout "
+    },
+    {
+        "generation_id": 7,
+        "id": 199,
+        "identifier": "Water Bubble "
+    },
+    {
+        "generation_id": 7,
+        "id": 200,
+        "identifier": "Steelworker "
+    },
+    {
+        "generation_id": 7,
+        "id": 201,
+        "identifier": "Berserk "
+    },
+    {
+        "generation_id": 7,
+        "id": 202,
+        "identifier": "Slush Rush "
+    },
+    {
+        "generation_id": 7,
+        "id": 203,
+        "identifier": "Long Reach "
+    },
+    {
+        "generation_id": 7,
+        "id": 204,
+        "identifier": "Liquid Voice "
+    },
+    {
+        "generation_id": 7,
+        "id": 205,
+        "identifier": "Triage "
+    },
+    {
+        "generation_id": 7,
+        "id": 206,
+        "identifier": "Galvanize "
+    },
+    {
+        "generation_id": 7,
+        "id": 207,
+        "identifier": "Surge Surfer "
+    },
+    {
+        "generation_id": 7,
+        "id": 208,
+        "identifier": "Schooling "
+    },
+    {
+        "generation_id": 7,
+        "id": 209,
+        "identifier": "Disguise "
+    },
+    {
+        "generation_id": 7,
+        "id": 210,
+        "identifier": "Battle Bond "
+    },
+    {
+        "generation_id": 7,
+        "id": 211,
+        "identifier": "Power Construct "
+    },
+    {
+        "generation_id": 7,
+        "id": 212,
+        "identifier": "Corrosion "
+    },
+    {
+        "generation_id": 7,
+        "id": 213,
+        "identifier": "Comatose "
+    },
+    {
+        "generation_id": 7,
+        "id": 214,
+        "identifier": "Queenly Majesty "
+    },
+    {
+        "generation_id": 7,
+        "id": 215,
+        "identifier": "Innards Out "
+    },
+    {
+        "generation_id": 7,
+        "id": 216,
+        "identifier": "Dancer "
+    },
+    {
+        "generation_id": 7,
+        "id": 217,
+        "identifier": "Battery "
+    },
+    {
+        "generation_id": 7,
+        "id": 218,
+        "identifier": "Fluffy "
+    },
+    {
+        "generation_id": 7,
+        "id": 219,
+        "identifier": "Dazzling "
+    },
+    {
+        "generation_id": 7,
+        "id": 220,
+        "identifier": "Soul Heart "
+    },
+    {
+        "generation_id": 7,
+        "id": 221,
+        "identifier": "Tangling Hair "
+    },
+    {
+        "generation_id": 7,
+        "id": 222,
+        "identifier": "Receiver "
+    },
+    {
+        "generation_id": 7,
+        "id": 223,
+        "identifier": "Power Of Alchemy "
+    },
+    {
+        "generation_id": 7,
+        "id": 224,
+        "identifier": "Beast Boost "
+    },
+    {
+        "generation_id": 7,
+        "id": 225,
+        "identifier": "Rks System "
+    },
+    {
+        "generation_id": 7,
+        "id": 226,
+        "identifier": "Electric Surge "
+    },
+    {
+        "generation_id": 7,
+        "id": 227,
+        "identifier": "Psychic Surge "
+    },
+    {
+        "generation_id": 7,
+        "id": 228,
+        "identifier": "Misty Surge "
+    },
+    {
+        "generation_id": 7,
+        "id": 229,
+        "identifier": "Grassy Surge "
+    },
+    {
+        "generation_id": 7,
+        "id": 230,
+        "identifier": "Full Metal Body "
+    },
+    {
+        "generation_id": 7,
+        "id": 231,
+        "identifier": "Shadow Shield "
+    },
+    {
+        "generation_id": 7,
+        "id": 232,
+        "identifier": "Prism Armor "
+    }
+]

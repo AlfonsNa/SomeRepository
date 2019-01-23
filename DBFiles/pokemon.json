@@ -1,0 +1,5770 @@
+[
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 1,
+        "identifier": "Bulbasaur",
+        "species_id": 1
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 2,
+        "identifier": "Ivysaur",
+        "species_id": 2
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 3,
+        "identifier": "Venusaur",
+        "species_id": 3
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 4,
+        "identifier": "Charmander",
+        "species_id": 4
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 5,
+        "identifier": "Charmeleon",
+        "species_id": 5
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 6,
+        "identifier": "Charizard",
+        "species_id": 6
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 7,
+        "identifier": "Squirtle",
+        "species_id": 7
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 8,
+        "identifier": "Wartortle",
+        "species_id": 8
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 9,
+        "identifier": "Blastoise",
+        "species_id": 9
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 10,
+        "identifier": "Caterpie",
+        "species_id": 10
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 11,
+        "identifier": "Metapod",
+        "species_id": 11
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 12,
+        "identifier": "Butterfree",
+        "species_id": 12
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 13,
+        "identifier": "Weedle",
+        "species_id": 13
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 14,
+        "identifier": "Kakuna",
+        "species_id": 14
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 15,
+        "identifier": "Beedrill",
+        "species_id": 15
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 16,
+        "identifier": "Pidgey",
+        "species_id": 16
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 17,
+        "identifier": "Pidgeotto",
+        "species_id": 17
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 18,
+        "identifier": "Pidgeot",
+        "species_id": 18
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 19,
+        "identifier": "Rattata",
+        "species_id": 19
+    },
+    {
+        "capture_rate": 127,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 20,
+        "identifier": "Raticate",
+        "species_id": 20
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 21,
+        "identifier": "Spearow",
+        "species_id": 21
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 22,
+        "identifier": "Fearow",
+        "species_id": 22
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 23,
+        "identifier": "Ekans",
+        "species_id": 23
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 24,
+        "identifier": "Arbok",
+        "species_id": 24
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 25,
+        "identifier": "Pikachu",
+        "species_id": 25
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 26,
+        "identifier": "Raichu",
+        "species_id": 26
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 27,
+        "identifier": "Sandshrew",
+        "species_id": 27
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 28,
+        "identifier": "Sandslash",
+        "species_id": 28
+    },
+    {
+        "capture_rate": 235,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 29,
+        "identifier": "Nidoran-f",
+        "species_id": 29
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 30,
+        "identifier": "Nidorina",
+        "species_id": 30
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 31,
+        "identifier": "Nidoqueen",
+        "species_id": 31
+    },
+    {
+        "capture_rate": 235,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 32,
+        "identifier": "Nidoran-m",
+        "species_id": 32
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 33,
+        "identifier": "Nidorino",
+        "species_id": 33
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 34,
+        "identifier": "Nidoking",
+        "species_id": 34
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 35,
+        "identifier": "Clefairy",
+        "species_id": 35
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 36,
+        "identifier": "Clefable",
+        "species_id": 36
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 37,
+        "identifier": "Vulpix",
+        "species_id": 37
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 38,
+        "identifier": "Ninetales",
+        "species_id": 38
+    },
+    {
+        "capture_rate": 170,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 39,
+        "identifier": "Jigglypuff",
+        "species_id": 39
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 40,
+        "identifier": "Wigglytuff",
+        "species_id": 40
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 41,
+        "identifier": "Zubat",
+        "species_id": 41
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 42,
+        "identifier": "Golbat",
+        "species_id": 42
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 43,
+        "identifier": "Oddish",
+        "species_id": 43
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 44,
+        "identifier": "Gloom",
+        "species_id": 44
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 45,
+        "identifier": "Vileplume",
+        "species_id": 45
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 46,
+        "identifier": "Paras",
+        "species_id": 46
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 47,
+        "identifier": "Parasect",
+        "species_id": 47
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 48,
+        "identifier": "Venonat",
+        "species_id": 48
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 49,
+        "identifier": "Venomoth",
+        "species_id": 49
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 50,
+        "identifier": "Diglett",
+        "species_id": 50
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 51,
+        "identifier": "Dugtrio",
+        "species_id": 51
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 52,
+        "identifier": "Meowth",
+        "species_id": 52
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 53,
+        "identifier": "Persian",
+        "species_id": 53
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 54,
+        "identifier": "Psyduck",
+        "species_id": 54
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 55,
+        "identifier": "Golduck",
+        "species_id": 55
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 56,
+        "identifier": "Mankey",
+        "species_id": 56
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 57,
+        "identifier": "Primeape",
+        "species_id": 57
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 58,
+        "identifier": "Growlithe",
+        "species_id": 58
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 59,
+        "identifier": "Arcanine",
+        "species_id": 59
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 60,
+        "identifier": "Poliwag",
+        "species_id": 60
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 61,
+        "identifier": "Poliwhirl",
+        "species_id": 61
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 62,
+        "identifier": "Poliwrath",
+        "species_id": 62
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 63,
+        "identifier": "Abra",
+        "species_id": 63
+    },
+    {
+        "capture_rate": 100,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 64,
+        "identifier": "Kadabra",
+        "species_id": 64
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 65,
+        "identifier": "Alakazam",
+        "species_id": 65
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 66,
+        "identifier": "Machop",
+        "species_id": 66
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 67,
+        "identifier": "Machoke",
+        "species_id": 67
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 68,
+        "identifier": "Machamp",
+        "species_id": 68
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 69,
+        "identifier": "Bellsprout",
+        "species_id": 69
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 70,
+        "identifier": "Weepinbell",
+        "species_id": 70
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 71,
+        "identifier": "Victreebel",
+        "species_id": 71
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 72,
+        "identifier": "Tentacool",
+        "species_id": 72
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 73,
+        "identifier": "Tentacruel",
+        "species_id": 73
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 74,
+        "identifier": "Geodude",
+        "species_id": 74
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 75,
+        "identifier": "Graveler",
+        "species_id": 75
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 76,
+        "identifier": "Golem",
+        "species_id": 76
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 77,
+        "identifier": "Ponyta",
+        "species_id": 77
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 78,
+        "identifier": "Rapidash",
+        "species_id": 78
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 79,
+        "identifier": "Slowpoke",
+        "species_id": 79
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 80,
+        "identifier": "Slowbro",
+        "species_id": 80
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 81,
+        "identifier": "Magnemite",
+        "species_id": 81
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 82,
+        "identifier": "Magneton",
+        "species_id": 82
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 83,
+        "identifier": "Farfetchd",
+        "species_id": 83
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 84,
+        "identifier": "Doduo",
+        "species_id": 84
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 85,
+        "identifier": "Dodrio",
+        "species_id": 85
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 86,
+        "identifier": "Seel",
+        "species_id": 86
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 87,
+        "identifier": "Dewgong",
+        "species_id": 87
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 88,
+        "identifier": "Grimer",
+        "species_id": 88
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 89,
+        "identifier": "Muk",
+        "species_id": 89
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 90,
+        "identifier": "Shellder",
+        "species_id": 90
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 91,
+        "identifier": "Cloyster",
+        "species_id": 91
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 92,
+        "identifier": "Gastly",
+        "species_id": 92
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 93,
+        "identifier": "Haunter",
+        "species_id": 93
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 94,
+        "identifier": "Gengar",
+        "species_id": 94
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 95,
+        "identifier": "Onix",
+        "species_id": 95
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 96,
+        "identifier": "Drowzee",
+        "species_id": 96
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 97,
+        "identifier": "Hypno",
+        "species_id": 97
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 98,
+        "identifier": "Krabby",
+        "species_id": 98
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 99,
+        "identifier": "Kingler",
+        "species_id": 99
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 100,
+        "identifier": "Voltorb",
+        "species_id": 100
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 101,
+        "identifier": "Electrode",
+        "species_id": 101
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 102,
+        "identifier": "Exeggcute",
+        "species_id": 102
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 103,
+        "identifier": "Exeggutor",
+        "species_id": 103
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 104,
+        "identifier": "Cubone",
+        "species_id": 104
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 105,
+        "identifier": "Marowak",
+        "species_id": 105
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 106,
+        "identifier": "Hitmonlee",
+        "species_id": 106
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 107,
+        "identifier": "Hitmonchan",
+        "species_id": 107
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 108,
+        "identifier": "Lickitung",
+        "species_id": 108
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 109,
+        "identifier": "Koffing",
+        "species_id": 109
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 110,
+        "identifier": "Weezing",
+        "species_id": 110
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 111,
+        "identifier": "Rhyhorn",
+        "species_id": 111
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 112,
+        "identifier": "Rhydon",
+        "species_id": 112
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 113,
+        "identifier": "Chansey",
+        "species_id": 113
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 114,
+        "identifier": "Tangela",
+        "species_id": 114
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 115,
+        "identifier": "Kangaskhan",
+        "species_id": 115
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 116,
+        "identifier": "Horsea",
+        "species_id": 116
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 117,
+        "identifier": "Seadra",
+        "species_id": 117
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 118,
+        "identifier": "Goldeen",
+        "species_id": 118
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 119,
+        "identifier": "Seaking",
+        "species_id": 119
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 120,
+        "identifier": "Staryu",
+        "species_id": 120
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 121,
+        "identifier": "Starmie",
+        "species_id": 121
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 122,
+        "identifier": "Mr-mime",
+        "species_id": 122
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 123,
+        "identifier": "Scyther",
+        "species_id": 123
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 124,
+        "identifier": "Jynx",
+        "species_id": 124
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 125,
+        "identifier": "Electabuzz",
+        "species_id": 125
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 126,
+        "identifier": "Magmar",
+        "species_id": 126
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 127,
+        "identifier": "Pinsir",
+        "species_id": 127
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 128,
+        "identifier": "Tauros",
+        "species_id": 128
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 129,
+        "identifier": "Magikarp",
+        "species_id": 129
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 130,
+        "identifier": "Gyarados",
+        "species_id": 130
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 131,
+        "identifier": "Lapras",
+        "species_id": 131
+    },
+    {
+        "capture_rate": 35,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 132,
+        "identifier": "Ditto",
+        "species_id": 132
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 133,
+        "identifier": "Eevee",
+        "species_id": 133
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 134,
+        "identifier": "Vaporeon",
+        "species_id": 134
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 135,
+        "identifier": "Jolteon",
+        "species_id": 135
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 136,
+        "identifier": "Flareon",
+        "species_id": 136
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 137,
+        "identifier": "Porygon",
+        "species_id": 137
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 138,
+        "identifier": "Omanyte",
+        "species_id": 138
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 139,
+        "identifier": "Omastar",
+        "species_id": 139
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 140,
+        "identifier": "Kabuto",
+        "species_id": 140
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 141,
+        "identifier": "Kabutops",
+        "species_id": 141
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 142,
+        "identifier": "Aerodactyl",
+        "species_id": 142
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 143,
+        "identifier": "Snorlax",
+        "species_id": 143
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 144,
+        "identifier": "Articuno",
+        "species_id": 144
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 145,
+        "identifier": "Zapdos",
+        "species_id": 145
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 146,
+        "identifier": "Moltres",
+        "species_id": 146
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 147,
+        "identifier": "Dratini",
+        "species_id": 147
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 148,
+        "identifier": "Dragonair",
+        "species_id": 148
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 149,
+        "identifier": "Dragonite",
+        "species_id": 149
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 150,
+        "identifier": "Mewtwo",
+        "species_id": 150
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 151,
+        "identifier": "Mew",
+        "species_id": 151
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 152,
+        "identifier": "Chikorita",
+        "species_id": 152
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 153,
+        "identifier": "Bayleef",
+        "species_id": 153
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 154,
+        "identifier": "Meganium",
+        "species_id": 154
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 155,
+        "identifier": "Cyndaquil",
+        "species_id": 155
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 156,
+        "identifier": "Quilava",
+        "species_id": 156
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 157,
+        "identifier": "Typhlosion",
+        "species_id": 157
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 158,
+        "identifier": "Totodile",
+        "species_id": 158
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 159,
+        "identifier": "Croconaw",
+        "species_id": 159
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 160,
+        "identifier": "Feraligatr",
+        "species_id": 160
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 161,
+        "identifier": "Sentret",
+        "species_id": 161
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 162,
+        "identifier": "Furret",
+        "species_id": 162
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 163,
+        "identifier": "Hoothoot",
+        "species_id": 163
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 164,
+        "identifier": "Noctowl",
+        "species_id": 164
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 165,
+        "identifier": "Ledyba",
+        "species_id": 165
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 166,
+        "identifier": "Ledian",
+        "species_id": 166
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 167,
+        "identifier": "Spinarak",
+        "species_id": 167
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 168,
+        "identifier": "Ariados",
+        "species_id": 168
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 169,
+        "identifier": "Crobat",
+        "species_id": 169
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 170,
+        "identifier": "Chinchou",
+        "species_id": 170
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 171,
+        "identifier": "Lanturn",
+        "species_id": 171
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 172,
+        "identifier": "Pichu",
+        "species_id": 172
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 173,
+        "identifier": "Cleffa",
+        "species_id": 173
+    },
+    {
+        "capture_rate": 170,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 174,
+        "identifier": "Igglybuff",
+        "species_id": 174
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 175,
+        "identifier": "Togepi",
+        "species_id": 175
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 176,
+        "identifier": "Togetic",
+        "species_id": 176
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 177,
+        "identifier": "Natu",
+        "species_id": 177
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 178,
+        "identifier": "Xatu",
+        "species_id": 178
+    },
+    {
+        "capture_rate": 235,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 179,
+        "identifier": "Mareep",
+        "species_id": 179
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 180,
+        "identifier": "Flaaffy",
+        "species_id": 180
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 181,
+        "identifier": "Ampharos",
+        "species_id": 181
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 182,
+        "identifier": "Bellossom",
+        "species_id": 182
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 183,
+        "identifier": "Marill",
+        "species_id": 183
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 184,
+        "identifier": "Azumarill",
+        "species_id": 184
+    },
+    {
+        "capture_rate": 65,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 185,
+        "identifier": "Sudowoodo",
+        "species_id": 185
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 186,
+        "identifier": "Politoed",
+        "species_id": 186
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 187,
+        "identifier": "Hoppip",
+        "species_id": 187
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 188,
+        "identifier": "Skiploom",
+        "species_id": 188
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 189,
+        "identifier": "Jumpluff",
+        "species_id": 189
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 190,
+        "identifier": "Aipom",
+        "species_id": 190
+    },
+    {
+        "capture_rate": 235,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 191,
+        "identifier": "Sunkern",
+        "species_id": 191
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 192,
+        "identifier": "Sunflora",
+        "species_id": 192
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 193,
+        "identifier": "Yanma",
+        "species_id": 193
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 194,
+        "identifier": "Wooper",
+        "species_id": 194
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 195,
+        "identifier": "Quagsire",
+        "species_id": 195
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 196,
+        "identifier": "Espeon",
+        "species_id": 196
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 197,
+        "identifier": "Umbreon",
+        "species_id": 197
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 198,
+        "identifier": "Murkrow",
+        "species_id": 198
+    },
+    {
+        "capture_rate": 70,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 199,
+        "identifier": "Slowking",
+        "species_id": 199
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 200,
+        "identifier": "Misdreavus",
+        "species_id": 200
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 201,
+        "identifier": "Unown",
+        "species_id": 201
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 202,
+        "identifier": "Wobbuffet",
+        "species_id": 202
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 203,
+        "identifier": "Girafarig",
+        "species_id": 203
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 204,
+        "identifier": "Pineco",
+        "species_id": 204
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 205,
+        "identifier": "Forretress",
+        "species_id": 205
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 206,
+        "identifier": "Dunsparce",
+        "species_id": 206
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 207,
+        "identifier": "Gligar",
+        "species_id": 207
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 208,
+        "identifier": "Steelix",
+        "species_id": 208
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 209,
+        "identifier": "Snubbull",
+        "species_id": 209
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 210,
+        "identifier": "Granbull",
+        "species_id": 210
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 211,
+        "identifier": "Qwilfish",
+        "species_id": 211
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 212,
+        "identifier": "Scizor",
+        "species_id": 212
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 213,
+        "identifier": "Shuckle",
+        "species_id": 213
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 214,
+        "identifier": "Heracross",
+        "species_id": 214
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 215,
+        "identifier": "Sneasel",
+        "species_id": 215
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 216,
+        "identifier": "Teddiursa",
+        "species_id": 216
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 217,
+        "identifier": "Ursaring",
+        "species_id": 217
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 218,
+        "identifier": "Slugma",
+        "species_id": 218
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 219,
+        "identifier": "Magcargo",
+        "species_id": 219
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 220,
+        "identifier": "Swinub",
+        "species_id": 220
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 221,
+        "identifier": "Piloswine",
+        "species_id": 221
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 222,
+        "identifier": "Corsola",
+        "species_id": 222
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 223,
+        "identifier": "Remoraid",
+        "species_id": 223
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 224,
+        "identifier": "Octillery",
+        "species_id": 224
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 225,
+        "identifier": "Delibird",
+        "species_id": 225
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 226,
+        "identifier": "Mantine",
+        "species_id": 226
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 227,
+        "identifier": "Skarmory",
+        "species_id": 227
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 228,
+        "identifier": "Houndour",
+        "species_id": 228
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 229,
+        "identifier": "Houndoom",
+        "species_id": 229
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 230,
+        "identifier": "Kingdra",
+        "species_id": 230
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 231,
+        "identifier": "Phanpy",
+        "species_id": 231
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 232,
+        "identifier": "Donphan",
+        "species_id": 232
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 233,
+        "identifier": "Porygon2",
+        "species_id": 233
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 234,
+        "identifier": "Stantler",
+        "species_id": 234
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 235,
+        "identifier": "Smeargle",
+        "species_id": 235
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 236,
+        "identifier": "Tyrogue",
+        "species_id": 236
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 237,
+        "identifier": "Hitmontop",
+        "species_id": 237
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 238,
+        "identifier": "Smoochum",
+        "species_id": 238
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 239,
+        "identifier": "Elekid",
+        "species_id": 239
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 240,
+        "identifier": "Magby",
+        "species_id": 240
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 241,
+        "identifier": "Miltank",
+        "species_id": 241
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 242,
+        "identifier": "Blissey",
+        "species_id": 242
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 243,
+        "identifier": "Raikou",
+        "species_id": 243
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 244,
+        "identifier": "Entei",
+        "species_id": 244
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 245,
+        "identifier": "Suicune",
+        "species_id": 245
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 246,
+        "identifier": "Larvitar",
+        "species_id": 246
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 247,
+        "identifier": "Pupitar",
+        "species_id": 247
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 248,
+        "identifier": "Tyranitar",
+        "species_id": 248
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 249,
+        "identifier": "Lugia",
+        "species_id": 249
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 250,
+        "identifier": "Ho-oh",
+        "species_id": 250
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 251,
+        "identifier": "Celebi",
+        "species_id": 251
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 252,
+        "identifier": "Treecko",
+        "species_id": 252
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 253,
+        "identifier": "Grovyle",
+        "species_id": 253
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 254,
+        "identifier": "Sceptile",
+        "species_id": 254
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 255,
+        "identifier": "Torchic",
+        "species_id": 255
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 256,
+        "identifier": "Combusken",
+        "species_id": 256
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 257,
+        "identifier": "Blaziken",
+        "species_id": 257
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 258,
+        "identifier": "Mudkip",
+        "species_id": 258
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 259,
+        "identifier": "Marshtomp",
+        "species_id": 259
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 260,
+        "identifier": "Swampert",
+        "species_id": 260
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 261,
+        "identifier": "Poochyena",
+        "species_id": 261
+    },
+    {
+        "capture_rate": 127,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 262,
+        "identifier": "Mightyena",
+        "species_id": 262
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 263,
+        "identifier": "Zigzagoon",
+        "species_id": 263
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 264,
+        "identifier": "Linoone",
+        "species_id": 264
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 265,
+        "identifier": "Wurmple",
+        "species_id": 265
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 266,
+        "identifier": "Silcoon",
+        "species_id": 266
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 267,
+        "identifier": "Beautifly",
+        "species_id": 267
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 268,
+        "identifier": "Cascoon",
+        "species_id": 268
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 269,
+        "identifier": "Dustox",
+        "species_id": 269
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 270,
+        "identifier": "Lotad",
+        "species_id": 270
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 271,
+        "identifier": "Lombre",
+        "species_id": 271
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 272,
+        "identifier": "Ludicolo",
+        "species_id": 272
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 273,
+        "identifier": "Seedot",
+        "species_id": 273
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 274,
+        "identifier": "Nuzleaf",
+        "species_id": 274
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 275,
+        "identifier": "Shiftry",
+        "species_id": 275
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 276,
+        "identifier": "Taillow",
+        "species_id": 276
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 277,
+        "identifier": "Swellow",
+        "species_id": 277
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 278,
+        "identifier": "Wingull",
+        "species_id": 278
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 279,
+        "identifier": "Pelipper",
+        "species_id": 279
+    },
+    {
+        "capture_rate": 235,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 280,
+        "identifier": "Ralts",
+        "species_id": 280
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 281,
+        "identifier": "Kirlia",
+        "species_id": 281
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 282,
+        "identifier": "Gardevoir",
+        "species_id": 282
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 283,
+        "identifier": "Surskit",
+        "species_id": 283
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 284,
+        "identifier": "Masquerain",
+        "species_id": 284
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 285,
+        "identifier": "Shroomish",
+        "species_id": 285
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 286,
+        "identifier": "Breloom",
+        "species_id": 286
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 287,
+        "identifier": "Slakoth",
+        "species_id": 287
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 288,
+        "identifier": "Vigoroth",
+        "species_id": 288
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 289,
+        "identifier": "Slaking",
+        "species_id": 289
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 290,
+        "identifier": "Nincada",
+        "species_id": 290
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 291,
+        "identifier": "Ninjask",
+        "species_id": 291
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 292,
+        "identifier": "Shedinja",
+        "species_id": 292
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 293,
+        "identifier": "Whismur",
+        "species_id": 293
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 294,
+        "identifier": "Loudred",
+        "species_id": 294
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 295,
+        "identifier": "Exploud",
+        "species_id": 295
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 296,
+        "identifier": "Makuhita",
+        "species_id": 296
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 297,
+        "identifier": "Hariyama",
+        "species_id": 297
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 298,
+        "identifier": "Azurill",
+        "species_id": 298
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 299,
+        "identifier": "Nosepass",
+        "species_id": 299
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 300,
+        "identifier": "Skitty",
+        "species_id": 300
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 301,
+        "identifier": "Delcatty",
+        "species_id": 301
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 302,
+        "identifier": "Sableye",
+        "species_id": 302
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 303,
+        "identifier": "Mawile",
+        "species_id": 303
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 304,
+        "identifier": "Aron",
+        "species_id": 304
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 305,
+        "identifier": "Lairon",
+        "species_id": 305
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 306,
+        "identifier": "Aggron",
+        "species_id": 306
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 307,
+        "identifier": "Meditite",
+        "species_id": 307
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 308,
+        "identifier": "Medicham",
+        "species_id": 308
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 309,
+        "identifier": "Electrike",
+        "species_id": 309
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 310,
+        "identifier": "Manectric",
+        "species_id": 310
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 311,
+        "identifier": "Plusle",
+        "species_id": 311
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 312,
+        "identifier": "Minun",
+        "species_id": 312
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 313,
+        "identifier": "Volbeat",
+        "species_id": 313
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 314,
+        "identifier": "Illumise",
+        "species_id": 314
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 315,
+        "identifier": "Roselia",
+        "species_id": 315
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 316,
+        "identifier": "Gulpin",
+        "species_id": 316
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 317,
+        "identifier": "Swalot",
+        "species_id": 317
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 318,
+        "identifier": "Carvanha",
+        "species_id": 318
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 319,
+        "identifier": "Sharpedo",
+        "species_id": 319
+    },
+    {
+        "capture_rate": 125,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 320,
+        "identifier": "Wailmer",
+        "species_id": 320
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 321,
+        "identifier": "Wailord",
+        "species_id": 321
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 322,
+        "identifier": "Numel",
+        "species_id": 322
+    },
+    {
+        "capture_rate": 150,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 323,
+        "identifier": "Camerupt",
+        "species_id": 323
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 324,
+        "identifier": "Torkoal",
+        "species_id": 324
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 325,
+        "identifier": "Spoink",
+        "species_id": 325
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 326,
+        "identifier": "Grumpig",
+        "species_id": 326
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 327,
+        "identifier": "Spinda",
+        "species_id": 327
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 328,
+        "identifier": "Trapinch",
+        "species_id": 328
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 329,
+        "identifier": "Vibrava",
+        "species_id": 329
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 330,
+        "identifier": "Flygon",
+        "species_id": 330
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 331,
+        "identifier": "Cacnea",
+        "species_id": 331
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 332,
+        "identifier": "Cacturne",
+        "species_id": 332
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 333,
+        "identifier": "Swablu",
+        "species_id": 333
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 334,
+        "identifier": "Altaria",
+        "species_id": 334
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 335,
+        "identifier": "Zangoose",
+        "species_id": 335
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 336,
+        "identifier": "Seviper",
+        "species_id": 336
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 337,
+        "identifier": "Lunatone",
+        "species_id": 337
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 338,
+        "identifier": "Solrock",
+        "species_id": 338
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 339,
+        "identifier": "Barboach",
+        "species_id": 339
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 340,
+        "identifier": "Whiscash",
+        "species_id": 340
+    },
+    {
+        "capture_rate": 205,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 341,
+        "identifier": "Corphish",
+        "species_id": 341
+    },
+    {
+        "capture_rate": 155,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 342,
+        "identifier": "Crawdaunt",
+        "species_id": 342
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 343,
+        "identifier": "Baltoy",
+        "species_id": 343
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 344,
+        "identifier": "Claydol",
+        "species_id": 344
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 345,
+        "identifier": "Lileep",
+        "species_id": 345
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 346,
+        "identifier": "Cradily",
+        "species_id": 346
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 347,
+        "identifier": "Anorith",
+        "species_id": 347
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 348,
+        "identifier": "Armaldo",
+        "species_id": 348
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 349,
+        "identifier": "Feebas",
+        "species_id": 349
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 350,
+        "identifier": "Milotic",
+        "species_id": 350
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 351,
+        "identifier": "Castform",
+        "species_id": 351
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 352,
+        "identifier": "Kecleon",
+        "species_id": 352
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 353,
+        "identifier": "Shuppet",
+        "species_id": 353
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 8,
+        "id": 354,
+        "identifier": "Banette",
+        "species_id": 354
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 355,
+        "identifier": "Duskull",
+        "species_id": 355
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 356,
+        "identifier": "Dusclops",
+        "species_id": 356
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 2,
+        "id": 357,
+        "identifier": "Tropius",
+        "species_id": 357
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 3,
+        "id": 358,
+        "identifier": "Chimecho",
+        "species_id": 358
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 359,
+        "identifier": "Absol",
+        "species_id": 359
+    },
+    {
+        "capture_rate": 125,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 360,
+        "identifier": "Wynaut",
+        "species_id": 360
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 361,
+        "identifier": "Snorunt",
+        "species_id": 361
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 362,
+        "identifier": "Glalie",
+        "species_id": 362
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 363,
+        "identifier": "Spheal",
+        "species_id": 363
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 364,
+        "identifier": "Sealeo",
+        "species_id": 364
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 365,
+        "identifier": "Walrein",
+        "species_id": 365
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 366,
+        "identifier": "Clamperl",
+        "species_id": 366
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 367,
+        "identifier": "Huntail",
+        "species_id": 367
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 368,
+        "identifier": "Gorebyss",
+        "species_id": 368
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 369,
+        "identifier": "Relicanth",
+        "species_id": 369
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 370,
+        "identifier": "Luvdisc",
+        "species_id": 370
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 371,
+        "identifier": "Bagon",
+        "species_id": 371
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 372,
+        "identifier": "Shelgon",
+        "species_id": 372
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 373,
+        "identifier": "Salamence",
+        "species_id": 373
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 374,
+        "identifier": "Beldum",
+        "species_id": 374
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 375,
+        "identifier": "Metang",
+        "species_id": 375
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 376,
+        "identifier": "Metagross",
+        "species_id": 376
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 377,
+        "identifier": "Regirock",
+        "species_id": 377
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 378,
+        "identifier": "Regice",
+        "species_id": 378
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 1,
+        "id": 379,
+        "identifier": "Registeel",
+        "species_id": 379
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 380,
+        "identifier": "Latias",
+        "species_id": 380
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 9,
+        "id": 381,
+        "identifier": "Latios",
+        "species_id": 381
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 7,
+        "id": 382,
+        "identifier": "Kyogre",
+        "species_id": 382
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 6,
+        "id": 383,
+        "identifier": "Groudon",
+        "species_id": 383
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 384,
+        "identifier": "Rayquaza",
+        "species_id": 384
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 4,
+        "id": 385,
+        "identifier": "Jirachi",
+        "species_id": 385
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 5,
+        "id": 386,
+        "identifier": "Deoxys",
+        "species_id": 386
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 387,
+        "identifier": "Turtwig",
+        "species_id": 387
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 388,
+        "identifier": "Grotle",
+        "species_id": 388
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 389,
+        "identifier": "Torterra",
+        "species_id": 389
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 390,
+        "identifier": "Chimchar",
+        "species_id": 390
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 391,
+        "identifier": "Monferno",
+        "species_id": 391
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 392,
+        "identifier": "Infernape",
+        "species_id": 392
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 393,
+        "identifier": "Piplup",
+        "species_id": 393
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 394,
+        "identifier": "Prinplup",
+        "species_id": 394
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 395,
+        "identifier": "Empoleon",
+        "species_id": 395
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 396,
+        "identifier": "Starly",
+        "species_id": 396
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 397,
+        "identifier": "Staravia",
+        "species_id": 397
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 398,
+        "identifier": "Staraptor",
+        "species_id": 398
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 399,
+        "identifier": "Bidoof",
+        "species_id": 399
+    },
+    {
+        "capture_rate": 127,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 400,
+        "identifier": "Bibarel",
+        "species_id": 400
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 401,
+        "identifier": "Kricketot",
+        "species_id": 401
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 402,
+        "identifier": "Kricketune",
+        "species_id": 402
+    },
+    {
+        "capture_rate": 235,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 403,
+        "identifier": "Shinx",
+        "species_id": 403
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 404,
+        "identifier": "Luxio",
+        "species_id": 404
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 405,
+        "identifier": "Luxray",
+        "species_id": 405
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 406,
+        "identifier": "Budew",
+        "species_id": 406
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 407,
+        "identifier": "Roserade",
+        "species_id": 407
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 408,
+        "identifier": "Cranidos",
+        "species_id": 408
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 409,
+        "identifier": "Rampardos",
+        "species_id": 409
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 410,
+        "identifier": "Shieldon",
+        "species_id": 410
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 411,
+        "identifier": "Bastiodon",
+        "species_id": 411
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 412,
+        "identifier": "Burmy",
+        "species_id": 412
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 413,
+        "identifier": "Wormadam",
+        "species_id": 413
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 414,
+        "identifier": "Mothim",
+        "species_id": 414
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 415,
+        "identifier": "Combee",
+        "species_id": 415
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 416,
+        "identifier": "Vespiquen",
+        "species_id": 416
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 417,
+        "identifier": "Pachirisu",
+        "species_id": 417
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 418,
+        "identifier": "Buizel",
+        "species_id": 418
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 419,
+        "identifier": "Floatzel",
+        "species_id": 419
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 420,
+        "identifier": "Cherubi",
+        "species_id": 420
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 421,
+        "identifier": "Cherrim",
+        "species_id": 421
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 422,
+        "identifier": "Shellos",
+        "species_id": 422
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 423,
+        "identifier": "Gastrodon",
+        "species_id": 423
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 424,
+        "identifier": "Ambipom",
+        "species_id": 424
+    },
+    {
+        "capture_rate": 125,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 425,
+        "identifier": "Drifloon",
+        "species_id": 425
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 426,
+        "identifier": "Drifblim",
+        "species_id": 426
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 427,
+        "identifier": "Buneary",
+        "species_id": 427
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 428,
+        "identifier": "Lopunny",
+        "species_id": 428
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 429,
+        "identifier": "Mismagius",
+        "species_id": 429
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 430,
+        "identifier": "Honchkrow",
+        "species_id": 430
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 431,
+        "identifier": "Glameow",
+        "species_id": 431
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 432,
+        "identifier": "Purugly",
+        "species_id": 432
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 433,
+        "identifier": "Chingling",
+        "species_id": 433
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 434,
+        "identifier": "Stunky",
+        "species_id": 434
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 435,
+        "identifier": "Skuntank",
+        "species_id": 435
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 436,
+        "identifier": "Bronzor",
+        "species_id": 436
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 437,
+        "identifier": "Bronzong",
+        "species_id": 437
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 438,
+        "identifier": "Bonsly",
+        "species_id": 438
+    },
+    {
+        "capture_rate": 145,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 439,
+        "identifier": "Mime-jr",
+        "species_id": 439
+    },
+    {
+        "capture_rate": 130,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 440,
+        "identifier": "Happiny",
+        "species_id": 440
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 441,
+        "identifier": "Chatot",
+        "species_id": 441
+    },
+    {
+        "capture_rate": 100,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 442,
+        "identifier": "Spiritomb",
+        "species_id": 442
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 443,
+        "identifier": "Gible",
+        "species_id": 443
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 444,
+        "identifier": "Gabite",
+        "species_id": 444
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 445,
+        "identifier": "Garchomp",
+        "species_id": 445
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 446,
+        "identifier": "Munchlax",
+        "species_id": 446
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 447,
+        "identifier": "Riolu",
+        "species_id": 447
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 448,
+        "identifier": "Lucario",
+        "species_id": 448
+    },
+    {
+        "capture_rate": 140,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 449,
+        "identifier": "Hippopotas",
+        "species_id": 449
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 450,
+        "identifier": "Hippowdon",
+        "species_id": 450
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 451,
+        "identifier": "Skorupi",
+        "species_id": 451
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 452,
+        "identifier": "Drapion",
+        "species_id": 452
+    },
+    {
+        "capture_rate": 140,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 453,
+        "identifier": "Croagunk",
+        "species_id": 453
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 454,
+        "identifier": "Toxicroak",
+        "species_id": 454
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 455,
+        "identifier": "Carnivine",
+        "species_id": 455
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 456,
+        "identifier": "Finneon",
+        "species_id": 456
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 457,
+        "identifier": "Lumineon",
+        "species_id": 457
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 458,
+        "identifier": "Mantyke",
+        "species_id": 458
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 459,
+        "identifier": "Snover",
+        "species_id": 459
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 460,
+        "identifier": "Abomasnow",
+        "species_id": 460
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 461,
+        "identifier": "Weavile",
+        "species_id": 461
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 462,
+        "identifier": "Magnezone",
+        "species_id": 462
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 463,
+        "identifier": "Lickilicky",
+        "species_id": 463
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 464,
+        "identifier": "Rhyperior",
+        "species_id": 464
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 465,
+        "identifier": "Tangrowth",
+        "species_id": 465
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 466,
+        "identifier": "Electivire",
+        "species_id": 466
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 467,
+        "identifier": "Magmortar",
+        "species_id": 467
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 468,
+        "identifier": "Togekiss",
+        "species_id": 468
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 469,
+        "identifier": "Yanmega",
+        "species_id": 469
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 470,
+        "identifier": "Leafeon",
+        "species_id": 470
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 471,
+        "identifier": "Glaceon",
+        "species_id": 471
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 472,
+        "identifier": "Gliscor",
+        "species_id": 472
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 473,
+        "identifier": "Mamoswine",
+        "species_id": 473
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 474,
+        "identifier": "Porygon-Z",
+        "species_id": 474
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 475,
+        "identifier": "Gallade",
+        "species_id": 475
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 476,
+        "identifier": "Probopass",
+        "species_id": 476
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 477,
+        "identifier": "Dusknoir",
+        "species_id": 477
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 478,
+        "identifier": "Froslass",
+        "species_id": 478
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 479,
+        "identifier": "Rotom",
+        "species_id": 479
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 480,
+        "identifier": "Uxie",
+        "species_id": 480
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 481,
+        "identifier": "Mesprit",
+        "species_id": 481
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 482,
+        "identifier": "Azelf",
+        "species_id": 482
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 483,
+        "identifier": "Dialga",
+        "species_id": 483
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 484,
+        "identifier": "Palkia",
+        "species_id": 484
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 485,
+        "identifier": "Heatran",
+        "species_id": 485
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 486,
+        "identifier": "Regigigas",
+        "species_id": 486
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 487,
+        "identifier": "Giratina",
+        "species_id": 487
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 488,
+        "identifier": "Cresselia",
+        "species_id": 488
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 489,
+        "identifier": "Phione",
+        "species_id": 489
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 490,
+        "identifier": "Manaphy",
+        "species_id": 490
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 491,
+        "identifier": "Darkrai",
+        "species_id": 491
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 492,
+        "identifier": "Shaymin",
+        "species_id": 492
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 493,
+        "identifier": "Arceus",
+        "species_id": 493
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 494,
+        "identifier": "Victini",
+        "species_id": 494
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 495,
+        "identifier": "Snivy",
+        "species_id": 495
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 496,
+        "identifier": "Servine",
+        "species_id": 496
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 497,
+        "identifier": "Serperior",
+        "species_id": 497
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 498,
+        "identifier": "Tepig",
+        "species_id": 498
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 499,
+        "identifier": "Pignite",
+        "species_id": 499
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 500,
+        "identifier": "Emboar",
+        "species_id": 500
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 501,
+        "identifier": "Oshawott",
+        "species_id": 501
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 502,
+        "identifier": "Dewott",
+        "species_id": 502
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 503,
+        "identifier": "Samurott",
+        "species_id": 503
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 504,
+        "identifier": "Patrat",
+        "species_id": 504
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 505,
+        "identifier": "Watchog",
+        "species_id": 505
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 506,
+        "identifier": "Lillipup",
+        "species_id": 506
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 507,
+        "identifier": "Herdier",
+        "species_id": 507
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 508,
+        "identifier": "Stoutland",
+        "species_id": 508
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 509,
+        "identifier": "Purrloin",
+        "species_id": 509
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 510,
+        "identifier": "Liepard",
+        "species_id": 510
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 511,
+        "identifier": "Pansage",
+        "species_id": 511
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 512,
+        "identifier": "Simisage",
+        "species_id": 512
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 513,
+        "identifier": "Pansear",
+        "species_id": 513
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 514,
+        "identifier": "Simisear",
+        "species_id": 514
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 515,
+        "identifier": "Panpour",
+        "species_id": 515
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 516,
+        "identifier": "Simipour",
+        "species_id": 516
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 517,
+        "identifier": "Munna",
+        "species_id": 517
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 518,
+        "identifier": "Musharna",
+        "species_id": 518
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 519,
+        "identifier": "Pidove",
+        "species_id": 519
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 520,
+        "identifier": "Tranquill",
+        "species_id": 520
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 521,
+        "identifier": "Unfezant",
+        "species_id": 521
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 522,
+        "identifier": "Blitzle",
+        "species_id": 522
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 523,
+        "identifier": "Zebstrika",
+        "species_id": 523
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 524,
+        "identifier": "Roggenrola",
+        "species_id": 524
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 525,
+        "identifier": "Boldore",
+        "species_id": 525
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 526,
+        "identifier": "Gigalith",
+        "species_id": 526
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 527,
+        "identifier": "Woobat",
+        "species_id": 527
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 528,
+        "identifier": "Swoobat",
+        "species_id": 528
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 529,
+        "identifier": "Drilbur",
+        "species_id": 529
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 530,
+        "identifier": "Excadrill",
+        "species_id": 530
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 531,
+        "identifier": "Audino",
+        "species_id": 531
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 532,
+        "identifier": "Timburr",
+        "species_id": 532
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 533,
+        "identifier": "Gurdurr",
+        "species_id": 533
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 534,
+        "identifier": "Conkeldurr",
+        "species_id": 534
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 535,
+        "identifier": "Tympole",
+        "species_id": 535
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 536,
+        "identifier": "Palpitoad",
+        "species_id": 536
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 537,
+        "identifier": "Seismitoad",
+        "species_id": 537
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 538,
+        "identifier": "Throh",
+        "species_id": 538
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 539,
+        "identifier": "Sawk",
+        "species_id": 539
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 540,
+        "identifier": "Sewaddle",
+        "species_id": 540
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 541,
+        "identifier": "Swadloon",
+        "species_id": 541
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 542,
+        "identifier": "Leavanny",
+        "species_id": 542
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 543,
+        "identifier": "Venipede",
+        "species_id": 543
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 544,
+        "identifier": "Whirlipede",
+        "species_id": 544
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 545,
+        "identifier": "Scolipede",
+        "species_id": 545
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 546,
+        "identifier": "Cottonee",
+        "species_id": 546
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 547,
+        "identifier": "Whimsicott",
+        "species_id": 547
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 548,
+        "identifier": "Petilil",
+        "species_id": 548
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 549,
+        "identifier": "Lilligant",
+        "species_id": 549
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 550,
+        "identifier": "Basculin",
+        "species_id": 550
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 551,
+        "identifier": "Sandile",
+        "species_id": 551
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 552,
+        "identifier": "Krokorok",
+        "species_id": 552
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 553,
+        "identifier": "Krookodile",
+        "species_id": 553
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 554,
+        "identifier": "Darumaka",
+        "species_id": 554
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 555,
+        "identifier": "Darmanitan",
+        "species_id": 555
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 556,
+        "identifier": "Maractus",
+        "species_id": 556
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 557,
+        "identifier": "Dwebble",
+        "species_id": 557
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 558,
+        "identifier": "Crustle",
+        "species_id": 558
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 559,
+        "identifier": "Scraggy",
+        "species_id": 559
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 560,
+        "identifier": "Scrafty",
+        "species_id": 560
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 561,
+        "identifier": "Sigilyph",
+        "species_id": 561
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 562,
+        "identifier": "Yamask",
+        "species_id": 562
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 563,
+        "identifier": "Cofagrigus",
+        "species_id": 563
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 564,
+        "identifier": "Tirtouga",
+        "species_id": 564
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 565,
+        "identifier": "Carracosta",
+        "species_id": 565
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 566,
+        "identifier": "Archen",
+        "species_id": 566
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 567,
+        "identifier": "Archeops",
+        "species_id": 567
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 568,
+        "identifier": "Trubbish",
+        "species_id": 568
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 569,
+        "identifier": "Garbodor",
+        "species_id": 569
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 570,
+        "identifier": "Zorua",
+        "species_id": 570
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 571,
+        "identifier": "Zoroark",
+        "species_id": 571
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 572,
+        "identifier": "Minccino",
+        "species_id": 572
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 573,
+        "identifier": "Cinccino",
+        "species_id": 573
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 574,
+        "identifier": "Gothita",
+        "species_id": 574
+    },
+    {
+        "capture_rate": 100,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 575,
+        "identifier": "Gothorita",
+        "species_id": 575
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 576,
+        "identifier": "Gothitelle",
+        "species_id": 576
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 577,
+        "identifier": "Solosis",
+        "species_id": 577
+    },
+    {
+        "capture_rate": 100,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 578,
+        "identifier": "Duosion",
+        "species_id": 578
+    },
+    {
+        "capture_rate": 50,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 579,
+        "identifier": "Reuniclus",
+        "species_id": 579
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 580,
+        "identifier": "Ducklett",
+        "species_id": 580
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 581,
+        "identifier": "Swanna",
+        "species_id": 581
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 582,
+        "identifier": "Vanillite",
+        "species_id": 582
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 583,
+        "identifier": "Vanillish",
+        "species_id": 583
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 584,
+        "identifier": "Vanilluxe",
+        "species_id": 584
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 585,
+        "identifier": "Deerling",
+        "species_id": 585
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 586,
+        "identifier": "Sawsbuck",
+        "species_id": 586
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 587,
+        "identifier": "Emolga",
+        "species_id": 587
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 588,
+        "identifier": "Karrablast",
+        "species_id": 588
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 589,
+        "identifier": "Escavalier",
+        "species_id": 589
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 590,
+        "identifier": "Foongus",
+        "species_id": 590
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 591,
+        "identifier": "Amoonguss",
+        "species_id": 591
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 592,
+        "identifier": "Frillish",
+        "species_id": 592
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 593,
+        "identifier": "Jellicent",
+        "species_id": 593
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 594,
+        "identifier": "Alomomola",
+        "species_id": 594
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 595,
+        "identifier": "Joltik",
+        "species_id": 595
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 596,
+        "identifier": "Galvantula",
+        "species_id": 596
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 597,
+        "identifier": "Ferroseed",
+        "species_id": 597
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 598,
+        "identifier": "Ferrothorn",
+        "species_id": 598
+    },
+    {
+        "capture_rate": 130,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 599,
+        "identifier": "Klink",
+        "species_id": 599
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 600,
+        "identifier": "Klang",
+        "species_id": 600
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 601,
+        "identifier": "Klinklang",
+        "species_id": 601
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 602,
+        "identifier": "Tynamo",
+        "species_id": 602
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 603,
+        "identifier": "Eelektrik",
+        "species_id": 603
+    },
+    {
+        "capture_rate": 30,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 604,
+        "identifier": "Eelektross",
+        "species_id": 604
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 605,
+        "identifier": "Elgyem",
+        "species_id": 605
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 606,
+        "identifier": "Beheeyem",
+        "species_id": 606
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 607,
+        "identifier": "Litwick",
+        "species_id": 607
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 608,
+        "identifier": "Lampent",
+        "species_id": 608
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 609,
+        "identifier": "Chandelure",
+        "species_id": 609
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 610,
+        "identifier": "Axew",
+        "species_id": 610
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 611,
+        "identifier": "Fraxure",
+        "species_id": 611
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 612,
+        "identifier": "Haxorus",
+        "species_id": 612
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 613,
+        "identifier": "Cubchoo",
+        "species_id": 613
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 614,
+        "identifier": "Beartic",
+        "species_id": 614
+    },
+    {
+        "capture_rate": 25,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 615,
+        "identifier": "Cryogonal",
+        "species_id": 615
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 616,
+        "identifier": "Shelmet",
+        "species_id": 616
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 617,
+        "identifier": "Accelgor",
+        "species_id": 617
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 618,
+        "identifier": "Stunfisk",
+        "species_id": 618
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 619,
+        "identifier": "Mienfoo",
+        "species_id": 619
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 620,
+        "identifier": "Mienshao",
+        "species_id": 620
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 621,
+        "identifier": "Druddigon",
+        "species_id": 621
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 622,
+        "identifier": "Golett",
+        "species_id": 622
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 623,
+        "identifier": "Golurk",
+        "species_id": 623
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 624,
+        "identifier": "Pawniard",
+        "species_id": 624
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 625,
+        "identifier": "Bisharp",
+        "species_id": 625
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 626,
+        "identifier": "Bouffalant",
+        "species_id": 626
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 627,
+        "identifier": "Rufflet",
+        "species_id": 627
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 628,
+        "identifier": "Braviary",
+        "species_id": 628
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 629,
+        "identifier": "Vullaby",
+        "species_id": 629
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 630,
+        "identifier": "Mandibuzz",
+        "species_id": 630
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 631,
+        "identifier": "Heatmor",
+        "species_id": 631
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 632,
+        "identifier": "Durant",
+        "species_id": 632
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 633,
+        "identifier": "Deino",
+        "species_id": 633
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 634,
+        "identifier": "Zweilous",
+        "species_id": 634
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 635,
+        "identifier": "Hydreigon",
+        "species_id": 635
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 636,
+        "identifier": "Larvesta",
+        "species_id": 636
+    },
+    {
+        "capture_rate": 15,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 637,
+        "identifier": "Volcarona",
+        "species_id": 637
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 638,
+        "identifier": "Cobalion",
+        "species_id": 638
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 639,
+        "identifier": "Terrakion",
+        "species_id": 639
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 640,
+        "identifier": "Virizion",
+        "species_id": 640
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 641,
+        "identifier": "Tornadus",
+        "species_id": 641
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 642,
+        "identifier": "Thundurus",
+        "species_id": 642
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 643,
+        "identifier": "Reshiram",
+        "species_id": 643
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 644,
+        "identifier": "Zekrom",
+        "species_id": 644
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 645,
+        "identifier": "Landorus",
+        "species_id": 645
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 646,
+        "identifier": "Kyurem",
+        "species_id": 646
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 647,
+        "identifier": "Keldeo",
+        "species_id": 647
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 648,
+        "identifier": "Meloetta",
+        "species_id": 648
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 649,
+        "identifier": "Genesect",
+        "species_id": 649
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 650,
+        "identifier": "Chespin",
+        "species_id": 650
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 651,
+        "identifier": "Quilladin",
+        "species_id": 651
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 652,
+        "identifier": "Chesnaught",
+        "species_id": 652
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 653,
+        "identifier": "Fennekin",
+        "species_id": 653
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 654,
+        "identifier": "Braixen",
+        "species_id": 654
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 655,
+        "identifier": "Delphox",
+        "species_id": 655
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 656,
+        "identifier": "Froakie",
+        "species_id": 656
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 657,
+        "identifier": "Frogadier",
+        "species_id": 657
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 658,
+        "identifier": "Greninja",
+        "species_id": 658
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 659,
+        "identifier": "Bunnelby",
+        "species_id": 659
+    },
+    {
+        "capture_rate": 127,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 660,
+        "identifier": "Diggersby",
+        "species_id": 660
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 661,
+        "identifier": "Fletchling",
+        "species_id": 661
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 662,
+        "identifier": "Fletchinder",
+        "species_id": 662
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 663,
+        "identifier": "Talonflame",
+        "species_id": 663
+    },
+    {
+        "capture_rate": 255,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 664,
+        "identifier": "Scatterbug",
+        "species_id": 664
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 665,
+        "identifier": "Spewpa",
+        "species_id": 665
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 666,
+        "identifier": "Vivillon",
+        "species_id": 666
+    },
+    {
+        "capture_rate": 220,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 667,
+        "identifier": "Litleo",
+        "species_id": 667
+    },
+    {
+        "capture_rate": 65,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 668,
+        "identifier": "Pyroar",
+        "species_id": 668
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 669,
+        "identifier": "Flabebe",
+        "species_id": 669
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 670,
+        "identifier": "Floette",
+        "species_id": 670
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 671,
+        "identifier": "Florges",
+        "species_id": 671
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 672,
+        "identifier": "Skiddo",
+        "species_id": 672
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 673,
+        "identifier": "Gogoat",
+        "species_id": 673
+    },
+    {
+        "capture_rate": 220,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 674,
+        "identifier": "Pancham",
+        "species_id": 674
+    },
+    {
+        "capture_rate": 65,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 675,
+        "identifier": "Pangoro",
+        "species_id": 675
+    },
+    {
+        "capture_rate": 160,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 676,
+        "identifier": "Furfrou",
+        "species_id": 676
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 677,
+        "identifier": "Espurr",
+        "species_id": 677
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 678,
+        "identifier": "Meowstic",
+        "species_id": 678
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 679,
+        "identifier": "Honedge",
+        "species_id": 679
+    },
+    {
+        "capture_rate": 90,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 680,
+        "identifier": "Doublade",
+        "species_id": 680
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 681,
+        "identifier": "Aegislash",
+        "species_id": 681
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 682,
+        "identifier": "Spritzee",
+        "species_id": 682
+    },
+    {
+        "capture_rate": 140,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 683,
+        "identifier": "Aromatisse",
+        "species_id": 683
+    },
+    {
+        "capture_rate": 200,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 684,
+        "identifier": "Swirlix",
+        "species_id": 684
+    },
+    {
+        "capture_rate": 140,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 685,
+        "identifier": "Slurpuff",
+        "species_id": 685
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 686,
+        "identifier": "Inkay",
+        "species_id": 686
+    },
+    {
+        "capture_rate": 80,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 687,
+        "identifier": "Malamar",
+        "species_id": 687
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 688,
+        "identifier": "Binacle",
+        "species_id": 688
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 689,
+        "identifier": "Barbaracle",
+        "species_id": 689
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 690,
+        "identifier": "Skrelp",
+        "species_id": 690
+    },
+    {
+        "capture_rate": 55,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 691,
+        "identifier": "Dragalge",
+        "species_id": 691
+    },
+    {
+        "capture_rate": 225,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 692,
+        "identifier": "Clauncher",
+        "species_id": 692
+    },
+    {
+        "capture_rate": 55,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 693,
+        "identifier": "Clawitzer",
+        "species_id": 693
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 694,
+        "identifier": "Helioptile",
+        "species_id": 694
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 695,
+        "identifier": "Heliolisk",
+        "species_id": 695
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 696,
+        "identifier": "Tyrunt",
+        "species_id": 696
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 697,
+        "identifier": "Tyrantrum",
+        "species_id": 697
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 698,
+        "identifier": "Amaura",
+        "species_id": 698
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 699,
+        "identifier": "Aurorus",
+        "species_id": 699
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 700,
+        "identifier": "Sylveon",
+        "species_id": 700
+    },
+    {
+        "capture_rate": 100,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 701,
+        "identifier": "Hawlucha",
+        "species_id": 701
+    },
+    {
+        "capture_rate": 180,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 702,
+        "identifier": "Dedenne",
+        "species_id": 702
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 703,
+        "identifier": "Carbink",
+        "species_id": 703
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 704,
+        "identifier": "Goomy",
+        "species_id": 704
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 705,
+        "identifier": "Sliggoo",
+        "species_id": 705
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 706,
+        "identifier": "Goodra",
+        "species_id": 706
+    },
+    {
+        "capture_rate": 75,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 707,
+        "identifier": "Klefki",
+        "species_id": 707
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 708,
+        "identifier": "Phantump",
+        "species_id": 708
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 709,
+        "identifier": "Trevenant",
+        "species_id": 709
+    },
+    {
+        "capture_rate": 120,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 710,
+        "identifier": "Pumpkaboo",
+        "species_id": 710
+    },
+    {
+        "capture_rate": 60,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 711,
+        "identifier": "Gourgeist",
+        "species_id": 711
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 712,
+        "identifier": "Bergmite",
+        "species_id": 712
+    },
+    {
+        "capture_rate": 55,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 713,
+        "identifier": "Avalugg",
+        "species_id": 713
+    },
+    {
+        "capture_rate": 190,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 714,
+        "identifier": "Noibat",
+        "species_id": 714
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 715,
+        "identifier": "Noivern",
+        "species_id": 715
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 716,
+        "identifier": "Xerneas",
+        "species_id": 716
+    },
+    {
+        "capture_rate": 45,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 717,
+        "identifier": "Yveltal",
+        "species_id": 717
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 718,
+        "identifier": "Zygarde",
+        "species_id": 718
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 719,
+        "identifier": "Diancie",
+        "species_id": 719
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 720,
+        "identifier": "Hoopa",
+        "species_id": 720
+    },
+    {
+        "capture_rate": 3,
+        "catched": false,
+        "habitat_id": 0,
+        "id": 721,
+        "identifier": "Volcanion",
+        "species_id": 721
+    }
+]

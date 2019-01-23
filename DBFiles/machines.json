@@ -1,0 +1,430 @@
+[
+    {
+        "machine_number": 1,
+        "move_id": 468
+    },
+    {
+        "machine_number": 2,
+        "move_id": 337
+    },
+    {
+        "machine_number": 3,
+        "move_id": 473
+    },
+    {
+        "machine_number": 4,
+        "move_id": 347
+    },
+    {
+        "machine_number": 5,
+        "move_id": 46
+    },
+    {
+        "machine_number": 6,
+        "move_id": 92
+    },
+    {
+        "machine_number": 7,
+        "move_id": 258
+    },
+    {
+        "machine_number": 8,
+        "move_id": 339
+    },
+    {
+        "machine_number": 9,
+        "move_id": 474
+    },
+    {
+        "machine_number": 10,
+        "move_id": 237
+    },
+    {
+        "machine_number": 11,
+        "move_id": 241
+    },
+    {
+        "machine_number": 12,
+        "move_id": 269
+    },
+    {
+        "machine_number": 13,
+        "move_id": 58
+    },
+    {
+        "machine_number": 14,
+        "move_id": 59
+    },
+    {
+        "machine_number": 15,
+        "move_id": 63
+    },
+    {
+        "machine_number": 16,
+        "move_id": 113
+    },
+    {
+        "machine_number": 17,
+        "move_id": 182
+    },
+    {
+        "machine_number": 18,
+        "move_id": 240
+    },
+    {
+        "machine_number": 19,
+        "move_id": 355
+    },
+    {
+        "machine_number": 20,
+        "move_id": 219
+    },
+    {
+        "machine_number": 21,
+        "move_id": 218
+    },
+    {
+        "machine_number": 22,
+        "move_id": 76
+    },
+    {
+        "machine_number": 23,
+        "move_id": 479
+    },
+    {
+        "machine_number": 24,
+        "move_id": 85
+    },
+    {
+        "machine_number": 25,
+        "move_id": 87
+    },
+    {
+        "machine_number": 26,
+        "move_id": 89
+    },
+    {
+        "machine_number": 27,
+        "move_id": 216
+    },
+    {
+        "machine_number": 28,
+        "move_id": 91
+    },
+    {
+        "machine_number": 29,
+        "move_id": 94
+    },
+    {
+        "machine_number": 30,
+        "move_id": 247
+    },
+    {
+        "machine_number": 31,
+        "move_id": 280
+    },
+    {
+        "machine_number": 32,
+        "move_id": 104
+    },
+    {
+        "machine_number": 33,
+        "move_id": 115
+    },
+    {
+        "machine_number": 34,
+        "move_id": 482
+    },
+    {
+        "machine_number": 35,
+        "move_id": 53
+    },
+    {
+        "machine_number": 36,
+        "move_id": 188
+    },
+    {
+        "machine_number": 37,
+        "move_id": 201
+    },
+    {
+        "machine_number": 38,
+        "move_id": 126
+    },
+    {
+        "machine_number": 39,
+        "move_id": 317
+    },
+    {
+        "machine_number": 40,
+        "move_id": 332
+    },
+    {
+        "machine_number": 41,
+        "move_id": 259
+    },
+    {
+        "machine_number": 42,
+        "move_id": 263
+    },
+    {
+        "machine_number": 43,
+        "move_id": 488
+    },
+    {
+        "machine_number": 44,
+        "move_id": 156
+    },
+    {
+        "machine_number": 45,
+        "move_id": 213
+    },
+    {
+        "machine_number": 46,
+        "move_id": 168
+    },
+    {
+        "machine_number": 47,
+        "move_id": 490
+    },
+    {
+        "machine_number": 48,
+        "move_id": 496
+    },
+    {
+        "machine_number": 49,
+        "move_id": 497
+    },
+    {
+        "machine_number": 50,
+        "move_id": 315
+    },
+    {
+        "machine_number": 51,
+        "move_id": 211
+    },
+    {
+        "machine_number": 52,
+        "move_id": 411
+    },
+    {
+        "machine_number": 53,
+        "move_id": 412
+    },
+    {
+        "machine_number": 54,
+        "move_id": 206
+    },
+    {
+        "machine_number": 55,
+        "move_id": 503
+    },
+    {
+        "machine_number": 56,
+        "move_id": 374
+    },
+    {
+        "machine_number": 57,
+        "move_id": 451
+    },
+    {
+        "machine_number": 58,
+        "move_id": 507
+    },
+    {
+        "machine_number": 59,
+        "move_id": 510
+    },
+    {
+        "machine_number": 60,
+        "move_id": 511
+    },
+    {
+        "machine_number": 61,
+        "move_id": 261
+    },
+    {
+        "machine_number": 62,
+        "move_id": 512
+    },
+    {
+        "machine_number": 63,
+        "move_id": 373
+    },
+    {
+        "machine_number": 64,
+        "move_id": 153
+    },
+    {
+        "machine_number": 65,
+        "move_id": 421
+    },
+    {
+        "machine_number": 66,
+        "move_id": 371
+    },
+    {
+        "machine_number": 67,
+        "move_id": 514
+    },
+    {
+        "machine_number": 68,
+        "move_id": 416
+    },
+    {
+        "machine_number": 69,
+        "move_id": 397
+    },
+    {
+        "machine_number": 70,
+        "move_id": 148
+    },
+    {
+        "machine_number": 71,
+        "move_id": 444
+    },
+    {
+        "machine_number": 72,
+        "move_id": 521
+    },
+    {
+        "machine_number": 73,
+        "move_id": 86
+    },
+    {
+        "machine_number": 74,
+        "move_id": 360
+    },
+    {
+        "machine_number": 75,
+        "move_id": 14
+    },
+    {
+        "machine_number": 76,
+        "move_id": 522
+    },
+    {
+        "machine_number": 77,
+        "move_id": 244
+    },
+    {
+        "machine_number": 78,
+        "move_id": 523
+    },
+    {
+        "machine_number": 79,
+        "move_id": 524
+    },
+    {
+        "machine_number": 80,
+        "move_id": 157
+    },
+    {
+        "machine_number": 81,
+        "move_id": 404
+    },
+    {
+        "machine_number": 82,
+        "move_id": 525
+    },
+    {
+        "machine_number": 83,
+        "move_id": 611
+    },
+    {
+        "machine_number": 84,
+        "move_id": 398
+    },
+    {
+        "machine_number": 85,
+        "move_id": 138
+    },
+    {
+        "machine_number": 86,
+        "move_id": 447
+    },
+    {
+        "machine_number": 87,
+        "move_id": 207
+    },
+    {
+        "machine_number": 88,
+        "move_id": 214
+    },
+    {
+        "machine_number": 89,
+        "move_id": 369
+    },
+    {
+        "machine_number": 90,
+        "move_id": 164
+    },
+    {
+        "machine_number": 91,
+        "move_id": 430
+    },
+    {
+        "machine_number": 92,
+        "move_id": 433
+    },
+    {
+        "machine_number": 93,
+        "move_id": 528
+    },
+    {
+        "machine_number": 94,
+        "move_id": 290
+    },
+    {
+        "machine_number": 95,
+        "move_id": 555
+    },
+    {
+        "machine_number": 96,
+        "move_id": 267
+    },
+    {
+        "machine_number": 97,
+        "move_id": 399
+    },
+    {
+        "machine_number": 98,
+        "move_id": 612
+    },
+    {
+        "machine_number": 99,
+        "move_id": 605
+    },
+    {
+        "machine_number": 100,
+        "move_id": 590
+    },
+    {
+        "machine_number": 101,
+        "move_id": 15
+    },
+    {
+        "machine_number": 102,
+        "move_id": 19
+    },
+    {
+        "machine_number": 103,
+        "move_id": 57
+    },
+    {
+        "machine_number": 104,
+        "move_id": 70
+    },
+    {
+        "machine_number": 105,
+        "move_id": 127
+    },
+    {
+        "machine_number": 106,
+        "move_id": 249
+    },
+    {
+        "machine_number": 107,
+        "move_id": 291
+    }
+]

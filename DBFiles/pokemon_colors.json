@@ -1,0 +1,2886 @@
+[
+    {
+        "pokemon_id": 1,
+        "primary_color": "#8BCDB4"
+    },
+    {
+        "pokemon_id": 2,
+        "primary_color": "#7BC5C5"
+    },
+    {
+        "pokemon_id": 3,
+        "primary_color": "#5FB0AD"
+    },
+    {
+        "pokemon_id": 4,
+        "primary_color": "#F4B185"
+    },
+    {
+        "pokemon_id": 5,
+        "primary_color": "#EE837B"
+    },
+    {
+        "pokemon_id": 6,
+        "primary_color": "#FFA462"
+    },
+    {
+        "pokemon_id": 7,
+        "primary_color": "#73BDCD"
+    },
+    {
+        "pokemon_id": 8,
+        "primary_color": "#a4b4ee"
+    },
+    {
+        "pokemon_id": 9,
+        "primary_color": "#83acd5"
+    },
+    {
+        "pokemon_id": 10,
+        "primary_color": "#87c876"
+    },
+    {
+        "pokemon_id": 11,
+        "primary_color": "#a7d862"
+    },
+    {
+        "pokemon_id": 12,
+        "primary_color": "#7e7795"
+    },
+    {
+        "pokemon_id": 13,
+        "primary_color": "#b99153"
+    },
+    {
+        "pokemon_id": 14,
+        "primary_color": "#d5bd6a"
+    },
+    {
+        "pokemon_id": 15,
+        "primary_color": "#edd162"
+    },
+    {
+        "pokemon_id": 16,
+        "primary_color": "#ac7635"
+    },
+    {
+        "pokemon_id": 17,
+        "primary_color": "#f7f0b4"
+    },
+    {
+        "pokemon_id": 18,
+        "primary_color": "#fbebba"
+    },
+    {
+        "pokemon_id": 19,
+        "primary_color": "#9c83ac"
+    },
+    {
+        "pokemon_id": 20,
+        "primary_color": "#c08f4a"
+    },
+    {
+        "pokemon_id": 21,
+        "primary_color": "#cd6262"
+    },
+    {
+        "pokemon_id": 22,
+        "primary_color": "#b47e4f"
+    },
+    {
+        "pokemon_id": 23,
+        "primary_color": "#ac839c"
+    },
+    {
+        "pokemon_id": 24,
+        "primary_color": "#b4acbd"
+    },
+    {
+        "pokemon_id": 25,
+        "primary_color": "#f6e683"
+    },
+    {
+        "pokemon_id": 26,
+        "primary_color": "#eec562"
+    },
+    {
+        "pokemon_id": 27,
+        "primary_color": "#e6cf5f"
+    },
+    {
+        "pokemon_id": 28,
+        "primary_color": "#a27b24"
+    },
+    {
+        "pokemon_id": 29,
+        "primary_color": "#b4c5de"
+    },
+    {
+        "pokemon_id": 30,
+        "primary_color": "#bdd5de"
+    },
+    {
+        "pokemon_id": 31,
+        "primary_color": "#7ba4bd"
+    },
+    {
+        "pokemon_id": 32,
+        "primary_color": "#cda4cd"
+    },
+    {
+        "pokemon_id": 33,
+        "primary_color": "#b494b4"
+    },
+    {
+        "pokemon_id": 34,
+        "primary_color": "#b483b4"
+    },
+    {
+        "pokemon_id": 35,
+        "primary_color": "#ffd5d5"
+    },
+    {
+        "pokemon_id": 36,
+        "primary_color": "#ffe6de"
+    },
+    {
+        "pokemon_id": 37,
+        "primary_color": "#c5948b"
+    },
+    {
+        "pokemon_id": 38,
+        "primary_color": "#f6f6b4"
+    },
+    {
+        "pokemon_id": 39,
+        "primary_color": "#f6cdd5"
+    },
+    {
+        "pokemon_id": 40,
+        "primary_color": "#f6dee6"
+    },
+    {
+        "pokemon_id": 41,
+        "primary_color": "#b483b4"
+    },
+    {
+        "pokemon_id": 42,
+        "primary_color": "#b47bb4"
+    },
+    {
+        "pokemon_id": 43,
+        "primary_color": "#7bc562"
+    },
+    {
+        "pokemon_id": 44,
+        "primary_color": "#83a4b4"
+    },
+    {
+        "pokemon_id": 45,
+        "primary_color": "#d57b94"
+    },
+    {
+        "pokemon_id": 46,
+        "primary_color": "#f6c58b"
+    },
+    {
+        "pokemon_id": 47,
+        "primary_color": "#d594ac"
+    },
+    {
+        "pokemon_id": 48,
+        "primary_color": "#7572af"
+    },
+    {
+        "pokemon_id": 49,
+        "primary_color": "#e6deee"
+    },
+    {
+        "pokemon_id": 50,
+        "primary_color": "#a78876"
+    },
+    {
+        "pokemon_id": 51,
+        "primary_color": "#9f8371"
+    },
+    {
+        "pokemon_id": 52,
+        "primary_color": "#ffeed5"
+    },
+    {
+        "pokemon_id": 53,
+        "primary_color": "#f6e6bd"
+    },
+    {
+        "pokemon_id": 54,
+        "primary_color": "#f6cd83"
+    },
+    {
+        "pokemon_id": 55,
+        "primary_color": "#73acd5"
+    },
+    {
+        "pokemon_id": 56,
+        "primary_color": "#f3e2d5"
+    },
+    {
+        "pokemon_id": 57,
+        "primary_color": "#f1dfd1"
+    },
+    {
+        "pokemon_id": 58,
+        "primary_color": "#e59f69"
+    },
+    {
+        "pokemon_id": 59,
+        "primary_color": "#e9965b"
+    },
+    {
+        "pokemon_id": 60,
+        "primary_color": "#6a94bd"
+    },
+    {
+        "pokemon_id": 61,
+        "primary_color": "#5b87ba"
+    },
+    {
+        "pokemon_id": 62,
+        "primary_color": "#5a83b4"
+    },
+    {
+        "pokemon_id": 63,
+        "primary_color": "#f6e683"
+    },
+    {
+        "pokemon_id": 64,
+        "primary_color": "#e6cd52"
+    },
+    {
+        "pokemon_id": 65,
+        "primary_color": "#eed552"
+    },
+    {
+        "pokemon_id": 66,
+        "primary_color": "#accdd5"
+    },
+    {
+        "pokemon_id": 67,
+        "primary_color": "#bbc1cf"
+    },
+    {
+        "pokemon_id": 68,
+        "primary_color": "#abbfc8"
+    },
+    {
+        "pokemon_id": 69,
+        "primary_color": "#90ce99"
+    },
+    {
+        "pokemon_id": 70,
+        "primary_color": "#ebe96f"
+    },
+    {
+        "pokemon_id": 71,
+        "primary_color": "#86c98d"
+    },
+    {
+        "pokemon_id": 72,
+        "primary_color": "#6ab4e6"
+    },
+    {
+        "pokemon_id": 73,
+        "primary_color": "#73bdee"
+    },
+    {
+        "pokemon_id": 74,
+        "primary_color": "#b4b4ac"
+    },
+    {
+        "pokemon_id": 75,
+        "primary_color": "#c7cabf"
+    },
+    {
+        "pokemon_id": 76,
+        "primary_color": "#9ba58d"
+    },
+    {
+        "pokemon_id": 77,
+        "primary_color": "#fbf3cc"
+    },
+    {
+        "pokemon_id": 78,
+        "primary_color": "#f4ebc3"
+    },
+    {
+        "pokemon_id": 79,
+        "primary_color": "#e6a4b4"
+    },
+    {
+        "pokemon_id": 80,
+        "primary_color": "#ee8bac"
+    },
+    {
+        "pokemon_id": 81,
+        "primary_color": "#abcacf"
+    },
+    {
+        "pokemon_id": 82,
+        "primary_color": "#a2c2d0"
+    },
+    {
+        "pokemon_id": 83,
+        "primary_color": "#9f8d8b"
+    },
+    {
+        "pokemon_id": 84,
+        "primary_color": "#c58e6b"
+    },
+    {
+        "pokemon_id": 85,
+        "primary_color": "#c78f74"
+    },
+    {
+        "pokemon_id": 86,
+        "primary_color": "#d5deea"
+    },
+    {
+        "pokemon_id": 87,
+        "primary_color": "#e6eef6"
+    },
+    {
+        "pokemon_id": 88,
+        "primary_color": "#ac94bd"
+    },
+    {
+        "pokemon_id": 89,
+        "primary_color": "#a494ac"
+    },
+    {
+        "pokemon_id": 90,
+        "primary_color": "#827eb8"
+    },
+    {
+        "pokemon_id": 91,
+        "primary_color": "#a098bd"
+    },
+    {
+        "pokemon_id": 92,
+        "primary_color": "#927591"
+    },
+    {
+        "pokemon_id": 93,
+        "primary_color": "#796e8b"
+    },
+    {
+        "pokemon_id": 94,
+        "primary_color": "#6f6395"
+    },
+    {
+        "pokemon_id": 95,
+        "primary_color": "#a4a4ac"
+    },
+    {
+        "pokemon_id": 96,
+        "primary_color": "#f6d56a"
+    },
+    {
+        "pokemon_id": 97,
+        "primary_color": "#fada55"
+    },
+    {
+        "pokemon_id": 98,
+        "primary_color": "#f69c6a"
+    },
+    {
+        "pokemon_id": 99,
+        "primary_color": "#ee9464"
+    },
+    {
+        "pokemon_id": 100,
+        "primary_color": "#e68383"
+    },
+    {
+        "pokemon_id": 101,
+        "primary_color": "#bdcdde"
+    },
+    {
+        "pokemon_id": 102,
+        "primary_color": "#ffdee6"
+    },
+    {
+        "pokemon_id": 103,
+        "primary_color": "#6aac7b"
+    },
+    {
+        "pokemon_id": 104,
+        "primary_color": "#d1d3d3"
+    },
+    {
+        "pokemon_id": 105,
+        "primary_color": "#caa272"
+    },
+    {
+        "pokemon_id": 106,
+        "primary_color": "#bea7a2"
+    },
+    {
+        "pokemon_id": 107,
+        "primary_color": "#c5c1d9"
+    },
+    {
+        "pokemon_id": 108,
+        "primary_color": "#efadb9"
+    },
+    {
+        "pokemon_id": 109,
+        "primary_color": "#9494bd"
+    },
+    {
+        "pokemon_id": 110,
+        "primary_color": "#ad9dc1"
+    },
+    {
+        "pokemon_id": 111,
+        "primary_color": "#a1b4ba"
+    },
+    {
+        "pokemon_id": 112,
+        "primary_color": "#b4bfd1"
+    },
+    {
+        "pokemon_id": 113,
+        "primary_color": "#f6cde6"
+    },
+    {
+        "pokemon_id": 114,
+        "primary_color": "#6ba1c1"
+    },
+    {
+        "pokemon_id": 115,
+        "primary_color": "#bba096"
+    },
+    {
+        "pokemon_id": 116,
+        "primary_color": "#94d5e6"
+    },
+    {
+        "pokemon_id": 117,
+        "primary_color": "#9cdee6"
+    },
+    {
+        "pokemon_id": 118,
+        "primary_color": "#e6e6f6"
+    },
+    {
+        "pokemon_id": 119,
+        "primary_color": "#e38061"
+    },
+    {
+        "pokemon_id": 120,
+        "primary_color": "#957857"
+    },
+    {
+        "pokemon_id": 121,
+        "primary_color": "#b9b5da"
+    },
+    {
+        "pokemon_id": 122,
+        "primary_color": "#e68394"
+    },
+    {
+        "pokemon_id": 123,
+        "primary_color": "#9cd594"
+    },
+    {
+        "pokemon_id": 124,
+        "primary_color": "#de6a6a"
+    },
+    {
+        "pokemon_id": 125,
+        "primary_color": "#f7df85"
+    },
+    {
+        "pokemon_id": 126,
+        "primary_color": "#ed693b"
+    },
+    {
+        "pokemon_id": 127,
+        "primary_color": "#ac9c9c"
+    },
+    {
+        "pokemon_id": 128,
+        "primary_color": "#d9a56e"
+    },
+    {
+        "pokemon_id": 129,
+        "primary_color": "#ff7b5a"
+    },
+    {
+        "pokemon_id": 130,
+        "primary_color": "#61aae7"
+    },
+    {
+        "pokemon_id": 131,
+        "primary_color": "#52acde"
+    },
+    {
+        "pokemon_id": 132,
+        "primary_color": "#c6b2d7"
+    },
+    {
+        "pokemon_id": 133,
+        "primary_color": "#c4915d"
+    },
+    {
+        "pokemon_id": 134,
+        "primary_color": "#79cde0"
+    },
+    {
+        "pokemon_id": 135,
+        "primary_color": "#f5d16e"
+    },
+    {
+        "pokemon_id": 136,
+        "primary_color": "#ec814d"
+    },
+    {
+        "pokemon_id": 137,
+        "primary_color": "#e15e6d"
+    },
+    {
+        "pokemon_id": 138,
+        "primary_color": "#e6dec5"
+    },
+    {
+        "pokemon_id": 139,
+        "primary_color": "#70c1d5"
+    },
+    {
+        "pokemon_id": 140,
+        "primary_color": "#b88a5f"
+    },
+    {
+        "pokemon_id": 141,
+        "primary_color": "#aa7f5a"
+    },
+    {
+        "pokemon_id": 142,
+        "primary_color": "#cac9da"
+    },
+    {
+        "pokemon_id": 143,
+        "primary_color": "#347f9c"
+    },
+    {
+        "pokemon_id": 144,
+        "primary_color": "#8bb4de"
+    },
+    {
+        "pokemon_id": 145,
+        "primary_color": "#f6de7b"
+    },
+    {
+        "pokemon_id": 146,
+        "primary_color": "#f6a46a"
+    },
+    {
+        "pokemon_id": 147,
+        "primary_color": "#acc5e6"
+    },
+    {
+        "pokemon_id": 148,
+        "primary_color": "#73acde"
+    },
+    {
+        "pokemon_id": 149,
+        "primary_color": "#f2b46c"
+    },
+    {
+        "pokemon_id": 150,
+        "primary_color": "#dcd7e1"
+    },
+    {
+        "pokemon_id": 151,
+        "primary_color": "#f6cdde"
+    },
+    {
+        "pokemon_id": 152,
+        "primary_color": "#D1E2AB"
+    },
+    {
+        "pokemon_id": 153,
+        "primary_color": "#96B86F"
+    },
+    {
+        "pokemon_id": 154,
+        "primary_color": "#BBDB90"
+    },
+    {
+        "pokemon_id": 155,
+        "primary_color": "#E47851"
+    },
+    {
+        "pokemon_id": 156,
+        "primary_color": "#F27133"
+    },
+    {
+        "pokemon_id": 157,
+        "primary_color": "#EB6B2A"
+    },
+    {
+        "pokemon_id": 158,
+        "primary_color": "#6BC5CD"
+    },
+    {
+        "pokemon_id": 159,
+        "primary_color": "#7FC8D2"
+    },
+    {
+        "pokemon_id": 160,
+        "primary_color": "#63C5E6"
+    },
+    {
+        "pokemon_id": 161,
+        "primary_color": "#AD8677"
+    },
+    {
+        "pokemon_id": 162,
+        "primary_color": "#F4DBB9"
+    },
+    {
+        "pokemon_id": 163,
+        "primary_color": "#AA9175"
+    },
+    {
+        "pokemon_id": 164,
+        "primary_color": "#AD8879"
+    },
+    {
+        "pokemon_id": 165,
+        "primary_color": "#EC825F"
+    },
+    {
+        "pokemon_id": 166,
+        "primary_color": "#CD4467"
+    },
+    {
+        "pokemon_id": 167,
+        "primary_color": "#A6D789"
+    },
+    {
+        "pokemon_id": 168,
+        "primary_color": "#D05972"
+    },
+    {
+        "pokemon_id": 169,
+        "primary_color": "#8A6DA9"
+    },
+    {
+        "pokemon_id": 170,
+        "primary_color": "#7987C5"
+    },
+    {
+        "pokemon_id": 171,
+        "primary_color": "#8D9BD0"
+    },
+    {
+        "pokemon_id": 172,
+        "primary_color": "#F6F695"
+    },
+    {
+        "pokemon_id": 173,
+        "primary_color": "#f6cdc5"
+    },
+    {
+        "pokemon_id": 174,
+        "primary_color": "#ffd5d5"
+    },
+    {
+        "pokemon_id": 175,
+        "primary_color": "#FFF6CD"
+    },
+    {
+        "pokemon_id": 176,
+        "primary_color": "#DEEED5"
+    },
+    {
+        "pokemon_id": 177,
+        "primary_color": "#84CD53"
+    },
+    {
+        "pokemon_id": 178,
+        "primary_color": "#84CD53"
+    },
+    {
+        "pokemon_id": 179,
+        "primary_color": "#F6EEC5"
+    },
+    {
+        "pokemon_id": 180,
+        "primary_color": "#E69DB4"
+    },
+    {
+        "pokemon_id": 181,
+        "primary_color": "#F6DE7C"
+    },
+    {
+        "pokemon_id": 182,
+        "primary_color": "#69A571"
+    },
+    {
+        "pokemon_id": 183,
+        "primary_color": "#63B4E6"
+    },
+    {
+        "pokemon_id": 184,
+        "primary_color": "#539DCD"
+    },
+    {
+        "pokemon_id": 185,
+        "primary_color": "#B18675"
+    },
+    {
+        "pokemon_id": 186,
+        "primary_color": "#8bcd5a"
+    },
+    {
+        "pokemon_id": 187,
+        "primary_color": "#F7ABBA"
+    },
+    {
+        "pokemon_id": 188,
+        "primary_color": "#84C553"
+    },
+    {
+        "pokemon_id": 189,
+        "primary_color": "#758FC8"
+    },
+    {
+        "pokemon_id": 190,
+        "primary_color": "#A279B5"
+    },
+    {
+        "pokemon_id": 191,
+        "primary_color": "#E6D96E"
+    },
+    {
+        "pokemon_id": 192,
+        "primary_color": "#84C574"
+    },
+    {
+        "pokemon_id": 193,
+        "primary_color": "#CD5B4B"
+    },
+    {
+        "pokemon_id": 194,
+        "primary_color": "#9ACFE3"
+    },
+    {
+        "pokemon_id": 195,
+        "primary_color": "#9ACFE3"
+    },
+    {
+        "pokemon_id": 196,
+        "primary_color": "#d7b6d3"
+    },
+    {
+        "pokemon_id": 197,
+        "primary_color": "#697585"
+    },
+    {
+        "pokemon_id": 198,
+        "primary_color": "#3B5874"
+    },
+    {
+        "pokemon_id": 199,
+        "primary_color": "#f1a5a6"
+    },
+    {
+        "pokemon_id": 200,
+        "primary_color": "#618A9E"
+    },
+    {
+        "pokemon_id": 201,
+        "primary_color": "#556673"
+    },
+    {
+        "pokemon_id": 202,
+        "primary_color": "#61B3D5"
+    },
+    {
+        "pokemon_id": 203,
+        "primary_color": "#EEB02F"
+    },
+    {
+        "pokemon_id": 204,
+        "primary_color": "#92B0A5"
+    },
+    {
+        "pokemon_id": 205,
+        "primary_color": "#AE2B29"
+    },
+    {
+        "pokemon_id": 206,
+        "primary_color": "#FAEC9E"
+    },
+    {
+        "pokemon_id": 207,
+        "primary_color": "#B26F92"
+    },
+    {
+        "pokemon_id": 208,
+        "primary_color": "#a4acc5"
+    },
+    {
+        "pokemon_id": 209,
+        "primary_color": "#EF92A0"
+    },
+    {
+        "pokemon_id": 210,
+        "primary_color": "#E4BDD8"
+    },
+    {
+        "pokemon_id": 211,
+        "primary_color": "#477875"
+    },
+    {
+        "pokemon_id": 212,
+        "primary_color": "#bd4f5a"
+    },
+    {
+        "pokemon_id": 213,
+        "primary_color": "#EECD53"
+    },
+    {
+        "pokemon_id": 214,
+        "primary_color": "#6184A7"
+    },
+    {
+        "pokemon_id": 215,
+        "primary_color": "#7C9DAD"
+    },
+    {
+        "pokemon_id": 216,
+        "primary_color": "#DB915F"
+    },
+    {
+        "pokemon_id": 217,
+        "primary_color": "#966D5D"
+    },
+    {
+        "pokemon_id": 218,
+        "primary_color": "#DE6B63"
+    },
+    {
+        "pokemon_id": 219,
+        "primary_color": "#D55B63"
+    },
+    {
+        "pokemon_id": 220,
+        "primary_color": "#AC8B79"
+    },
+    {
+        "pokemon_id": 221,
+        "primary_color": "#AA806E"
+    },
+    {
+        "pokemon_id": 222,
+        "primary_color": "#EF8FA5"
+    },
+    {
+        "pokemon_id": 223,
+        "primary_color": "#B4CDBD"
+    },
+    {
+        "pokemon_id": 224,
+        "primary_color": "#DE5353"
+    },
+    {
+        "pokemon_id": 225,
+        "primary_color": "#C54242"
+    },
+    {
+        "pokemon_id": 226,
+        "primary_color": "#E4D1E5"
+    },
+    {
+        "pokemon_id": 227,
+        "primary_color": "#CDD5EE"
+    },
+    {
+        "pokemon_id": 228,
+        "primary_color": "#747170"
+    },
+    {
+        "pokemon_id": 229,
+        "primary_color": "#747170"
+    },
+    {
+        "pokemon_id": 230,
+        "primary_color": "#73b4de"
+    },
+    {
+        "pokemon_id": 231,
+        "primary_color": "#9CD3D4"
+    },
+    {
+        "pokemon_id": 232,
+        "primary_color": "#C7D7E4"
+    },
+    {
+        "pokemon_id": 233,
+        "primary_color": "#d85476"
+    },
+    {
+        "pokemon_id": 234,
+        "primary_color": "#BE977D"
+    },
+    {
+        "pokemon_id": 235,
+        "primary_color": "#E4D7C6"
+    },
+    {
+        "pokemon_id": 236,
+        "primary_color": "#d6bbd3"
+    },
+    {
+        "pokemon_id": 237,
+        "primary_color": "#739cc5"
+    },
+    {
+        "pokemon_id": 238,
+        "primary_color": "#cc74a0"
+    },
+    {
+        "pokemon_id": 239,
+        "primary_color": "#f6de83"
+    },
+    {
+        "pokemon_id": 240,
+        "primary_color": "#de7b83"
+    },
+    {
+        "pokemon_id": 241,
+        "primary_color": "#F7B7BE"
+    },
+    {
+        "pokemon_id": 242,
+        "primary_color": "#f6a4bd"
+    },
+    {
+        "pokemon_id": 243,
+        "primary_color": "#F7CE56"
+    },
+    {
+        "pokemon_id": 244,
+        "primary_color": "#9D5E35"
+    },
+    {
+        "pokemon_id": 245,
+        "primary_color": "#87BFC2"
+    },
+    {
+        "pokemon_id": 246,
+        "primary_color": "#959C72"
+    },
+    {
+        "pokemon_id": 247,
+        "primary_color": "#9EB0D4"
+    },
+    {
+        "pokemon_id": 248,
+        "primary_color": "#A3B58D"
+    },
+    {
+        "pokemon_id": 249,
+        "primary_color": "#9AB0D8"
+    },
+    {
+        "pokemon_id": 250,
+        "primary_color": "#EE5035"
+    },
+    {
+        "pokemon_id": 251,
+        "primary_color": "#84A56A"
+    },
+    {
+        "pokemon_id": 252,
+        "primary_color": "#DCECC8"
+    },
+    {
+        "pokemon_id": 253,
+        "primary_color": "#B3D9B0"
+    },
+    {
+        "pokemon_id": 254,
+        "primary_color": "#8FC993"
+    },
+    {
+        "pokemon_id": 255,
+        "primary_color": "#F1A244"
+    },
+    {
+        "pokemon_id": 256,
+        "primary_color": "#F7DD93"
+    },
+    {
+        "pokemon_id": 257,
+        "primary_color": "#D25F4A"
+    },
+    {
+        "pokemon_id": 258,
+        "primary_color": "#63B4DE"
+    },
+    {
+        "pokemon_id": 259,
+        "primary_color": "#84CDCD"
+    },
+    {
+        "pokemon_id": 260,
+        "primary_color": "#84B4DE"
+    },
+    {
+        "pokemon_id": 261,
+        "primary_color": "#686767"
+    },
+    {
+        "pokemon_id": 262,
+        "primary_color": "#686767"
+    },
+    {
+        "pokemon_id": 263,
+        "primary_color": "#9E8E80"
+    },
+    {
+        "pokemon_id": 264,
+        "primary_color": "#9E8E80"
+    },
+    {
+        "pokemon_id": 265,
+        "primary_color": "#DD6377"
+    },
+    {
+        "pokemon_id": 266,
+        "primary_color": "#E6EEF6"
+    },
+    {
+        "pokemon_id": 267,
+        "primary_color": "#E2DEE1"
+    },
+    {
+        "pokemon_id": 268,
+        "primary_color": "#D5C5EE"
+    },
+    {
+        "pokemon_id": 269,
+        "primary_color": "#A889BC"
+    },
+    {
+        "pokemon_id": 270,
+        "primary_color": "#469AB6"
+    },
+    {
+        "pokemon_id": 271,
+        "primary_color": "#B9DBC9"
+    },
+    {
+        "pokemon_id": 272,
+        "primary_color": "#E7D2A8"
+    },
+    {
+        "pokemon_id": 273,
+        "primary_color": "#9B897B"
+    },
+    {
+        "pokemon_id": 274,
+        "primary_color": "#906F63"
+    },
+    {
+        "pokemon_id": 275,
+        "primary_color": "#AE8871"
+    },
+    {
+        "pokemon_id": 276,
+        "primary_color": "#586182"
+    },
+    {
+        "pokemon_id": 277,
+        "primary_color": "#586182"
+    },
+    {
+        "pokemon_id": 278,
+        "primary_color": "#7CC5DE"
+    },
+    {
+        "pokemon_id": 279,
+        "primary_color": "#FFE6AD"
+    },
+    {
+        "pokemon_id": 280,
+        "primary_color": "#9DD59D"
+    },
+    {
+        "pokemon_id": 281,
+        "primary_color": "#9DD59D"
+    },
+    {
+        "pokemon_id": 282,
+        "primary_color": "#9DD59D"
+    },
+    {
+        "pokemon_id": 283,
+        "primary_color": "#84D5EE"
+    },
+    {
+        "pokemon_id": 284,
+        "primary_color": "#E2EEF3"
+    },
+    {
+        "pokemon_id": 285,
+        "primary_color": "#DDCEBB"
+    },
+    {
+        "pokemon_id": 286,
+        "primary_color": "#7BA678"
+    },
+    {
+        "pokemon_id": 287,
+        "primary_color": "#CFC7BD"
+    },
+    {
+        "pokemon_id": 288,
+        "primary_color": "#DADCDE"
+    },
+    {
+        "pokemon_id": 289,
+        "primary_color": "#A9988C"
+    },
+    {
+        "pokemon_id": 290,
+        "primary_color": "#D3DCEA"
+    },
+    {
+        "pokemon_id": 291,
+        "primary_color": "#FBDE89"
+    },
+    {
+        "pokemon_id": 292,
+        "primary_color": "#EDD097"
+    },
+    {
+        "pokemon_id": 293,
+        "primary_color": "#D9C5DB"
+    },
+    {
+        "pokemon_id": 294,
+        "primary_color": "#848CC5"
+    },
+    {
+        "pokemon_id": 295,
+        "primary_color": "#9BA5CE"
+    },
+    {
+        "pokemon_id": 296,
+        "primary_color": "#FFE69D"
+    },
+    {
+        "pokemon_id": 297,
+        "primary_color": "#606B96"
+    },
+    {
+        "pokemon_id": 298,
+        "primary_color": "#63B4E6"
+    },
+    {
+        "pokemon_id": 299,
+        "primary_color": "#6478B5"
+    },
+    {
+        "pokemon_id": 300,
+        "primary_color": "#F3AEB4"
+    },
+    {
+        "pokemon_id": 301,
+        "primary_color": "#A67AB3"
+    },
+    {
+        "pokemon_id": 302,
+        "primary_color": "#7971B4"
+    },
+    {
+        "pokemon_id": 303,
+        "primary_color": "#FFE69D"
+    },
+    {
+        "pokemon_id": 304,
+        "primary_color": "#CFD8DC"
+    },
+    {
+        "pokemon_id": 305,
+        "primary_color": "#CFD8DC"
+    },
+    {
+        "pokemon_id": 306,
+        "primary_color": "#CFD8DC"
+    },
+    {
+        "pokemon_id": 307,
+        "primary_color": "#6BC5E6"
+    },
+    {
+        "pokemon_id": 308,
+        "primary_color": "#D56B95"
+    },
+    {
+        "pokemon_id": 309,
+        "primary_color": "#9FC595"
+    },
+    {
+        "pokemon_id": 310,
+        "primary_color": "#7CADC3"
+    },
+    {
+        "pokemon_id": 311,
+        "primary_color": "#D75B6E"
+    },
+    {
+        "pokemon_id": 312,
+        "primary_color": "#D75B6E"
+    },
+    {
+        "pokemon_id": 313,
+        "primary_color": "#DB5962"
+    },
+    {
+        "pokemon_id": 314,
+        "primary_color": "#A084B9"
+    },
+    {
+        "pokemon_id": 315,
+        "primary_color": "#9DD59D"
+    },
+    {
+        "pokemon_id": 316,
+        "primary_color": "#9AC59D"
+    },
+    {
+        "pokemon_id": 317,
+        "primary_color": "#9D92C6"
+    },
+    {
+        "pokemon_id": 318,
+        "primary_color": "#EED58C"
+    },
+    {
+        "pokemon_id": 319,
+        "primary_color": "#0381BB"
+    },
+    {
+        "pokemon_id": 320,
+        "primary_color": "#135F96"
+    },
+    {
+        "pokemon_id": 321,
+        "primary_color": "#63ADDE"
+    },
+    {
+        "pokemon_id": 322,
+        "primary_color": "#F7D88D"
+    },
+    {
+        "pokemon_id": 323,
+        "primary_color": "#E68C7C"
+    },
+    {
+        "pokemon_id": 324,
+        "primary_color": "#E69379"
+    },
+    {
+        "pokemon_id": 325,
+        "primary_color": "#999EA2"
+    },
+    {
+        "pokemon_id": 326,
+        "primary_color": "#C6B3D5"
+    },
+    {
+        "pokemon_id": 327,
+        "primary_color": "#CD747C"
+    },
+    {
+        "pokemon_id": 328,
+        "primary_color": "#EF947C"
+    },
+    {
+        "pokemon_id": 329,
+        "primary_color": "#6DB771"
+    },
+    {
+        "pokemon_id": 330,
+        "primary_color": "#ADCD95"
+    },
+    {
+        "pokemon_id": 331,
+        "primary_color": "#8EB372"
+    },
+    {
+        "pokemon_id": 332,
+        "primary_color": "#BDDEB4"
+    },
+    {
+        "pokemon_id": 333,
+        "primary_color": "#6CBCE4"
+    },
+    {
+        "pokemon_id": 334,
+        "primary_color": "#23B3D7"
+    },
+    {
+        "pokemon_id": 335,
+        "primary_color": "#DF5C69"
+    },
+    {
+        "pokemon_id": 336,
+        "primary_color": "#516378"
+    },
+    {
+        "pokemon_id": 337,
+        "primary_color": "#C6BA90"
+    },
+    {
+        "pokemon_id": 338,
+        "primary_color": "#E69D75"
+    },
+    {
+        "pokemon_id": 339,
+        "primary_color": "#7DC3E8"
+    },
+    {
+        "pokemon_id": 340,
+        "primary_color": "#62699C"
+    },
+    {
+        "pokemon_id": 341,
+        "primary_color": "#EE8258"
+    },
+    {
+        "pokemon_id": 342,
+        "primary_color": "#BD5851"
+    },
+    {
+        "pokemon_id": 343,
+        "primary_color": "#D9CFA1"
+    },
+    {
+        "pokemon_id": 344,
+        "primary_color": "#737272"
+    },
+    {
+        "pokemon_id": 345,
+        "primary_color": "#8673AD"
+    },
+    {
+        "pokemon_id": 346,
+        "primary_color": "#A8D4A9"
+    },
+    {
+        "pokemon_id": 347,
+        "primary_color": "#94AA91"
+    },
+    {
+        "pokemon_id": 348,
+        "primary_color": "#99B3D2"
+    },
+    {
+        "pokemon_id": 349,
+        "primary_color": "#DEC79D"
+    },
+    {
+        "pokemon_id": 350,
+        "primary_color": "#E57A80"
+    },
+    {
+        "pokemon_id": 351,
+        "primary_color": "#BEBDC4"
+    },
+    {
+        "pokemon_id": 352,
+        "primary_color": "#ADCA76"
+    },
+    {
+        "pokemon_id": 353,
+        "primary_color": "#9094B5"
+    },
+    {
+        "pokemon_id": 354,
+        "primary_color": "#969595"
+    },
+    {
+        "pokemon_id": 355,
+        "primary_color": "#989A95"
+    },
+    {
+        "pokemon_id": 356,
+        "primary_color": "#C0BFBE"
+    },
+    {
+        "pokemon_id": 357,
+        "primary_color": "#AA937F"
+    },
+    {
+        "pokemon_id": 358,
+        "primary_color": "#CDDCF2"
+    },
+    {
+        "pokemon_id": 359,
+        "primary_color": "#97A9CA"
+    },
+    {
+        "pokemon_id": 360,
+        "primary_color": "#7EC7CF"
+    },
+    {
+        "pokemon_id": 361,
+        "primary_color": "#EE9767"
+    },
+    {
+        "pokemon_id": 362,
+        "primary_color": "#C1C4DA"
+    },
+    {
+        "pokemon_id": 363,
+        "primary_color": "#6E8FC8"
+    },
+    {
+        "pokemon_id": 364,
+        "primary_color": "#7AC4EC"
+    },
+    {
+        "pokemon_id": 365,
+        "primary_color": "#469AB9"
+    },
+    {
+        "pokemon_id": 366,
+        "primary_color": "#F1ACB1"
+    },
+    {
+        "pokemon_id": 367,
+        "primary_color": "#F0AA73"
+    },
+    {
+        "pokemon_id": 368,
+        "primary_color": "#B189B6"
+    },
+    {
+        "pokemon_id": 369,
+        "primary_color": "#5E5859"
+    },
+    {
+        "pokemon_id": 370,
+        "primary_color": "#D09098"
+    },
+    {
+        "pokemon_id": 371,
+        "primary_color": "#71A6C6"
+    },
+    {
+        "pokemon_id": 372,
+        "primary_color": "#DDDCDC"
+    },
+    {
+        "pokemon_id": 373,
+        "primary_color": "#9F515F"
+    },
+    {
+        "pokemon_id": 374,
+        "primary_color": "#77A4BB"
+    },
+    {
+        "pokemon_id": 375,
+        "primary_color": "#44748D"
+    },
+    {
+        "pokemon_id": 376,
+        "primary_color": "#3B566B"
+    },
+    {
+        "pokemon_id": 377,
+        "primary_color": "#CB8F76"
+    },
+    {
+        "pokemon_id": 378,
+        "primary_color": "#5AAFC7"
+    },
+    {
+        "pokemon_id": 379,
+        "primary_color": "#8E919E"
+    },
+    {
+        "pokemon_id": 380,
+        "primary_color": "#E2746E"
+    },
+    {
+        "pokemon_id": 381,
+        "primary_color": "#3582B3"
+    },
+    {
+        "pokemon_id": 382,
+        "primary_color": "#0F68AE"
+    },
+    {
+        "pokemon_id": 383,
+        "primary_color": "#C53225"
+    },
+    {
+        "pokemon_id": 384,
+        "primary_color": "#3B805C"
+    },
+    {
+        "pokemon_id": 385,
+        "primary_color": "#FFE591"
+    },
+    {
+        "pokemon_id": 386,
+        "primary_color": "#B97050"
+    },
+    {
+        "pokemon_id": 387,
+        "primary_color": "#C5D095"
+    },
+    {
+        "pokemon_id": 388,
+        "primary_color": "#8CB179"
+    },
+    {
+        "pokemon_id": 389,
+        "primary_color": "#569B66"
+    },
+    {
+        "pokemon_id": 390,
+        "primary_color": "#EBAD60"
+    },
+    {
+        "pokemon_id": 391,
+        "primary_color": "#E39548"
+    },
+    {
+        "pokemon_id": 392,
+        "primary_color": "#CC7A5A"
+    },
+    {
+        "pokemon_id": 393,
+        "primary_color": "#608FB6"
+    },
+    {
+        "pokemon_id": 394,
+        "primary_color": "#466792"
+    },
+    {
+        "pokemon_id": 395,
+        "primary_color": "#456A9E"
+    },
+    {
+        "pokemon_id": 396,
+        "primary_color": "#766968"
+    },
+    {
+        "pokemon_id": 397,
+        "primary_color": "#6C5E5D"
+    },
+    {
+        "pokemon_id": 398,
+        "primary_color": "#807273"
+    },
+    {
+        "pokemon_id": 399,
+        "primary_color": "#BC8B54"
+    },
+    {
+        "pokemon_id": 400,
+        "primary_color": "#B78C56"
+    },
+    {
+        "pokemon_id": 401,
+        "primary_color": "#D86952"
+    },
+    {
+        "pokemon_id": 402,
+        "primary_color": "#D86952"
+    },
+    {
+        "pokemon_id": 403,
+        "primary_color": "#90C0CF"
+    },
+    {
+        "pokemon_id": 404,
+        "primary_color": "#82BDCE"
+    },
+    {
+        "pokemon_id": 405,
+        "primary_color": "#6F98A6"
+    },
+    {
+        "pokemon_id": 406,
+        "primary_color": "#8CC86A"
+    },
+    {
+        "pokemon_id": 407,
+        "primary_color": "#73BA81"
+    },
+    {
+        "pokemon_id": 408,
+        "primary_color": "#7495BD"
+    },
+    {
+        "pokemon_id": 409,
+        "primary_color": "#638CBD"
+    },
+    {
+        "pokemon_id": 410,
+        "primary_color": "#EECD84"
+    },
+    {
+        "pokemon_id": 411,
+        "primary_color": "#89898C"
+    },
+    {
+        "pokemon_id": 412,
+        "primary_color": "#67AB49"
+    },
+    {
+        "pokemon_id": 413,
+        "primary_color": "#67AB49"
+    },
+    {
+        "pokemon_id": 414,
+        "primary_color": "#EDD176"
+    },
+    {
+        "pokemon_id": 415,
+        "primary_color": "#EEC55B"
+    },
+    {
+        "pokemon_id": 416,
+        "primary_color": "#EEC55B"
+    },
+    {
+        "pokemon_id": 417,
+        "primary_color": "#82CDD8"
+    },
+    {
+        "pokemon_id": 418,
+        "primary_color": "#E48C50"
+    },
+    {
+        "pokemon_id": 419,
+        "primary_color": "#DF8359"
+    },
+    {
+        "pokemon_id": 420,
+        "primary_color": "#E6748C"
+    },
+    {
+        "pokemon_id": 421,
+        "primary_color": "#75568D"
+    },
+    {
+        "pokemon_id": 422,
+        "primary_color": "#DE84B4"
+    },
+    {
+        "pokemon_id": 423,
+        "primary_color": "#DE84B4"
+    },
+    {
+        "pokemon_id": 424,
+        "primary_color": "#9570AF"
+    },
+    {
+        "pokemon_id": 425,
+        "primary_color": "#A081B5"
+    },
+    {
+        "pokemon_id": 426,
+        "primary_color": "#8A719C"
+    },
+    {
+        "pokemon_id": 427,
+        "primary_color": "#A97862"
+    },
+    {
+        "pokemon_id": 428,
+        "primary_color": "#725343"
+    },
+    {
+        "pokemon_id": 429,
+        "primary_color": "#83639A"
+    },
+    {
+        "pokemon_id": 430,
+        "primary_color": "#55708A"
+    },
+    {
+        "pokemon_id": 431,
+        "primary_color": "#8F98AC"
+    },
+    {
+        "pokemon_id": 432,
+        "primary_color": "#8F98AC"
+    },
+    {
+        "pokemon_id": 433,
+        "primary_color": "#E4D65A"
+    },
+    {
+        "pokemon_id": 434,
+        "primary_color": "#F6EEC5"
+    },
+    {
+        "pokemon_id": 435,
+        "primary_color": "#F6EEC5"
+    },
+    {
+        "pokemon_id": 436,
+        "primary_color": "#62A0AE"
+    },
+    {
+        "pokemon_id": 437,
+        "primary_color": "#7CC5BD"
+    },
+    {
+        "pokemon_id": 438,
+        "primary_color": "#A68967"
+    },
+    {
+        "pokemon_id": 439,
+        "primary_color": "#f6dee6"
+    },
+    {
+        "pokemon_id": 440,
+        "primary_color": "#f6dede"
+    },
+    {
+        "pokemon_id": 441,
+        "primary_color": "#5087B9"
+    },
+    {
+        "pokemon_id": 442,
+        "primary_color": "#D59DB4"
+    },
+    {
+        "pokemon_id": 443,
+        "primary_color": "#7390A2"
+    },
+    {
+        "pokemon_id": 444,
+        "primary_color": "#7378AB"
+    },
+    {
+        "pokemon_id": 445,
+        "primary_color": "#646890"
+    },
+    {
+        "pokemon_id": 446,
+        "primary_color": "#61849d"
+    },
+    {
+        "pokemon_id": 447,
+        "primary_color": "#76A2B7"
+    },
+    {
+        "pokemon_id": 448,
+        "primary_color": "#76A2B7"
+    },
+    {
+        "pokemon_id": 449,
+        "primary_color": "#CDC57C"
+    },
+    {
+        "pokemon_id": 450,
+        "primary_color": "#B5A860"
+    },
+    {
+        "pokemon_id": 451,
+        "primary_color": "#8C8EC1"
+    },
+    {
+        "pokemon_id": 452,
+        "primary_color": "#B380B5"
+    },
+    {
+        "pokemon_id": 453,
+        "primary_color": "#687DBA"
+    },
+    {
+        "pokemon_id": 454,
+        "primary_color": "#687DBA"
+    },
+    {
+        "pokemon_id": 455,
+        "primary_color": "#B4D58C"
+    },
+    {
+        "pokemon_id": 456,
+        "primary_color": "#A5D5D5"
+    },
+    {
+        "pokemon_id": 457,
+        "primary_color": "#A5D5D5"
+    },
+    {
+        "pokemon_id": 458,
+        "primary_color": "#5686C1"
+    },
+    {
+        "pokemon_id": 459,
+        "primary_color": "#74A195"
+    },
+    {
+        "pokemon_id": 460,
+        "primary_color": "#74A195"
+    },
+    {
+        "pokemon_id": 461,
+        "primary_color": "#74A195"
+    },
+    {
+        "pokemon_id": 462,
+        "primary_color": "#b2c4d2"
+    },
+    {
+        "pokemon_id": 463,
+        "primary_color": "#d57b94"
+    },
+    {
+        "pokemon_id": 464,
+        "primary_color": "#8d7d82"
+    },
+    {
+        "pokemon_id": 465,
+        "primary_color": "#708db2"
+    },
+    {
+        "pokemon_id": 466,
+        "primary_color": "#ecd383"
+    },
+    {
+        "pokemon_id": 467,
+        "primary_color": "#d95e48"
+    },
+    {
+        "pokemon_id": 468,
+        "primary_color": "#D9EDE9"
+    },
+    {
+        "pokemon_id": 469,
+        "primary_color": "#637C49"
+    },
+    {
+        "pokemon_id": 470,
+        "primary_color": "#7cca99"
+    },
+    {
+        "pokemon_id": 471,
+        "primary_color": "#62afc2"
+    },
+    {
+        "pokemon_id": 472,
+        "primary_color": "#9FA3C6"
+    },
+    {
+        "pokemon_id": 473,
+        "primary_color": "#956D47"
+    },
+    {
+        "pokemon_id": 474,
+        "primary_color": "#d55a73"
+    },
+    {
+        "pokemon_id": 475,
+        "primary_color": "#479A62"
+    },
+    {
+        "pokemon_id": 476,
+        "primary_color": "#C56B74"
+    },
+    {
+        "pokemon_id": 477,
+        "primary_color": "#77746F"
+    },
+    {
+        "pokemon_id": 478,
+        "primary_color": "#ADD5DE"
+    },
+    {
+        "pokemon_id": 479,
+        "primary_color": "#E97F5D"
+    },
+    {
+        "pokemon_id": 480,
+        "primary_color": "#EBCD80"
+    },
+    {
+        "pokemon_id": 481,
+        "primary_color": "#D887B0"
+    },
+    {
+        "pokemon_id": 482,
+        "primary_color": "#6FABBE"
+    },
+    {
+        "pokemon_id": 483,
+        "primary_color": "#5A6788"
+    },
+    {
+        "pokemon_id": 484,
+        "primary_color": "#A260A7"
+    },
+    {
+        "pokemon_id": 485,
+        "primary_color": "#B3B3B5"
+    },
+    {
+        "pokemon_id": 486,
+        "primary_color": "#DCDDE0"
+    },
+    {
+        "pokemon_id": 487,
+        "primary_color": "#B3B3B5"
+    },
+    {
+        "pokemon_id": 488,
+        "primary_color": "#D59DB4"
+    },
+    {
+        "pokemon_id": 489,
+        "primary_color": "#74BDCD"
+    },
+    {
+        "pokemon_id": 490,
+        "primary_color": "#74BDCD"
+    },
+    {
+        "pokemon_id": 491,
+        "primary_color": "#6E6D6C"
+    },
+    {
+        "pokemon_id": 492,
+        "primary_color": "#94C06B"
+    },
+    {
+        "pokemon_id": 493,
+        "primary_color": "#D7D6D6"
+    },
+    {
+        "pokemon_id": 494,
+        "primary_color": "#E9763B"
+    },
+    {
+        "pokemon_id": 495,
+        "primary_color": "#5FB558"
+    },
+    {
+        "pokemon_id": 496,
+        "primary_color": "#5FB558"
+    },
+    {
+        "pokemon_id": 497,
+        "primary_color": "#068C4E"
+    },
+    {
+        "pokemon_id": 498,
+        "primary_color": "#E99555"
+    },
+    {
+        "pokemon_id": 499,
+        "primary_color": "#E28340"
+    },
+    {
+        "pokemon_id": 500,
+        "primary_color": "#E15E54"
+    },
+    {
+        "pokemon_id": 501,
+        "primary_color": "#87CDC9"
+    },
+    {
+        "pokemon_id": 502,
+        "primary_color": "#98D2DE"
+    },
+    {
+        "pokemon_id": 503,
+        "primary_color": "#4375B3"
+    },
+    {
+        "pokemon_id": 504,
+        "primary_color": "#B58F58"
+    },
+    {
+        "pokemon_id": 505,
+        "primary_color": "#98483E"
+    },
+    {
+        "pokemon_id": 506,
+        "primary_color": "#D29478"
+    },
+    {
+        "pokemon_id": 507,
+        "primary_color": "#D29478"
+    },
+    {
+        "pokemon_id": 508,
+        "primary_color": "#FFEECD"
+    },
+    {
+        "pokemon_id": 509,
+        "primary_color": "#7F6692"
+    },
+    {
+        "pokemon_id": 510,
+        "primary_color": "#7F6692"
+    },
+    {
+        "pokemon_id": 511,
+        "primary_color": "#5BB47A"
+    },
+    {
+        "pokemon_id": 512,
+        "primary_color": "#5BB47A"
+    },
+    {
+        "pokemon_id": 513,
+        "primary_color": "#DC7072"
+    },
+    {
+        "pokemon_id": 514,
+        "primary_color": "#DE7268"
+    },
+    {
+        "pokemon_id": 515,
+        "primary_color": "#5EBDD9"
+    },
+    {
+        "pokemon_id": 516,
+        "primary_color": "#5EBDD9"
+    },
+    {
+        "pokemon_id": 517,
+        "primary_color": "#F6CDD5"
+    },
+    {
+        "pokemon_id": 518,
+        "primary_color": "#9784BD"
+    },
+    {
+        "pokemon_id": 519,
+        "primary_color": "#A2A1A3"
+    },
+    {
+        "pokemon_id": 520,
+        "primary_color": "#ABACAE"
+    },
+    {
+        "pokemon_id": 521,
+        "primary_color": "#989A9E"
+    },
+    {
+        "pokemon_id": 522,
+        "primary_color": "#E9E5DF"
+    },
+    {
+        "pokemon_id": 523,
+        "primary_color": "#CECAC8"
+    },
+    {
+        "pokemon_id": 524,
+        "primary_color": "#647190"
+    },
+    {
+        "pokemon_id": 525,
+        "primary_color": "#647190"
+    },
+    {
+        "pokemon_id": 526,
+        "primary_color": "#595A7C"
+    },
+    {
+        "pokemon_id": 527,
+        "primary_color": "#BDDEEE"
+    },
+    {
+        "pokemon_id": 528,
+        "primary_color": "#4B80BE"
+    },
+    {
+        "pokemon_id": 529,
+        "primary_color": "#70718A"
+    },
+    {
+        "pokemon_id": 530,
+        "primary_color": "#99565F"
+    },
+    {
+        "pokemon_id": 531,
+        "primary_color": "#F2A5AF"
+    },
+    {
+        "pokemon_id": 532,
+        "primary_color": "#E6788D"
+    },
+    {
+        "pokemon_id": 533,
+        "primary_color": "#D485B5"
+    },
+    {
+        "pokemon_id": 534,
+        "primary_color": "#BB7FA1"
+    },
+    {
+        "pokemon_id": 535,
+        "primary_color": "#F6DEAD"
+    },
+    {
+        "pokemon_id": 536,
+        "primary_color": "#3A87C4"
+    },
+    {
+        "pokemon_id": 537,
+        "primary_color": "#A5DED5"
+    },
+    {
+        "pokemon_id": 538,
+        "primary_color": "#C5635B"
+    },
+    {
+        "pokemon_id": 539,
+        "primary_color": "#4D88C3"
+    },
+    {
+        "pokemon_id": 540,
+        "primary_color": "#F4D071"
+    },
+    {
+        "pokemon_id": 541,
+        "primary_color": "#97C436"
+    },
+    {
+        "pokemon_id": 542,
+        "primary_color": "#97C436"
+    },
+    {
+        "pokemon_id": 543,
+        "primary_color": "#C55B6B"
+    },
+    {
+        "pokemon_id": 544,
+        "primary_color": "#A29DB3"
+    },
+    {
+        "pokemon_id": 545,
+        "primary_color": "#B64961"
+    },
+    {
+        "pokemon_id": 546,
+        "primary_color": "#E6F6E6"
+    },
+    {
+        "pokemon_id": 547,
+        "primary_color": "#F6F6D5"
+    },
+    {
+        "pokemon_id": 548,
+        "primary_color": "#D5E684"
+    },
+    {
+        "pokemon_id": 549,
+        "primary_color": "#CDE69D"
+    },
+    {
+        "pokemon_id": 550,
+        "primary_color": "#69B073"
+    },
+    {
+        "pokemon_id": 551,
+        "primary_color": "#C7A880"
+    },
+    {
+        "pokemon_id": 552,
+        "primary_color": "#C7A880"
+    },
+    {
+        "pokemon_id": 553,
+        "primary_color": "#AF6470"
+    },
+    {
+        "pokemon_id": 554,
+        "primary_color": "#C55958"
+    },
+    {
+        "pokemon_id": 555,
+        "primary_color": "#A95353"
+    },
+    {
+        "pokemon_id": 556,
+        "primary_color": "#98CA74"
+    },
+    {
+        "pokemon_id": 557,
+        "primary_color": "#F6A563"
+    },
+    {
+        "pokemon_id": 558,
+        "primary_color": "#A18D77"
+    },
+    {
+        "pokemon_id": 559,
+        "primary_color": "#FFD574"
+    },
+    {
+        "pokemon_id": 560,
+        "primary_color": "#F4A466"
+    },
+    {
+        "pokemon_id": 561,
+        "primary_color": "#FFC563"
+    },
+    {
+        "pokemon_id": 562,
+        "primary_color": "#EECD8C"
+    },
+    {
+        "pokemon_id": 563,
+        "primary_color": "#FFD57C"
+    },
+    {
+        "pokemon_id": 564,
+        "primary_color": "#95BDE6"
+    },
+    {
+        "pokemon_id": 565,
+        "primary_color": "#6BA5D5"
+    },
+    {
+        "pokemon_id": 566,
+        "primary_color": "#FFD595"
+    },
+    {
+        "pokemon_id": 567,
+        "primary_color": "#FFD595"
+    },
+    {
+        "pokemon_id": 568,
+        "primary_color": "#67856D"
+    },
+    {
+        "pokemon_id": 569,
+        "primary_color": "#B7AA93"
+    },
+    {
+        "pokemon_id": 570,
+        "primary_color": "#645D73"
+    },
+    {
+        "pokemon_id": 571,
+        "primary_color": "#6C6672"
+    },
+    {
+        "pokemon_id": 572,
+        "primary_color": "#D1CCCB"
+    },
+    {
+        "pokemon_id": 573,
+        "primary_color": "#D1CCCB"
+    },
+    {
+        "pokemon_id": 574,
+        "primary_color": "#CAA6CC"
+    },
+    {
+        "pokemon_id": 575,
+        "primary_color": "#CAA6CC"
+    },
+    {
+        "pokemon_id": 576,
+        "primary_color": "#CAA6CC"
+    },
+    {
+        "pokemon_id": 577,
+        "primary_color": "#DBE6BF"
+    },
+    {
+        "pokemon_id": 578,
+        "primary_color": "#DAEACB"
+    },
+    {
+        "pokemon_id": 579,
+        "primary_color": "#DAEACB"
+    },
+    {
+        "pokemon_id": 580,
+        "primary_color": "#B9E0DE"
+    },
+    {
+        "pokemon_id": 581,
+        "primary_color": "#EEF6E6"
+    },
+    {
+        "pokemon_id": 582,
+        "primary_color": "#BBE1F7"
+    },
+    {
+        "pokemon_id": 583,
+        "primary_color": "#88C0E8"
+    },
+    {
+        "pokemon_id": 584,
+        "primary_color": "#78AFDA"
+    },
+    {
+        "pokemon_id": 585,
+        "primary_color": "#DC95A6"
+    },
+    {
+        "pokemon_id": 586,
+        "primary_color": "#81664C"
+    },
+    {
+        "pokemon_id": 587,
+        "primary_color": "#FFE66B"
+    },
+    {
+        "pokemon_id": 588,
+        "primary_color": "#2B83C6"
+    },
+    {
+        "pokemon_id": 589,
+        "primary_color": "#CCC7C1"
+    },
+    {
+        "pokemon_id": 590,
+        "primary_color": "#F4EFE7"
+    },
+    {
+        "pokemon_id": 591,
+        "primary_color": "#CBD4C3"
+    },
+    {
+        "pokemon_id": 592,
+        "primary_color": "#ADD5DE"
+    },
+    {
+        "pokemon_id": 593,
+        "primary_color": "#7CCDF6"
+    },
+    {
+        "pokemon_id": 594,
+        "primary_color": "#DE84A5"
+    },
+    {
+        "pokemon_id": 595,
+        "primary_color": "#F6DE6B"
+    },
+    {
+        "pokemon_id": 596,
+        "primary_color": "#FFDE7C"
+    },
+    {
+        "pokemon_id": 597,
+        "primary_color": "#BCBDC3"
+    },
+    {
+        "pokemon_id": 598,
+        "primary_color": "#5AAC76"
+    },
+    {
+        "pokemon_id": 599,
+        "primary_color": "#BABDCE"
+    },
+    {
+        "pokemon_id": 600,
+        "primary_color": "#ABABAD"
+    },
+    {
+        "pokemon_id": 601,
+        "primary_color": "#C6CBDA"
+    },
+    {
+        "pokemon_id": 602,
+        "primary_color": "#E9F5F5"
+    },
+    {
+        "pokemon_id": 603,
+        "primary_color": "#556D8E"
+    },
+    {
+        "pokemon_id": 604,
+        "primary_color": "#556D8E"
+    },
+    {
+        "pokemon_id": 605,
+        "primary_color": "#A5DED5"
+    },
+    {
+        "pokemon_id": 606,
+        "primary_color": "#CBA393"
+    },
+    {
+        "pokemon_id": 607,
+        "primary_color": "#95A5CD"
+    },
+    {
+        "pokemon_id": 608,
+        "primary_color": "#95A5CD"
+    },
+    {
+        "pokemon_id": 609,
+        "primary_color": "#7B78B7"
+    },
+    {
+        "pokemon_id": 610,
+        "primary_color": "#CDDEAD"
+    },
+    {
+        "pokemon_id": 611,
+        "primary_color": "#77787D"
+    },
+    {
+        "pokemon_id": 612,
+        "primary_color": "#9D9B46"
+    },
+    {
+        "pokemon_id": 613,
+        "primary_color": "#BDE6F6"
+    },
+    {
+        "pokemon_id": 614,
+        "primary_color": "#DAE5ED"
+    },
+    {
+        "pokemon_id": 615,
+        "primary_color": "#6382B7"
+    },
+    {
+        "pokemon_id": 616,
+        "primary_color": "#CDC8BE"
+    },
+    {
+        "pokemon_id": 617,
+        "primary_color": "#8494B3"
+    },
+    {
+        "pokemon_id": 618,
+        "primary_color": "#D79B6D"
+    },
+    {
+        "pokemon_id": 619,
+        "primary_color": "#DD7288"
+    },
+    {
+        "pokemon_id": 620,
+        "primary_color": "#C1AAD0"
+    },
+    {
+        "pokemon_id": 621,
+        "primary_color": "#127DA2"
+    },
+    {
+        "pokemon_id": 622,
+        "primary_color": "#7BBABD"
+    },
+    {
+        "pokemon_id": 623,
+        "primary_color": "#7BBABD"
+    },
+    {
+        "pokemon_id": 624,
+        "primary_color": "#A34A4C"
+    },
+    {
+        "pokemon_id": 625,
+        "primary_color": "#A34A4C"
+    },
+    {
+        "pokemon_id": 626,
+        "primary_color": "#9A743E"
+    },
+    {
+        "pokemon_id": 627,
+        "primary_color": "#F6F6E6"
+    },
+    {
+        "pokemon_id": 628,
+        "primary_color": "#797284"
+    },
+    {
+        "pokemon_id": 629,
+        "primary_color": "#6D625E"
+    },
+    {
+        "pokemon_id": 630,
+        "primary_color": "#6D625E"
+    },
+    {
+        "pokemon_id": 631,
+        "primary_color": "#B4594D"
+    },
+    {
+        "pokemon_id": 632,
+        "primary_color": "#B1B0B0"
+    },
+    {
+        "pokemon_id": 633,
+        "primary_color": "#6B8CBD"
+    },
+    {
+        "pokemon_id": 634,
+        "primary_color": "#6B8CBD"
+    },
+    {
+        "pokemon_id": 635,
+        "primary_color": "#6B8CBD"
+    },
+    {
+        "pokemon_id": 636,
+        "primary_color": "#E1E1E2"
+    },
+    {
+        "pokemon_id": 637,
+        "primary_color": "#EC824D"
+    },
+    {
+        "pokemon_id": 638,
+        "primary_color": "#299CB0"
+    },
+    {
+        "pokemon_id": 639,
+        "primary_color": "#B4B5B7"
+    },
+    {
+        "pokemon_id": 640,
+        "primary_color": "#A9D06B"
+    },
+    {
+        "pokemon_id": 641,
+        "primary_color": "#6EAB60"
+    },
+    {
+        "pokemon_id": 642,
+        "primary_color": "#8ACEF0"
+    },
+    {
+        "pokemon_id": 643,
+        "primary_color": "#D6E1E9"
+    },
+    {
+        "pokemon_id": 644,
+        "primary_color": "#646F6F"
+    },
+    {
+        "pokemon_id": 645,
+        "primary_color": "#F09753"
+    },
+    {
+        "pokemon_id": 646,
+        "primary_color": "#817D7B"
+    },
+    {
+        "pokemon_id": 647,
+        "primary_color": "#FFF8B4"
+    },
+    {
+        "pokemon_id": 648,
+        "primary_color": "#D9E9B9"
+    },
+    {
+        "pokemon_id": 649,
+        "primary_color": "#9B71AF"
+    },
+    {
+        "pokemon_id": 650,
+        "primary_color": "#A8CE64"
+    },
+    {
+        "pokemon_id": 651,
+        "primary_color": "#A8CE64"
+    },
+    {
+        "pokemon_id": 652,
+        "primary_color": "#83C16F"
+    },
+    {
+        "pokemon_id": 653,
+        "primary_color": "#FCE77D"
+    },
+    {
+        "pokemon_id": 654,
+        "primary_color": "#FCE77D"
+    },
+    {
+        "pokemon_id": 655,
+        "primary_color": "#D85C3A"
+    },
+    {
+        "pokemon_id": 656,
+        "primary_color": "#53B8E9"
+    },
+    {
+        "pokemon_id": 657,
+        "primary_color": "#53B8E9"
+    },
+    {
+        "pokemon_id": 658,
+        "primary_color": "#53B8E9"
+    },
+    {
+        "pokemon_id": 659,
+        "primary_color": "#AEAFB1"
+    },
+    {
+        "pokemon_id": 660,
+        "primary_color": "#876745"
+    },
+    {
+        "pokemon_id": 661,
+        "primary_color": "#EE8659"
+    },
+    {
+        "pokemon_id": 662,
+        "primary_color": "#EC734A"
+    },
+    {
+        "pokemon_id": 663,
+        "primary_color": "#EC734A"
+    },
+    {
+        "pokemon_id": 664,
+        "primary_color": "#85817E"
+    },
+    {
+        "pokemon_id": 665,
+        "primary_color": "#EFEDEB"
+    },
+    {
+        "pokemon_id": 666,
+        "primary_color": "#B2B1B8"
+    },
+    {
+        "pokemon_id": 667,
+        "primary_color": "#D9B27F"
+    },
+    {
+        "pokemon_id": 668,
+        "primary_color": "#E25735"
+    },
+    {
+        "pokemon_id": 669,
+        "primary_color": "#E68C84"
+    },
+    {
+        "pokemon_id": 670,
+        "primary_color": "#0AA587"
+    },
+    {
+        "pokemon_id": 671,
+        "primary_color": "#0AA587"
+    },
+    {
+        "pokemon_id": 672,
+        "primary_color": "#74665D"
+    },
+    {
+        "pokemon_id": 673,
+        "primary_color": "#8A612E"
+    },
+    {
+        "pokemon_id": 674,
+        "primary_color": "#737783"
+    },
+    {
+        "pokemon_id": 675,
+        "primary_color": "#737783"
+    },
+    {
+        "pokemon_id": 676,
+        "primary_color": "#EEF6E6"
+    },
+    {
+        "pokemon_id": 677,
+        "primary_color": "#A2A4B8"
+    },
+    {
+        "pokemon_id": 678,
+        "primary_color": "#4B629A"
+    },
+    {
+        "pokemon_id": 679,
+        "primary_color": "#ADD5E6"
+    },
+    {
+        "pokemon_id": 680,
+        "primary_color": "#E674AD"
+    },
+    {
+        "pokemon_id": 681,
+        "primary_color": "#DECD7C"
+    },
+    {
+        "pokemon_id": 682,
+        "primary_color": "#EE9DAD"
+    },
+    {
+        "pokemon_id": 683,
+        "primary_color": "#B168A7"
+    },
+    {
+        "pokemon_id": 684,
+        "primary_color": "#EED5DE"
+    },
+    {
+        "pokemon_id": 685,
+        "primary_color": "#E6BDCD"
+    },
+    {
+        "pokemon_id": 686,
+        "primary_color": "#DEA5AD"
+    },
+    {
+        "pokemon_id": 687,
+        "primary_color": "#7D7FAD"
+    },
+    {
+        "pokemon_id": 688,
+        "primary_color": "#C4C9D8"
+    },
+    {
+        "pokemon_id": 689,
+        "primary_color": "#C4C9D8"
+    },
+    {
+        "pokemon_id": 690,
+        "primary_color": "#B4D5E6"
+    },
+    {
+        "pokemon_id": 691,
+        "primary_color": "#97694E"
+    },
+    {
+        "pokemon_id": 692,
+        "primary_color": "#8CD5F6"
+    },
+    {
+        "pokemon_id": 693,
+        "primary_color": "#8CD5F6"
+    },
+    {
+        "pokemon_id": 694,
+        "primary_color": "#FFE674"
+    },
+    {
+        "pokemon_id": 695,
+        "primary_color": "#FFE674"
+    },
+    {
+        "pokemon_id": 696,
+        "primary_color": "#F69542"
+    },
+    {
+        "pokemon_id": 697,
+        "primary_color": "#A75854"
+    },
+    {
+        "pokemon_id": 698,
+        "primary_color": "#9DD5F6"
+    },
+    {
+        "pokemon_id": 699,
+        "primary_color": "#7F9DD0"
+    },
+    {
+        "pokemon_id": 700,
+        "primary_color": "#ee94a4"
+    },
+    {
+        "pokemon_id": 701,
+        "primary_color": "#CE5036"
+    },
+    {
+        "pokemon_id": 702,
+        "primary_color": "#E5A228"
+    },
+    {
+        "pokemon_id": 703,
+        "primary_color": "#999CB0"
+    },
+    {
+        "pokemon_id": 704,
+        "primary_color": "#D8CEE3"
+    },
+    {
+        "pokemon_id": 705,
+        "primary_color": "#D8CEE3"
+    },
+    {
+        "pokemon_id": 706,
+        "primary_color": "#B398C2"
+    },
+    {
+        "pokemon_id": 707,
+        "primary_color": "#CAD8E3"
+    },
+    {
+        "pokemon_id": 708,
+        "primary_color": "#A38F76"
+    },
+    {
+        "pokemon_id": 709,
+        "primary_color": "#A38F76"
+    },
+    {
+        "pokemon_id": 710,
+        "primary_color": "#E39B7E"
+    },
+    {
+        "pokemon_id": 711,
+        "primary_color": "#7B6B52"
+    },
+    {
+        "pokemon_id": 712,
+        "primary_color": "#D5EEF6"
+    },
+    {
+        "pokemon_id": 713,
+        "primary_color": "#D5EEF6"
+    },
+    {
+        "pokemon_id": 714,
+        "primary_color": "#B9A6C9"
+    },
+    {
+        "pokemon_id": 715,
+        "primary_color": "#916BB0"
+    },
+    {
+        "pokemon_id": 716,
+        "primary_color": "#6477B8"
+    },
+    {
+        "pokemon_id": 717,
+        "primary_color": "#E7553C"
+    },
+    {
+        "pokemon_id": 718,
+        "primary_color": "#92BA3F"
+    },
+    {
+        "pokemon_id": 719,
+        "primary_color": "#F5D7E7"
+    },
+    {
+        "pokemon_id": 720,
+        "primary_color": "#E55391"
+    },
+    {
+        "pokemon_id": 721,
+        "primary_color": "#9D4345"
+    }
+]
